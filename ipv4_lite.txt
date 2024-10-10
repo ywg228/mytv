@@ -18,8 +18,8 @@ CCTV-5体育,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232669
 CCTV-5体育,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233740/index.m3u8?fmt=ts2hls
 CCTV-5体育,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236438/index.m3u8?fmt=ts2hls
 CCTV-5体育,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236491/index.m3u8?fmt=ts2hls
-CCTV-5+体育赛事,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228372/index.m3u8?fmt=ts2hls
 CCTV-5+体育赛事,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229684/index.m3u8?fmt=ts2hls
+CCTV-5+体育赛事,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228372/index.m3u8?fmt=ts2hls
 CCTV-6电影,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232599/index.m3u8?fmt=ts2hls
 CCTV-6电影,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230685/index.m3u8
 CCTV-6电影,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236497/index.m3u8?fmt=ts2hls
@@ -45,8 +45,8 @@ CCTV-14少儿,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322123653
 CCTV-15音乐,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232504/index.m3u8?fmt=ts2hls
 CCTV-15音乐,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230658/index.m3u8?fmt=ts2hls
 CCTV-16奥林匹克,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232705/index.m3u8?fmt=ts2hls
-CCTV-17农业农村,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229762/index.m3u8?fmt=ts2hls
 CCTV-17农业农村,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236373/index.m3u8
+CCTV-17农业农村,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229762/index.m3u8?fmt=ts2hls
 CCTV-4K超高清,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/index.m3u8?fmt=ts2hls
 CETV-1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228285/index.m3u8?fmt=ts2hls
 CETV-2,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233746/index.m3u8?fmt=ts2hls
@@ -404,6 +404,7 @@ CETV-4,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031126/
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.flv
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
+山西卫视,http://rou.xyparty.com:8867/udp/224.30.30.96:8115
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 海南卫视,https://live3.hnntv.cn/srs/tv/lywsgq.m3u8
 三沙卫视,https://live3.hnntv.cn/srs/tv/ssws.m3u8
@@ -1273,4 +1274,5 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 梨园频道,http://p.hzzzz530.com:4022/rtp/239.69.1.33:9838
 武术世界,http://p.hzzzz530.com:4022/rtp/239.69.1.47:9922
 爱上4K,http://p.hzzzz530.com:4022/rtp/239.69.1.141:10482
+
 
