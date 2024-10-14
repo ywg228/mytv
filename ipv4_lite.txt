@@ -50,7 +50,7 @@ CCTV-17农业农村,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322
 CCTV-4K超高清,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/index.m3u8?fmt=ts2hls
 中国教育1台,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228285/index.m3u8?fmt=ts2hls
 中国教育2台,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233746/index.m3u8?fmt=ts2hls
-高尔夫网球,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232630/index.m3u8?fmt=ts2hls
+CCTV高尔夫网球,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232630/index.m3u8?fmt=ts2hls
 
 CCTV-1综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236222/index.m3u8
 CCTV-1综合,,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236371/index.m3u8
@@ -260,7 +260,7 @@ CGTV法语,http://www.akw323.com:9527/udp/238.255.2.83:5999
 CCTV-1综合,http://cd.sy012.com:4000/rtp/232.0.0.27:8808
 CCTV-2财经,http://cd.sy012.com:4000/rtp/232.0.0.132:9144
 CCTV-3综艺,http://cd.sy012.com:4000/rtp/232.0.0.198:9214
-CCTV-4亚洲,http://cd.sy012.com:4000/rtp/232.0.0.148:9142
+CCTV-4中文国际,http://cd.sy012.com:4000/rtp/232.0.0.148:9142
 CCTV-4欧州,http://cd.sy012.com:4000/rtp/232.0.0.210:9238
 CCTV-4美州,http://cd.sy012.com:4000/rtp/232.0.0.145:9110
 CCTV-5体育,http://cd.sy012.com:4000/rtp/232.0.0.196:9210
