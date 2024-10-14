@@ -1290,7 +1290,8 @@ GRTN荔枝台,http://glive.grtn.cn/live/lizhi.m3u8
 凤凰资讯,http://nas.jc-hqp.cn:9999/rtp/233.50.200.192:5140
 凤凰中文,http://wg.lloydind.cn:9999/rtp/233.50.200.42:5140
 凤凰中文,http://wg.lloydind.cn:9999/rtp/233.50.200.191:5140
-凤凰卫视,http://nas.cafeng.top:9080/rtp/239.93.0.162:2192
+凤凰资讯,http://wg.lloydind.cn:9999/udp/233.50.200.192:5140
+凤凰中文,http://nas.cafeng.top:9080/rtp/239.93.0.162:2192
 凤凰资讯,http://nas.cafeng.top:9080/rtp/239.93.0.118:2191
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
