@@ -281,8 +281,8 @@ CGTN法语,http://nas.cafeng.top:9080/rtp/239.93.42.50:5140
 CGTN西班牙语,http://nas.cafeng.top:9080/rtp/239.93.42.49:5140
 中国教育1台,http://nas.cafeng.top:9080/rtp/239.93.1.111:5140
 
-CCTV-4欧州,http://cd.sy012.com:4000/rtp/232.0.0.210:9238
-CCTV-4美州,http://cd.sy012.com:4000/rtp/232.0.0.145:9110
+CCTV-4欧洲,http://cd.sy012.com:4000/rtp/232.0.0.210:9238
+CCTV-4美洲,http://cd.sy012.com:4000/rtp/232.0.0.145:9110
 CCTV第一剧场,http://cd.sy012.com:4000/rtp/232.0.0.147:9132
 CCTV怀旧剧场,http://cd.sy012.com:4000/rtp/232.0.0.204:9226
 CCTV风云剧场,http://cd.sy012.com:4000/rtp/232.0.0.52:8610
