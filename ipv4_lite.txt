@@ -629,7 +629,7 @@ CHC家庭影院,http://www.dsmcloud.top:8888/udp/239.81.0.238:4056
 CHC影迷电影,http://www.dsmcloud.top:8888/udp/239.81.0.240:4056
 CHC影迷电影,http://nas.cafeng.top:9080/rtp/239.93.42.5:5140
 CHC动作电影,http://nas.cafeng.top:9080/rtp/239.93.42.7:5140
-CHC家庭电影,http://nas.cafeng.top:9080/rtp/239.93.42.6:5140
+CHC家庭影院,http://nas.cafeng.top:9080/rtp/239.93.42.6:5140
 爱上4K,http://www.dsmcloud.top:8888/udp/239.81.0.123:4056
 精彩影视,http://www.dsmcloud.top:8888/udp/239.81.0.152:4056
 求索纪录,http://www.dsmcloud.top:8888/udp/239.81.0.153:4056
@@ -1355,6 +1355,7 @@ HOY TV,http://51.89.21.73:35263/1.m3u8
 
 
 体育,#genre#
+辽宁体育,http://cd.sy012.com:4000/rtp/232.0.0.66:8820
 咪咕综合体育,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232629/357220554.smil/index.m3u8?fmt=ts2hls
 咪咕精彩足球,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232657/357219566.smil/index.m3u8?fmt=ts2hls
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
