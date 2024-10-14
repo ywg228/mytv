@@ -213,6 +213,82 @@ CGTN,http://gslbservzqhsw.itv.cmvideo.cn/1000000002000009569/1.m3u8?channel-id=y
 中国教育1台,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000002000002652/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000002652
 中国教育4台,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031126/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031126
 
+CCTV-1综合,http://www.akw323.com:9527/rtp/238.255.2.91:5999
+CCTV-2财经,http://www.akw323.com:9527/rtp/238.255.2.11:5999
+CCTV-3综艺,http://www.akw323.com:9527/rtp/238.255.2.133:5999
+CCTV-4中文国际,http://www.akw323.com:9527/rtp/238.255.2.92:5999
+CCTV-4欧洲,http://www.akw323.com:9527/rtp/238.255.2.213:5999
+CCTV-4美洲,http://www.akw323.com:9527/rtp/238.255.2.214:5999
+CCTV-5体育,http://www.akw323.com:9527/rtp/238.255.2.134:5999
+CCTV-5+体育赛事,http://www.akw323.com:9527/rtp/238.255.2.185:5999
+CCTV-6电影,http://www.akw323.com:9527/rtp/238.255.2.135:5999
+CCTV-7国防军事,http://www.akw323.com:9527/rtp/238.255.2.12:5999
+CCTV-8电视剧,http://www.akw323.com:9527/rtp/238.255.2.136:5999
+CCTV-9纪录,http://www.akw323.com:9527/rtp/238.255.2.155:5999
+CCTV-10科教,http://www.akw323.com:9527/rtp/238.255.2.13:5999
+CCTV-11戏曲,http://www.akw323.com:9527/rtp/238.255.2.14:5999
+CCTV-12社会与法,http://www.akw323.com:9527/rtp/238.255.2.15:5999
+CCTV-13新闻,http://www.akw323.com:9527/rtp/238.255.2.16:5999
+CCTV-14少儿,http://www.akw323.com:9527/rtp/238.255.2.17:5999
+CCTV-15音乐,http://www.akw323.com:9527/rtp/238.255.2.18:5999
+CCTV-16奥林匹克,http://www.akw323.com:9527/rtp/238.255.2.217:5999
+CCTV-16奥林匹克,http://www.akw323.com:9527/rtp/238.255.2.219:5999
+CCTV-17农业农村,http://www.akw323.com:9527/rtp/238.255.2.137:5999
+CCTV兵器科技,http://www.akw323.com:9527/rtp/238.255.2.34:5999
+CCTV第一剧场,http://www.akw323.com:9527/rtp/238.255.2.25:5999
+CCTV风云剧场,http://www.akw323.com:9527/rtp/238.255.2.28:5999
+CCTV风云音乐,http://www.akw323.com:9527/rtp/238.255.2.24:5999
+CCTV风云足球,http://www.akw323.com:9527/rtp/238.255.2.29:5999
+CCTV高尔夫网球,http://www.akw323.com:9527/rtp/238.255.2.223:5999
+CCTV怀旧剧场,http://www.akw323.com:9527/rtp/238.255.2.33:5999
+CCTV女人时尚,http://www.akw323.com:9527/rtp/238.255.2.27:5999
+CCTV世界地理,http://www.akw323.com:9527/rtp/238.255.2.26:5999
+CCTV天下足球,http://www.akw323.com:9527/rtp/238.255.2.134:5999
+CCTV央视台球,http://www.akw323.com:9527/rtp/238.255.2.224:5999
+CCTV央视文化精品,http://www.akw323.com:9527/rtp/238.255.2.32:5999
+中国教育1台,http://www.akw323.com:9527/rtp/238.255.2.105:5999
+中国教育2台,http://www.akw323.com:9527/rtp/238.255.2.221:5999
+中国教育4台,http://www.akw323.com:9527/rtp/238.255.2.222:5999
+CGTN,http://www.akw323.com:9527/udp/238.255.2.207:5999
+CGTN阿拉伯语,http://www.akw323.com:9527/udp/238.255.2.211:5999
+CGTN俄语,http://www.akw323.com:9527/udp/238.255.2.210:5999
+CGTN法语,http://www.akw323.com:9527/udp/238.255.2.208:5999
+CGTN西班牙语,http://www.akw323.com:9527/udp/238.255.2.209:5999
+CGTN,http://www.akw323.com:9527/udp/238.255.2.212:5999
+CGTV法语,http://www.akw323.com:9527/udp/238.255.2.83:5999
+
+CCTV-1综合,http://cd.sy012.com:4000/rtp/232.0.0.27:8808
+CCTV-2财经,http://cd.sy012.com:4000/rtp/232.0.0.132:9144
+CCTV-3综艺,http://cd.sy012.com:4000/rtp/232.0.0.198:9214
+CCTV-4亚洲,http://cd.sy012.com:4000/rtp/232.0.0.148:9142
+CCTV-4欧州,http://cd.sy012.com:4000/rtp/232.0.0.210:9238
+CCTV-4美州,http://cd.sy012.com:4000/rtp/232.0.0.145:9110
+CCTV-5体育,http://cd.sy012.com:4000/rtp/232.0.0.196:9210
+CCTV-5+体育赛事,http://cd.sy012.com:4000/rtp/232.0.0.93:8750
+CCTV-6电影,http://cd.sy012.com:4000/rtp/232.0.0.194:9206
+CCTV-7国防军事,http://cd.sy012.com:4000/rtp/232.0.0.133:9146
+CCTV-8电视剧,http://cd.sy012.com:4000/rtp/232.0.0.28:8710
+CCTV-9纪录,http://cd.sy012.com:4000/rtp/232.0.0.134:9148
+CCTV-10科教,http://cd.sy012.com:4000/rtp/232.0.0.135:9150
+CCTV-11戏曲,http://cd.sy012.com:4000/rtp/232.0.0.168:9340
+CCTV-12社会与法,http://cd.sy012.com:4000/rtp/232.0.0.136:9152
+CCTV-13新闻,http://cd.sy012.com:4000/rtp/232.0.0.146:9112
+CCTV-14少儿,http://cd.sy012.com:4000/rtp/232.0.0.137:9154
+CCTV-15音乐,http://cd.sy012.com:4000/rtp/232.0.0.169:9342
+CCTV-16奥林匹克,http://cd.sy012.com:4000/rtp/232.0.0.36:8694
+CCTV-17农业农村,http://cd.sy012.com:4000/rtp/232.0.0.63:8686
+CCTV第一剧场,http://cd.sy012.com:4000/rtp/232.0.0.147:9132
+CCTV怀旧剧场,http://cd.sy012.com:4000/rtp/232.0.0.204:9226
+CCTV风云剧场,http://cd.sy012.com:4000/rtp/232.0.0.52:8610
+CCTV风云足球,http://cd.sy012.com:4000/rtp/232.0.0.90:9286
+CCTV央视文化精品,http://cd.sy012.com:4000/rtp/232.0.0.107:8698
+CCTV风云音乐,http://cd.sy012.com:4000/rtp/232.0.0.108:9288
+CCTV女人时尚,http://cd.sy012.com:4000/rtp/232.0.0.120:8858
+CCTV兵器科技,http://cd.sy012.com:4000/rtp/232.0.0.121:8882
+CCTV央视台球,http://cd.sy012.com:4000/rtp/232.0.0.122:9290
+CCTV世界地理,http://cd.sy012.com:4000/rtp/232.0.0.123:9292
+CCTV电视指南,http://cd.sy012.com:4000/rtp/232.0.0.124:9294
+
 
 卫视,#genre#
 //浙江移动专用
@@ -448,17 +524,54 @@ CGTN,http://gslbservzqhsw.itv.cmvideo.cn/1000000002000009569/1.m3u8?channel-id=y
 青海卫视,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000013359/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000013359
 黑龙江卫视,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000001925/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001925
 
+贵州卫视,http://www.akw323.com:9527/rtp/238.255.2.1:5999
+北京卫视,http://www.akw323.com:9527/udp/238.255.2.81:5999
+东方卫视,http://www.akw323.com:9527/udp/238.255.2.98:5999
+东南卫视,http://www.akw323.com:9527/udp/238.255.2.103:5999
+大湾区卫视,http://www.akw323.com:9527/udp/238.255.2.60:5999
+广东卫视,http://www.akw323.com:9527/udp/238.255.2.59:5999
+广西卫视,http://www.akw323.com:9527/udp/238.255.2.64:5999
+海南卫视,http://www.akw323.com:9527/udp/238.255.2.58:5999
+河北卫视,http://www.akw323.com:9527/udp/238.255.2.77:5999
+河南卫视,http://www.akw323.com:9527/udp/238.255.2.74:5999
+黑龙江卫视,http://www.akw323.com:9527/udp/238.255.2.96:5999
+湖北卫视,http://www.akw323.com:9527/udp/238.255.2.102:5999
+江苏卫视,http://www.akw323.com:9527/udp/238.255.2.104:5999
+江西卫视,http://www.akw323.com:9527/udp/238.255.2.94:5999
+内蒙古卫视,http://www.akw323.com:9527/udp/238.255.2.53:5999
+宁夏卫视,http://www.akw323.com:9527/udp/238.255.2.75:5999
+青海卫视,http://www.akw323.com:9527/udp/238.255.2.51:5999
+三沙卫视,http://www.akw323.com:9527/udp/238.255.2.203:5999
+厦门卫视,http://www.akw323.com:9527/udp/238.255.2.205:5999
+山东卫视,http://www.akw323.com:9527/udp/238.255.2.97:5999
+山西卫视,http://www.akw323.com:9527/udp/238.255.2.71:5999
+陕西卫视,http://www.akw323.com:9527/udp/238.255.2.81:5999
+深圳卫视,http://www.akw323.com:9527/udp/238.255.2.61:5999
+四川卫视,http://www.akw323.com:9527/udp/238.255.2.76:5999
+天津卫视,http://www.akw323.com:9527/udp/238.255.2.99:5999
+辽宁卫视,http://www.akw323.com:9527/udp/238.255.2.69:5999
+甘肃卫视,http://www.akw323.com:9527/udp/238.255.2.73:5999
+湖南卫视,http://www.akw323.com:9527/udp/238.255.2.93:5999
+吉林卫视,http://www.akw323.com:9527/udp/238.255.2.95:5999
+兵团卫视,http://www.akw323.com:9527/udp/238.255.2.67:5999
+新疆卫视,http://www.akw323.com:9527/udp/238.255.2.66:5999
+云南卫视,http://www.akw323.com:9527/udp/238.255.2.63:5999
+浙江卫视,http://www.akw323.com:9527/udp/238.255.2.100:5999
+重庆卫视,http://www.akw323.com:9527/udp/238.255.2.78:5999
+安徽卫视,http://www.akw323.com:9527/udp/238.255.2.101:5999
+西藏卫视,http://www.akw323.com:9527/udp/238.255.2.23:5999
+西藏卫视,http://www.akw323.com:9527/udp/238.255.2.65:5999
+安多卫视,http://www.akw323.com:9527/udp/238.255.2.189:5999
+
 
 数字,#genre#
-CHC动作电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
-CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
-CHC高清电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
-CHC高清电影,http://183.92.4.163:4000/udp/228.0.0.233:6108
-CHC家庭影院,http://183.92.4.163:4000/udp/228.0.0.211:6108
-CHC动作电影,http://183.92.4.163:4000/udp/228.0.0.212:6108
-CHC高清电影,http://p.hzzzz530.com:4022/rtp/239.69.1.241:11088
-CHC动作电影,http://p.hzzzz530.com:4022/rtp/239.69.1.242:11094
-CHC家庭影院,http://p.hzzzz530.com:4022/rtp/239.69.1.243:11100
+CHC动作电影,http://www.dsmcloud.top:8888/udp/239.81.0.239:4056
+CHC家庭影院,http://www.dsmcloud.top:8888/udp/239.81.0.238:4056
+CHC高清电影,http://www.dsmcloud.top:8888/udp/239.81.0.240:4056
+爱上4K,http://www.dsmcloud.top:8888/udp/239.81.0.123:4056
+精彩影视,http://www.dsmcloud.top:8888/udp/239.81.0.152:4056
+求索纪录,http://www.dsmcloud.top:8888/udp/239.81.0.153:4056
+IPTV5+,http://www.dsmcloud.top:8888/udp/239.81.0.133:4056
 
 NEWTV东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 NEWTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
@@ -503,6 +616,7 @@ IHOT爱悬疑,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322123009
 IHOT爱谍战,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
 IHOT爱体育,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230103/index.m3u8
 重温经典,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/index.m3u8?fmt=ts2hls
+重温经典,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236434/1/index.m3u8?fmt=ts2hls$720P
 都市剧场,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229280/index.m3u8?fmt=ts2hls
 游戏风云,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229320/index.m3u8?fmt=ts2hls
 Y+频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/index.m3u8?fmt=ts2hls
@@ -516,9 +630,8 @@ Y+频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/ind
 漫游世界,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228581/index.m3u8?fmt=ts2hls
 高清娱乐,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228575/index.m3u8?fmt=ts2hls
 电子竞技,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228572/index.m3u8?fmt=ts2hls
-
-重温经典,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/index.m3u8?fmt=ts2hls
-Y+,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/index.m3u8?fmt=ts2hls
+热播精选,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236204/index.m3u8
+Y+剧场,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/index.m3u8?fmt=ts2hls
 Drama,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236208/index.m3u8
 Movie,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236157/index.m3u8
 NEWTV金牌综艺,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236282/index.m3u8
@@ -541,7 +654,6 @@ NEWTV精品体育,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/32212
 NEWTV炫舞未来,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236230/index.m3u8
 黑莓电影,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236248/index.m3u8
 哒波赛事,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236207/index.m3u8
-电影,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236204/index.m3u8
 移动高清电视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229434/index.m3u8?fmt=ts2hls
 欢笑剧场4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230782/index.m3u8?fmt=ts2hls
 求索记录4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/index.m3u8?fmt=ts2hls
@@ -571,11 +683,6 @@ NEWTV金牌综艺,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/100000000
 哒啵赛事,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000006906/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000006906
 黑莓动画,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000004000021734/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000021734
 黑莓电影,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/8785669936177902664/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8785669936177902664
-
-峨眉电影,http://vl15191373.imwork.net:8880/rtp/239.93.0.252:5140
-峨眉电影,http://kjrzxhb.top:2086/rtp/239.11.0.11:5140
-
-重温经典,http://171.208.14.218:9090/live/cwjd/hls.m3u8
 
 百事通4K,http://www.baopiqi.top:4022/rtp/239.45.1.42:5140
 百事通4K,http://www.baopiqi.top:4022/rtp/239.45.1.108:5140
@@ -936,10 +1043,6 @@ IPTV大健康,http://ry.soff.cn:4022/rtp/239.3.1.251:8001
 快乐垂钓,http://ry.soff.cn:4022/rtp/239.3.1.164:8001
 茶频道,http://ry.soff.cn:4022/rtp/239.3.1.165:8001
 金鹰纪实,http://www.baopiqi.top:4022/rtp/239.45.1.45:5140
-快乐垂钓,http://p.hzzzz530.com:4022/rtp/239.69.1.142:10488
-茶频道,http://p.hzzzz530.com:4022/rtp/239.69.1.144:10500
-金鹰卡通,http://p.hzzzz530.com:4022/rtp/239.69.1.248:11130
-金鹰纪实,http://p.hzzzz530.com:4022/rtp/239.69.1.109:10292
 
 宜章综合,http://hnyz.chinashadt.com:2036/live/tv1.stream/playlist.m3u8
 宜章综合,http://hnyz.chinashadt.com:2036/live/tv1.stream/chunklist_w2084740082.m3u8
@@ -1121,10 +1224,6 @@ GRTN荔枝台,http://glive.grtn.cn/live/lizhi.m3u8
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
 凤凰中文,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
 凤凰资讯,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8
-凤凰资讯,http://www.hzz.pub:8889/rtp/239.93.0.118:2191
-凤凰中文,http://www.hzz.pub:8889/rtp/239.93.0.162:2192
-凤凰资讯,http://vl15191373.imwork.net:8880/rtp/239.93.0.118:2191
-凤凰中文,http://vl15191373.imwork.net:8880/rtp/239.93.0.162:2192
 凤凰中文,http://nas.jc-hqp.cn:9999/rtp/233.50.200.42:5140
 凤凰中文,http://nas.jc-hqp.cn:9999/rtp/233.50.200.191:5140
 凤凰资讯,http://nas.jc-hqp.cn:9999/rtp/233.50.200.192:5140
@@ -1189,8 +1288,6 @@ HOY TV,http://51.89.21.73:35263/livehttpplay?channel_id=2026
 翡翠台,http://8.218.49.207:9999/gudo.php?id=fcthd
 明珠台,http://8.218.49.207:9999/gudo.php?id=mzthd
 HOY TV,http://51.89.21.73:35263/1.m3u8
-
-Channel [V],http://vl15191373.imwork.net:8880/rtp/239.93.0.157:2194
 
 
 体育,#genre#
@@ -1269,9 +1366,5 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
 中国交通,http://ry.soff.cn:4022/rtp/239.3.1.188:8001
 爱上4K,http://ry.soff.cn:4022/rtp/239.3.1.236:2000
-
-梨园频道,http://p.hzzzz530.com:4022/rtp/239.69.1.33:9838
-武术世界,http://p.hzzzz530.com:4022/rtp/239.69.1.47:9922
-爱上4K,http://p.hzzzz530.com:4022/rtp/239.69.1.141:10482
 
 
