@@ -1283,9 +1283,6 @@ GRTN荔枝台,http://glive.grtn.cn/live/lizhi.m3u8
 
 
 国际,#genre#
-凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
-凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
 凤凰中文,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
 凤凰资讯,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8
 凤凰中文,http://nas.jc-hqp.cn:9999/rtp/233.50.200.42:5140
