@@ -249,9 +249,8 @@ CCTV风云音乐,http://www.akw323.com:9527/rtp/238.255.2.24:5999
 CCTV风云足球,http://www.akw323.com:9527/rtp/238.255.2.29:5999
 CCTV高尔夫网球,http://www.akw323.com:9527/rtp/238.255.2.223:5999
 CCTV怀旧剧场,http://www.akw323.com:9527/rtp/238.255.2.33:5999
-CCTV女人时尚,http://www.akw323.com:9527/rtp/238.255.2.27:5999
+CCTV女姓时尚,http://www.akw323.com:9527/rtp/238.255.2.27:5999
 CCTV世界地理,http://www.akw323.com:9527/rtp/238.255.2.26:5999
-CCTV天下足球,http://www.akw323.com:9527/rtp/238.255.2.134:5999
 CCTV央视台球,http://www.akw323.com:9527/rtp/238.255.2.224:5999
 CCTV央视文化精品,http://www.akw323.com:9527/rtp/238.255.2.32:5999
 中国教育1台,http://www.akw323.com:9527/rtp/238.255.2.105:5999
@@ -263,7 +262,7 @@ CGTN俄语,http://www.akw323.com:9527/udp/238.255.2.210:5999
 CGTN法语,http://www.akw323.com:9527/udp/238.255.2.208:5999
 CGTN西班牙语,http://www.akw323.com:9527/udp/238.255.2.209:5999
 CGTN,http://www.akw323.com:9527/udp/238.255.2.212:5999
-CGTV法语,http://www.akw323.com:9527/udp/238.255.2.83:5999
+CGTN法语,http://www.akw323.com:9527/udp/238.255.2.83:5999
 
 CCTV-4K超高清,http://nas.cafeng.top:9080/rtp/239.93.42.42:5140
 CCTV央视文化精品,http://nas.cafeng.top:9080/rtp/239.93.42.47:5140
@@ -290,7 +289,7 @@ CCTV风云剧场,http://cd.sy012.com:4000/rtp/232.0.0.52:8610
 CCTV风云足球,http://cd.sy012.com:4000/rtp/232.0.0.90:9286
 CCTV央视文化精品,http://cd.sy012.com:4000/rtp/232.0.0.107:8698
 CCTV风云音乐,http://cd.sy012.com:4000/rtp/232.0.0.108:9288
-CCTV女人时尚,http://cd.sy012.com:4000/rtp/232.0.0.120:8858
+CCTV女姓时尚,http://cd.sy012.com:4000/rtp/232.0.0.120:8858
 CCTV兵器科技,http://cd.sy012.com:4000/rtp/232.0.0.121:8882
 CCTV央视台球,http://cd.sy012.com:4000/rtp/232.0.0.122:9290
 CCTV世界地理,http://cd.sy012.com:4000/rtp/232.0.0.123:9292
