@@ -2,7 +2,7 @@
 //浙江移动专用
 CCTV-1综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/index.m3u8?fmt=ts2hls
 CCTV-1综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230713/index.m3u8?fmt=ts2hls
-CCTV-1综合,,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236526/index.m3u8?fmt=ts2hls
+CCTV-1综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236526/index.m3u8?fmt=ts2hls
 CCTV-2财经,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228348/index.m3u8?fmt=ts2hls
 CCTV-2财经,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230716/index.m3u8?fmt=ts2hls
 CCTV-2财经,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236548/index.m3u8?fmt=ts2hls
@@ -53,9 +53,9 @@ CCTV-4K超高清,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322122
 CCTV高尔夫网球,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232630/index.m3u8?fmt=ts2hls
 
 CCTV-1综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236222/index.m3u8
-CCTV-1综合,,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236371/index.m3u8
-CCTV-1综合,,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236450/index.m3u8
-CCTV-1综合,,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236494/index.m3u8
+CCTV-1综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236371/index.m3u8
+CCTV-1综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236450/index.m3u8
+CCTV-1综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236494/index.m3u8
 CCTV-2财经,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236393/index.m3u8
 CCTV-2财经,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236163/index.m3u8
 CCTV-2财经,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236363/index.m3u8
@@ -117,8 +117,6 @@ CCTV-15音乐,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322123638
 CCTV-16奥林匹克,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236181/index.m3u8
 CCTV-17农业农村,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236200/index.m3u8
 CCTV-17农业农村,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236373/index.m3u8
-发现之旅,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236398/index.m3u8
-中学生,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236325/index.m3u8
 CGTN纪录,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236205/index.m3u8
 CGTN法语,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236288/index.m3u8
 CGTN阿拉伯语,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236290/index.m3u8
@@ -356,8 +354,6 @@ CGTN法语,http://nasyc.cn:4022/udp/239.69.1.235:11052
 
 CCTV-16奥林匹克,http://i.ekan8.com:8181/udp/239.81.1.17:4056$4K
 CCTV-4K超高清,http://i.ekan8.com:8181/udp/239.81.1.78:4056
-发现之旅,http://i.ekan8.com:8181/udp/239.81.1.74:4056
-老故事,http://i.ekan8.com:8181/udp/239.81.1.75:4056
 CGTN,http://i.ekan8.com:8181/udp/239.81.1.20:4056
 中国教育1台,http://i.ekan8.com:8181/udp/239.81.1.60:4056
 中国教育2台,http://i.ekan8.com:8181/udp/239.81.1.61:4056
@@ -1300,7 +1296,7 @@ Bein体育3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6124/index.m3u8#http
 哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 晴彩青少,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 晴彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-晴彩篮球,,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+晴彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 咪咕视频,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 晴彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 晴彩广场舞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
