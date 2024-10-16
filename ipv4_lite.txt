@@ -1214,6 +1214,7 @@ TVBS欢乐台,https://ali.hlspull.yximgs.com/live/92a663c629ae9d39963faf2d65f5a6
 纬来体育台,https://ali.hlspull.yximgs.com/live/d0c840bd7d951726d46526c13c1350b4.flv
 纬来日本台,https://ali.hlspull.yximgs.com/live/25dcb144e70b94f56c443df1474aac05.flv
 纬来育乐台,https://ali.hlspull.yximgs.com/live/5f872a5da1065ccb8bf81a6683e1d351.flv
+靖天育乐台,https://ali.hlspull.yximgs.com/live/4fa30533a7f53e9e37288148690fd01a.flv
 ELEVEN 1（DAZN 1）,https://ali.hlspull.yximgs.com/live/2619dd86933e6211ab1d5343a3e6fac7.flv
 ELEVEN 2（DAZN 2）,https://ali.hlspull.yximgs.com/live/4b9b95e08666f193631e21e7ad8b415c.flv
 爱尔达体育1台,https://ali.hlspull.yximgs.com/live/7898c086350342afa37620d8557492fe.flv
@@ -1262,15 +1263,8 @@ CNA频道,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/
 CCTV-5体育,https://ali.hlspull.yximgs.com/live/c65302cf4f76388495caa6ba04ce419e.flv
 CCTV-5体育赛事,https://ali.hlspull.yximgs.com/live/937d4a286ce95b0bc377ddbedff49f37.flv
 CCTV-16奥林匹克,https://ali.hlspull.yximgs.com/live/8a4a4f8f83f8043ab0d210f7e8ea9ec5.flv
-ELEVEN 1（DAZN 1）,https://ali.hlspull.yximgs.com/live/2619dd86933e6211ab1d5343a3e6fac7.flv
-ELEVEN 2（DAZN 2）,https://ali.hlspull.yximgs.com/live/4b9b95e08666f193631e21e7ad8b415c.flv
-爱尔达体育1台,https://ali.hlspull.yximgs.com/live/7898c086350342afa37620d8557492fe.flv
-爱尔达体育2台,https://ali.hlspull.yximgs.com/live/42e21ebf34919565b1f1643a8b45e5c6.flv
-爱尔达体育3台,https://ali.hlspull.yximgs.com/live/543641867c83730bdb36bf7a1eda621b.flv
-爱尔达体育4台,https://ali.hlspull.yximgs.com/live/e76f961665933d6c1be0565b35380025.flv
 智林体育台,https://ali.hlspull.yximgs.com/live/a1a2f71f269f53986155d50fe69a1ce4.flv
 时尚运动X,https://ali.hlspull.yximgs.com/live/6070fd92d7ae422c39be5dea2b58f8f8.flv
-靖天育乐台,https://ali.hlspull.yximgs.com/live/4fa30533a7f53e9e37288148690fd01a.flv
 博斯魅力,https://ali.hlspull.yximgs.com/live/2972aad00a9a816e1c28b965812ff6f7.flv
 博斯高球1,https://ali.hlspull.yximgs.com/live/f575a7be0cdcaa3367d11be010781cc3.flv
 博斯高球2,https://ali.hlspull.yximgs.com/live/73b4646f3ec6bf3e461d9caedd48c4b5.flv
@@ -1279,6 +1273,12 @@ ELEVEN 2（DAZN 2）,https://ali.hlspull.yximgs.com/live/4b9b95e08666f193631e21e
 博斯网球,https://ali.hlspull.yximgs.com/live/53a0c3a4f674385a9f38cb12c3aa8608.flv
 博斯无限,https://ali.hlspull.yximgs.com/live/3c9b21894949cfe9988af08e274b5279.flv
 博斯无限2,https://ali.hlspull.yximgs.com/live/3846711c067df4744b55e38eb9e073ad.flv
+ELEVEN 1（DAZN 1）,https://ali.hlspull.yximgs.com/live/2619dd86933e6211ab1d5343a3e6fac7.flv
+ELEVEN 2（DAZN 2）,https://ali.hlspull.yximgs.com/live/4b9b95e08666f193631e21e7ad8b415c.flv
+爱尔达体育1台,https://ali.hlspull.yximgs.com/live/7898c086350342afa37620d8557492fe.flv
+爱尔达体育2台,https://ali.hlspull.yximgs.com/live/42e21ebf34919565b1f1643a8b45e5c6.flv
+爱尔达体育3台,https://ali.hlspull.yximgs.com/live/543641867c83730bdb36bf7a1eda621b.flv
+爱尔达体育4台,https://ali.hlspull.yximgs.com/live/e76f961665933d6c1be0565b35380025.flv
 TRACE SPORTS STARS,https://ali.hlspull.yximgs.com/live/86e586e7e2491c1bd3e6c22d2497864c.flv
 
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
@@ -1300,11 +1300,11 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 
 其它,#genre#
 纯享4K,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000004000011651/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011651
-晴彩青少,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000270007/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270007
-晴彩篮球,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000270006/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270006
-晴彩广场舞,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000270005/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270005
-晴彩篮球,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000270002/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270002
-晴彩竞技,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000270001/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270001
+睛彩青少,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000270007/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270007
+睛彩篮球,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000270006/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270006
+睛彩广场舞,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000270005/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270005
+睛彩篮球,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000270002/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270002
+睛彩竞技,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000270001/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270001
 百事通直播1,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000001000001116/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000001000001116
 晴彩广场舞,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000270003/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270003
 哒啵电竞,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000032327/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000032327
