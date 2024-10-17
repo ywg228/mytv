@@ -880,7 +880,6 @@ CGTN,http://i.ekan8.com:8181/udp/239.81.1.20:4056
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 上海纪实人文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 上海纪实人文,http://ry.soff.cn:4022/rtp/239.3.1.212:8060
 
 东方卫视,https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1729227604-8cd2dcd9b2484385837c82b878b04210-0-273b1e9678bfa35f1315d09734a33426
@@ -929,11 +928,12 @@ CGTN,http://i.ekan8.com:8181/udp/239.81.1.20:4056
 都市剧场,http://www.baopiqi.top:4022/rtp/239.45.3.136:5140
 乐游频道,http://www.baopiqi.top:4022/rtp/239.45.3.135:5140
 金色学堂,http://www.baopiqi.top:4022/rtp/239.45.0.9:5140
-艺术人文,http://www.baopiqi.top:4022/rtp/239.45.1.41:5140
 法治天地,http://www.baopiqi.top:4022/rtp/239.45.1.46:5140
 七彩戏剧,http://www.baopiqi.top:4022/rtp/239.45.0.16:5140
 欢笑剧场,http://www.baopiqi.top:4022/rtp/239.45.3.196:5140
 欢笑剧场,http://www.baopiqi.top:4022/rtp/239.45.1.4:5140
+
+崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 
 
 北京,#genre#
@@ -1246,20 +1246,14 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 移动8K,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221235532/index.m3u8
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 书画频道,http://211.103.180.178:8234/live_hls/hdmi.m3u8
-CEC国际汉语,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
-CEC国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
-CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
-
 百事通动画4K,http://www.baopiqi.top:4022/rtp/239.45.1.1:5140
+哒啵赛事,http://39.134.64.179:6610/PLTV/88888888/224/3221225675/index.m3u8?
 
 中国交通,http://ry.soff.cn:4022/rtp/239.3.1.188:8001
 爱上4K,http://ry.soff.cn:4022/rtp/239.3.1.236:2000
 金鹰纪实,http://ry.soff.cn:4022/rtp/239.3.1.58:8156
 快乐垂钓,http://ry.soff.cn:4022/rtp/239.3.1.164:8001
 茶频道,http://ry.soff.cn:4022/rtp/239.3.1.165:8001
-
-哒啵赛事,http://39.134.64.179:6610/PLTV/88888888/224/3221225675/index.m3u8?
 
 金鹰纪实,http://www.baopiqi.top:4022/rtp/239.45.1.45:5140
 金鹰纪实,http://nas.cafeng.top:9080/rtp/239.93.0.130:5140
