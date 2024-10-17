@@ -1153,6 +1153,9 @@ NEWTV金牌综艺,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/100000000
 国际,#genre#
 凤凰中文,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
 凤凰资讯,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8
+凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰中文,http://nas.jc-hqp.cn:9999/rtp/233.50.200.42:5140
 凤凰中文,http://nas.jc-hqp.cn:9999/rtp/233.50.200.191:5140
 凤凰资讯,http://nas.jc-hqp.cn:9999/rtp/233.50.200.192:5140
@@ -1161,66 +1164,14 @@ NEWTV金牌综艺,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/100000000
 凤凰资讯,http://wg.lloydind.cn:9999/udp/233.50.200.192:5140
 凤凰中文,http://nas.cafeng.top:9080/rtp/239.93.0.162:2192
 凤凰资讯,http://nas.cafeng.top:9080/rtp/239.93.0.118:2191
-凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
-
-凤凰中文,https://ali.hlspull.yximgs.com/live/e416f7f6ea899060003a2da46f485633.flv
-凤凰资讯,https://ali.hlspull.yximgs.com/live/9666d980573affc32717038d34f91924.flv
-凤凰香港,https://ali.hlspull.yximgs.com/live/771e29192eacb551c9757eaa26725a23.flv
-TVB翡翠台,https://ali.hlspull.yximgs.com/live/1f976a27a255cda54d88d98913d43037.flv
-TVB无线新闻台,https://ali.hlspull.yximgs.com/live/f899a8f789e9915f143202367d46b696.flv
-TVB Plus,https://ali.hlspull.yximgs.com/live/0d69fe71738b38afdfba9ee003624e0f.flv
-TVB明珠台,https://ali.hlspull.yximgs.com/live/e13164b298a47b633a575bebe9826bc3.flv
-香港有线新闻台,https://ali.hlspull.yximgs.com/live/6f29174f10838ed310e3ede4ee6527a7.flv
-香港有线18台,https://ali.hlspull.yximgs.com/live/47df7c3f66023d448fe83a95118146e8.flv
-NOW SPORTS PRIME,https://ali.hlspull.yximgs.com/live/6eee6e369cce5e73c6d37e16c2e3358c.flv
-NOW直播台,https://ali.hlspull.yximgs.com/live/5fce698b7f406aae9198fef3c97cda5b.flv
-NOW新闻台,https://ali.hlspull.yximgs.com/live/b798acacb2a4457d914e0ff22a528ff5.flv
-NOW财经台,https://ali.hlspull.yximgs.com/live/b4b7d4635418b5738019fa9f86a0fad7.flv
-ViuTV,https://ali.hlspull.yximgs.com/live/46d046ed3c9c37075d920e3631c8a8de.flv
-ViuTVSix,https://ali.hlspull.yximgs.com/live/72900cceefd29718b8e9eded26d70c0c.flv
-HOY国际财经台,https://ali.hlspull.yximgs.com/live/291c272b3fc5da0d725a6203727592bc.flv
-HOY资讯台,https://ali.hlspull.yximgs.com/live/6f29174f10838ed310e3ede4ee6527a7.flv
-HOY TV,https://ali.hlspull.yximgs.com/live/0a4e2e31cad138a798affb3759684b6c.flv
-港台电视31,https://ali.hlspull.yximgs.com/live/6f29174f10838ed310e3ede4ee6527a7.flv
-港台电视32,https://ali.hlspull.yximgs.com/live/d6ba2e0ee50c763e684232576dc8d7cd.flv
-中天新闻台,https://ali.hlspull.yximgs.com/live/c2fb0cdb8856a6a00b00e779ab9b179d.flv
-东森新闻台,https://ali.hlspull.yximgs.com/live/14382456293d8366fd003d4b7653eab7.flv
-东森财经新闻台,https://ali.hlspull.yximgs.com/live/9bbef807946599c43063f0c5180b4bc5.flv
-中视新闻台,https://ali.hlspull.yximgs.com/live/19559bea29d6c8e02ba89ca4b9f6c93a.flv
-台视新闻台,https://ali.hlspull.yximgs.com/live/ef133d7220740518f38a1743d6668644.flv
-三立新闻台,https://ali.hlspull.yximgs.com/live/3a04237c7af039ce7b1942831ecc5191.flv
-三立iNEWS,https://ali.hlspull.yximgs.com/live/fddcf7dab1407f2366f774b9cbf0fe87.flv
-民视新闻台,https://ali.hlspull.yximgs.com/live/4e4429696e0f6b37a5f87bd60ffe4dfe.flv
-华视新闻台,https://ali.hlspull.yximgs.com/live/236865af670bb3735d64ef007847ed7f.flv
-镜电视新闻台,https://ali.hlspull.yximgs.com/live/4eb0ab0aa390e06b544048a693cb7a6a.flv
-寰宇新闻台,https://ali.hlspull.yximgs.com/live/58b925d540ca7f7043ef8d8942a70911.flv
-TVBS新闻台,https://ali.hlspull.yximgs.com/live/a30ff4edae391eb08f32c29022d0d5a4.flv
-TVBS HD,https://ali.hlspull.yximgs.com/live/bd5f657b36f2ce289b9a406fe524ac9e.flv
-TVBS欢乐台,https://ali.hlspull.yximgs.com/live/92a663c629ae9d39963faf2d65f5a65e.flv
-中视HD,https://ali.hlspull.yximgs.com/live/0c223ca0fb7b0b957d80bd0dce97e322.flv
-台视HD,https://ali.hlspull.yximgs.com/live/3ebd810f5d379e5424484abfceb8f880.flv
-民视HD,https://ali.hlspull.yximgs.com/live/d80a7e5f970cf1fcc86b8316724ed1c9.flv
-华视HD,https://ali.hlspull.yximgs.com/live/85716ac07833c699f4456bcffd5ae16d.flv
-公视,https://ali.hlspull.yximgs.com/live/38c6a53caa33b99d1da2ab971eba0097.flv
-三立台湾台,https://ali.hlspull.yximgs.com/live/0da7bdca153b5abb514893df56bc435a.flv
-三立都会台,https://ali.hlspull.yximgs.com/live/d525038811f165b8c6e292e9befa74c7.flv
-民视台湾台,https://ali.hlspull.yximgs.com/live/655d5cdda8094e5f4d595d55d46409a6.flv
-民视第一台,https://ali.hlspull.yximgs.com/live/299ecf19f9f93de146e02c823e774ba7.flv
-民视综艺台,https://ali.hlspull.yximgs.com/live/038bb9827d56191178e6a3acc6dbd709.flv
-民视旅游台,https://ali.hlspull.yximgs.com/live/c8ce7c106a372dc2edb4086dae918a18.flv
-民视影剧台,https://ali.hlspull.yximgs.com/live/34b7901091bfee9f688abcb40ca14676.flv
-纬来体育台,https://ali.hlspull.yximgs.com/live/d0c840bd7d951726d46526c13c1350b4.flv
-纬来日本台,https://ali.hlspull.yximgs.com/live/25dcb144e70b94f56c443df1474aac05.flv
-纬来育乐台,https://ali.hlspull.yximgs.com/live/5f872a5da1065ccb8bf81a6683e1d351.flv
-靖天育乐台,https://ali.hlspull.yximgs.com/live/4fa30533a7f53e9e37288148690fd01a.flv
-ELEVEN 1（DAZN 1）,https://ali.hlspull.yximgs.com/live/2619dd86933e6211ab1d5343a3e6fac7.flv
-ELEVEN 2（DAZN 2）,https://ali.hlspull.yximgs.com/live/4b9b95e08666f193631e21e7ad8b415c.flv
-爱尔达体育1台,https://ali.hlspull.yximgs.com/live/7898c086350342afa37620d8557492fe.flv
-爱尔达体育2台,https://ali.hlspull.yximgs.com/live/42e21ebf34919565b1f1643a8b45e5c6.flv
-爱尔达体育3台,https://ali.hlspull.yximgs.com/live/543641867c83730bdb36bf7a1eda621b.flv
-爱尔达体育4台,https://ali.hlspull.yximgs.com/live/e76f961665933d6c1be0565b35380025.flv
+凤凰中文,http://xeace.cn:8888/udp/239.93.0.162:2192
+凤凰中文,http://xeace.cn:8888/udp/239.93.1.9:2192
+凤凰资讯,http://xeace.cn:8888/udp/239.93.0.118:2191
+凤凰资讯,http://xeace.cn:8888/udp/239.93.1.4:2191
+凤凰中文,http://yuzhe.ltd:6666/udp/239.93.0.162:2192
+凤凰中文,http://yuzhe.ltd:6666/udp/239.93.1.9:2192
+凤凰资讯,http://yuzhe.ltd:6666/udp/239.93.0.118:2191
+凤凰资讯,http://yuzhe.ltd:6666/udp/239.93.1.4:2191
 
 香港卫视HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视HKS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
@@ -1258,29 +1209,6 @@ CNA频道,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/
 
 体育,#genre#
 辽宁体育,http://cd.sy012.com:4000/rtp/232.0.0.66:8820
-广东体育,https://ali.hlspull.yximgs.com/live/fc4d6b972ee94e7c6073fb44dcb22644.flv
-纬来体育,https://ali.hlspull.yximgs.com/live/d0c840bd7d951726d46526c13c1350b4.flv
-CCTV-5体育,https://ali.hlspull.yximgs.com/live/c65302cf4f76388495caa6ba04ce419e.flv
-CCTV-5体育赛事,https://ali.hlspull.yximgs.com/live/937d4a286ce95b0bc377ddbedff49f37.flv
-CCTV-16奥林匹克,https://ali.hlspull.yximgs.com/live/8a4a4f8f83f8043ab0d210f7e8ea9ec5.flv
-智林体育台,https://ali.hlspull.yximgs.com/live/a1a2f71f269f53986155d50fe69a1ce4.flv
-时尚运动X,https://ali.hlspull.yximgs.com/live/6070fd92d7ae422c39be5dea2b58f8f8.flv
-博斯魅力,https://ali.hlspull.yximgs.com/live/2972aad00a9a816e1c28b965812ff6f7.flv
-博斯高球1,https://ali.hlspull.yximgs.com/live/f575a7be0cdcaa3367d11be010781cc3.flv
-博斯高球2,https://ali.hlspull.yximgs.com/live/73b4646f3ec6bf3e461d9caedd48c4b5.flv
-博斯运动1,https://ali.hlspull.yximgs.com/live/5b444940eebbaf7f91c2bd8c4a2e21a7.flv
-博斯运动2,https://ali.hlspull.yximgs.com/live/107705871306a8e3474c51cc8875011b.flv
-博斯网球,https://ali.hlspull.yximgs.com/live/53a0c3a4f674385a9f38cb12c3aa8608.flv
-博斯无限,https://ali.hlspull.yximgs.com/live/3c9b21894949cfe9988af08e274b5279.flv
-博斯无限2,https://ali.hlspull.yximgs.com/live/3846711c067df4744b55e38eb9e073ad.flv
-ELEVEN 1（DAZN 1）,https://ali.hlspull.yximgs.com/live/2619dd86933e6211ab1d5343a3e6fac7.flv
-ELEVEN 2（DAZN 2）,https://ali.hlspull.yximgs.com/live/4b9b95e08666f193631e21e7ad8b415c.flv
-爱尔达体育1台,https://ali.hlspull.yximgs.com/live/7898c086350342afa37620d8557492fe.flv
-爱尔达体育2台,https://ali.hlspull.yximgs.com/live/42e21ebf34919565b1f1643a8b45e5c6.flv
-爱尔达体育3台,https://ali.hlspull.yximgs.com/live/543641867c83730bdb36bf7a1eda621b.flv
-爱尔达体育4台,https://ali.hlspull.yximgs.com/live/e76f961665933d6c1be0565b35380025.flv
-TRACE SPORTS STARS,https://ali.hlspull.yximgs.com/live/86e586e7e2491c1bd3e6c22d2497864c.flv
-
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 五星体育,http://www.baopiqi.top:4022/rtp/239.45.3.210:5140
 国外体育6,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
@@ -1350,7 +1278,6 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
 哒啵赛事,http://39.134.64.179:6610/PLTV/88888888/224/3221225675/index.m3u8?
 
-广东珠江,https://ali.hlspull.yximgs.com/live/c88c29217c0c50c75c760fa596e68059.flv
 金鹰纪实,http://www.baopiqi.top:4022/rtp/239.45.1.45:5140
 金鹰纪实,http://nas.cafeng.top:9080/rtp/239.93.0.130:5140
 金鹰纪实,http://118.144.105.51:81/live/JYJShd-8M/live.m3u8
