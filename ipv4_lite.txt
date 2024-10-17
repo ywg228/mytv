@@ -1156,8 +1156,8 @@ NEWTV金牌综艺,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/100000000
 凤凰资讯,http://yuzhe.ltd:6666/udp/239.93.0.118:2191
 凤凰资讯,http://yuzhe.ltd:6666/udp/239.93.1.4:2191
 
-香港卫视HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视HKS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 亚洲卫视,http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
 香港开电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
@@ -1224,7 +1224,6 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 茶频道,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031209/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031209
 金鹰纪实,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031203/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031203
 
-移动高清电视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229434/index.m3u8?fmt=ts2hls
 睛彩竞技,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232629/357220554.smil/index.m3u8?fmt=ts2hls
 睛彩篮球,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232657/357219566.smil/index.m3u8?fmt=ts2hls
 哒啵赛事,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236207/index.m3u8
@@ -1243,10 +1242,8 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 睛彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 睛彩广场舞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 
-移动8K,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221235532/index.m3u8
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 书画频道,http://211.103.180.178:8234/live_hls/hdmi.m3u8
-百事通动画4K,http://www.baopiqi.top:4022/rtp/239.45.1.1:5140
 哒啵赛事,http://39.134.64.179:6610/PLTV/88888888/224/3221225675/index.m3u8?
 
 中国交通,http://ry.soff.cn:4022/rtp/239.3.1.188:8001
@@ -1259,6 +1256,6 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 金鹰纪实,http://nas.cafeng.top:9080/rtp/239.93.0.130:5140
 金鹰纪实,http://118.144.105.51:81/live/JYJShd-8M/live.m3u8
 
-遂宁新闻综合,https://szyplaytv.snxw.com/live/xwzh/playlist.m3u8
+遂宁综合,https://szyplaytv.snxw.com/live/xwzh/playlist.m3u8
 遂宁文化生活,https://szyplaytv.snxw.com/live/gggy/playlist.m3u8
 重庆新闻,https://cqonsitecdn.cbgcloud.com/qf6jl2/tctiz9.m3u8
