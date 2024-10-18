@@ -919,11 +919,6 @@ CGTN,http://eyfs.vicp.net:8888/udp/239.76.245.66:1234
 
 
 上海,#genre#
-东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-上海纪实人文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-上海纪实人文,http://ry.soff.cn:4022/rtp/239.3.1.212:8060
-
 东方卫视,https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1729227604-8cd2dcd9b2484385837c82b878b04210-0-273b1e9678bfa35f1315d09734a33426
 上海新闻综合,https://bp-cdn-ali.bestv.cn/ch/bestvxwzh_4m.m3u8?auth_key=1729232561-23ba03015cc4499da11039464f1adf83-0-7ec25805f34bb2ff6a99c5053b9045c2
 上海纪实人文,https://bp-cdn-ali.bestv.cn/ch/bestvjsrw_4m.m3u8?auth_key=1729227604-2984955b4bcb487c8f7cc175ac4d2ecd-0-0fea405cd168c05495b0c5269789b421
@@ -931,6 +926,11 @@ CGTN,http://eyfs.vicp.net:8888/udp/239.76.245.66:1234
 上海都市,https://bp-cdn-ali.bestv.cn/ch/bestvdspd_4m.m3u8?auth_key=1729227604-d1f190a6fd5847d1b404f1f4b3cb195e-0-1f45d9214b8e347f9b9bb56cceaf7f26
 哈哈炫动,https://bp-cdn-ali.bestv.cn/ch/bestvhhxd_4m.m3u8?auth_key=1729227604-c0424903e4a04082baed321db5407208-0-2ad0777647d26c730387b80ac349bdac
 第一财经,https://bp-cdn-ali.bestv.cn/ch/bestvdycj_4m.m3u8?auth_key=1729227604-bda6cfe6a828463cb688fe8745399702-0-fac0989bd938df62d64a3701fffa23c1
+
+东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+上海纪实人文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+上海纪实人文,http://ry.soff.cn:4022/rtp/239.3.1.212:8060
 
 七彩戏剧,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031116/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031116
 东方影视,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000032212/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000032212
@@ -976,6 +976,8 @@ CGTN,http://eyfs.vicp.net:8888/udp/239.76.245.66:1234
 欢笑剧场,http://www.baopiqi.top:4022/rtp/239.45.3.196:5140
 欢笑剧场,http://www.baopiqi.top:4022/rtp/239.45.1.4:5140
 
+嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
+金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 
 
@@ -1309,6 +1311,8 @@ NEWTV金牌综艺,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/100000000
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
 香港开电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+公视少儿台,http://stream1.freetv.fun/ptsxsxiao-gong-shi-720-1.m3u8$720P
+公视少儿台,http://stream1.freetv.fun/ptsxsxiao-gong-shi-1080-1.m3u8$1080P
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
