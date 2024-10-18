@@ -954,6 +954,7 @@ CGTN,http://eyfs.vicp.net:8888/udp/239.76.245.66:1234
 金色学堂,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000026105/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000026105
 魅力足球,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031207/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031207
 
+东方卫视,http://www.baopiqi.top:4022/rtp/239.45.3.146:5140
 上海纪实人文,http://www.baopiqi.top:4022/rtp/239.45.3.212:5140
 上海新闻综合,http://www.baopiqi.top:4022/rtp/239.45.3.209:5140
 上海都市,http://www.baopiqi.top:4022/rtp/239.45.3.236:5140
@@ -1397,5 +1398,6 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 遂宁综合,https://szyplaytv.snxw.com/live/xwzh/playlist.m3u8
 遂宁文化生活,https://szyplaytv.snxw.com/live/gggy/playlist.m3u8
 重庆新闻,https://cqonsitecdn.cbgcloud.com/qf6jl2/tctiz9.m3u8
+中国天气,http://www.baopiqi.top:4022/rtp/239.45.1.47:5140
 
 
