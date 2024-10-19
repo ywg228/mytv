@@ -2394,14 +2394,6 @@ http://ry.soff.cn:4022/rtp/239.3.1.126:8001
 http://ry.soff.cn:4022/rtp/239.3.1.127:8001
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.com/tv/睛彩广场舞.png" group-title="北京",睛彩广场舞
 http://ry.soff.cn:4022/rtp/239.3.1.128:8001
-#EXTINF:-1 tvg-id="每日影院" tvg-name="每日影院" tvg-logo="https://live.fanmingming.com/tv/每日影院.png" group-title="北京",每日影院
-http://ry.soff.cn:4022/rtp/239.3.1.111:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",NEWTV幸福剧场
-http://ry.soff.cn:4022/rtp/239.3.1.112:8001
-#EXTINF:-1 tvg-id="幸福娱乐" tvg-name="幸福娱乐" tvg-logo="https://live.fanmingming.com/tv/幸福娱乐.png" group-title="北京",幸福娱乐
-http://ry.soff.cn:4022/rtp/239.3.1.113:8001
-#EXTINF:-1 tvg-id="风尚生活" tvg-name="风尚生活" tvg-logo="https://live.fanmingming.com/tv/风尚生活.png" group-title="北京",风尚生活
-http://ry.soff.cn:4022/rtp/239.3.1.114:8001
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="湖南",湖南卫视
 http://eyfs.vicp.net:8888/udp/239.76.253.101:9000
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="湖南",湖南卫视
