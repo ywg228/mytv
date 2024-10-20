@@ -421,6 +421,11 @@ CGTN,http://eyfs.vicp.net:8888/udp/239.76.245.66:1234
 东方卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236501/index.m3u8?fmt=ts2hls
 北京卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228321/index.m3u8?fmt=ts2hls
 北京卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230704/index.m3u8?fmt=ts2hls
+广东卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228329/index.m3u8?fmt=ts2hls
+广东卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230661/index.m3u8?fmt=ts2hls
+广东卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236479/index.m3u8?fmt=ts2hls
+深圳卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228314/index.m3u8?fmt=ts2hls
+深圳卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230676/index.m3u8?fmt=ts2hls
 安徽卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228332/index.m3u8?fmt=ts2hls
 安徽卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230707/index.m3u8?fmt=ts2hls
 山东卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228308/index.m3u8?fmt=ts2hls
@@ -429,11 +434,6 @@ CGTN,http://eyfs.vicp.net:8888/udp/239.76.245.66:1234
 湖北卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228357/index.m3u8?fmt=ts2hls
 湖北卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230670/index.m3u8?fmt=ts2hls
 湖北卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236540/index.m3u8?fmt=ts2hls
-深圳卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228314/index.m3u8?fmt=ts2hls
-深圳卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230676/index.m3u8?fmt=ts2hls
-广东卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228329/index.m3u8?fmt=ts2hls
-广东卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230661/index.m3u8?fmt=ts2hls
-广东卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236479/index.m3u8?fmt=ts2hls
 天津卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228320/index.m3u8?fmt=ts2hls
 黑龙江卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228302/index.m3u8?fmt=ts2hls
 黑龙江卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230710/index.m3u8?fmt=ts2hls
@@ -753,21 +753,21 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
+浙江卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 北京卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 湖南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 东方卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+江苏卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
+广东卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+深圳卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 四川卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 天津卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 安徽卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 山东卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-深圳卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-广东卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 广西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
-江苏卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 江西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 河北卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 河南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-浙江卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 海南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 湖北卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 东南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
@@ -1134,14 +1134,6 @@ NEWTV炫舞未来,http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898000
 
 
 上海,#genre#
-东方卫视,https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1729227604-8cd2dcd9b2484385837c82b878b04210-0-273b1e9678bfa35f1315d09734a33426
-上海新闻综合,https://bp-cdn-ali.bestv.cn/ch/bestvxwzh_4m.m3u8?auth_key=1729232561-23ba03015cc4499da11039464f1adf83-0-7ec25805f34bb2ff6a99c5053b9045c2
-上海纪实人文,https://bp-cdn-ali.bestv.cn/ch/bestvjsrw_4m.m3u8?auth_key=1729227604-2984955b4bcb487c8f7cc175ac4d2ecd-0-0fea405cd168c05495b0c5269789b421
-上海外语,https://bp-cdn-ali.bestv.cn/ch/bestvics_4m.m3u8?auth_key=1729227604-04a48dca020f4dba90a6a067a3750d92-0-15b705ec31463be77c560f80cf7fbd98
-上海都市,https://bp-cdn-ali.bestv.cn/ch/bestvdspd_4m.m3u8?auth_key=1729227604-d1f190a6fd5847d1b404f1f4b3cb195e-0-1f45d9214b8e347f9b9bb56cceaf7f26
-哈哈炫动,https://bp-cdn-ali.bestv.cn/ch/bestvhhxd_4m.m3u8?auth_key=1729227604-c0424903e4a04082baed321db5407208-0-2ad0777647d26c730387b80ac349bdac
-第一财经,https://bp-cdn-ali.bestv.cn/ch/bestvdycj_4m.m3u8?auth_key=1729227604-bda6cfe6a828463cb688fe8745399702-0-fac0989bd938df62d64a3701fffa23c1
-
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 上海纪实人文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
@@ -1197,35 +1189,18 @@ NEWTV炫舞未来,http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898000
 
 
 北京,#genre#
-北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1729168279&sign=3ab1f34b58adadc5783e37188ae9b72a
-北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1729167541&sign=5a0596dabb8be54ecb816c07084afbab
-北京纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1729167628&sign=fe57901d1840d2d906575f3fcb5595a4
-北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1729167398&sign=455a14874f463fbeda1ff273a08476d7
-北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1729168067&sign=24af8b63e9f133decf9bbff08a96202c
-北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1729168108&sign=ac2533ce081acc0cc22ed4adcf9d82dd
-北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1729168130&sign=7f54afb5c53a6556c12f3003906e392a
-北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1729168183&sign=a5d8ac25a6929489b3fb6cb7dcd6d5c3
-
-北京纪实科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-北京卡酷少儿,http://www.baopiqi.top:4022/rtp/239.45.0.8:5140
-北京纪实科教,http://www.baopiqi.top:4022/rtp/239.45.1.14:5140
-北京纪实科教,http://39.134.64.179:6610/PLTV/88888888/224/3221225729/index.m3u8?
-北京卡酷少儿,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/7851974109718180595/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=7851974109718180595
-北京纪实科教,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000001910/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001910
-北京卡酷少儿,http://p.hzzzz530.com:4022/rtp/239.69.1.193:10800
-
 北京卫视,http://ry.soff.cn:4022/rtp/239.3.1.241:8000
 北京卫视,http://ry.soff.cn:4022/rtp/239.3.1.221:8001
-北京财经,http://ry.soff.cn:4022/rtp/239.3.1.116:8000
 北京纪实科教,http://ry.soff.cn:4022/rtp/239.3.1.115:8000
-北京卡酷少儿,http://ry.soff.cn:4022/rtp/239.3.1.189:8000
+北京新闻,http://ry.soff.cn:4022/rtp/239.3.1.159:8000
+北京影视,http://ry.soff.cn:4022/rtp/239.3.1.158:8000
 北京生活,http://ry.soff.cn:4022/rtp/239.3.1.117:8000
 北京体育休闲,http://ry.soff.cn:4022/rtp/239.3.1.243:8000
 北京体育休闲,http://ry.soff.cn:4022/rtp/239.3.1.97:8001
 北京文艺,http://ry.soff.cn:4022/rtp/239.3.1.242:8000
-北京新闻,http://ry.soff.cn:4022/rtp/239.3.1.159:8000
-北京影视,http://ry.soff.cn:4022/rtp/239.3.1.158:8000
+北京财经,http://ry.soff.cn:4022/rtp/239.3.1.116:8000
 北京国际,http://ry.soff.cn:4022/rtp/239.3.1.235:8000
+北京卡酷少儿,http://ry.soff.cn:4022/rtp/239.3.1.189:8000
 朝阳融媒,http://ry.soff.cn:4022/rtp/239.3.1.163:8001
 房山电视台,http://ry.soff.cn:4022/rtp/239.3.1.96:8001
 密云电视,http://ry.soff.cn:4022/rtp/239.3.1.154:8001
@@ -1245,6 +1220,14 @@ IPTV大健康,http://ry.soff.cn:4022/rtp/239.3.1.251:8001
 幸福剧场,http://ry.soff.cn:4022/rtp/239.3.1.112:8001
 幸福娱乐,http://ry.soff.cn:4022/rtp/239.3.1.113:8001
 风尚生活,http://ry.soff.cn:4022/rtp/239.3.1.114:8001
+
+北京纪实科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+北京卡酷少儿,http://www.baopiqi.top:4022/rtp/239.45.0.8:5140
+北京纪实科教,http://www.baopiqi.top:4022/rtp/239.45.1.14:5140
+北京纪实科教,http://39.134.64.179:6610/PLTV/88888888/224/3221225729/index.m3u8?
+北京卡酷少儿,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/7851974109718180595/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=7851974109718180595
+北京纪实科教,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000001910/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001910
+北京卡酷少儿,http://p.hzzzz530.com:4022/rtp/239.69.1.193:10800
 
 
 湖南,#genre#
