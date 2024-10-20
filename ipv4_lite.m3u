@@ -1752,104 +1752,6 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010067/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010042/1.m3u8
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="IPV6",广东珠江
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",海南新闻
-http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000111/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",海南自贸
-http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/1.m3u8
-#EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://live.fanmingming.com/tv/海南公共.png" group-title="IPV6",海南公共
-http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/1.m3u8
-#EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" group-title="IPV6",海南少儿
-http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
-#EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="https://live.fanmingming.com/tv/海南文旅.png" group-title="IPV6",海南文旅
-http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",新海南
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010090/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",海口新闻综合
-http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000071/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",海口城乡经济
-http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000077/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",海口生活娱乐
-http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000072/1.m3u8
-#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/中国教育1台.png" group-title="IPV6",中国教育1台
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010103/1.m3u8
-#EXTINF:-1 tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/中国教育2台.png" group-title="IPV6",中国教育2台
-http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000025/1.m3u8
-#EXTINF:-1 tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/中国教育2台.png" group-title="IPV6",中国教育2台
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010104/1.m3u8
-#EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/中国教育4台.png" group-title="IPV6",中国教育4台
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010105/1.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="IPV6",CGTN
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010137/1.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="IPV6",CGTN
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010095/1.m3u8
-#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="IPV6",黑莓动画
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010002/1.m3u8
-#EXTINF:-1 tvg-id="NEWTV古装剧场" tvg-name="NEWTV古装剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV古装剧场.png" group-title="IPV6",NEWTV古装剧场
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010004/1.m3u8
-#EXTINF:-1 tvg-id="NEWTV家庭剧场" tvg-name="NEWTV家庭剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV家庭剧场.png" group-title="IPV6",NEWTV家庭剧场
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010074/1.m3u8
-#EXTINF:-1 tvg-id="NEWTV潮妈辣婆" tvg-name="NEWTV潮妈辣婆" tvg-logo="https://live.fanmingming.com/tv/NEWTV潮妈辣婆.png" group-title="IPV6",NEWTV潮妈辣婆
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010005/1.m3u8
-#EXTINF:-1 tvg-id="NEWTV动作电影" tvg-name="NEWTV动作电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV动作电影.png" group-title="IPV6",NEWTV动作电影
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010003/1.m3u8
-#EXTINF:-1 tvg-id="NEWTV爱情喜剧" tvg-name="NEWTV爱情喜剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV爱情喜剧.png" group-title="IPV6",NEWTV爱情喜剧
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010000/1.m3u8
-#EXTINF:-1 tvg-id="NEWTV东北热剧" tvg-name="NEWTV东北热剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV东北热剧.png" group-title="IPV6",NEWTV东北热剧
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010021/1.m3u8
-#EXTINF:-1 tvg-id="NEWTV欢乐剧场" tvg-name="NEWTV欢乐剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV欢乐剧场.png" group-title="IPV6",NEWTV欢乐剧场
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010025/1.m3u8
-#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png" group-title="IPV6",哒啵赛事
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010125/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",NEWTV武搏世界
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010135/1.m3u8
-#EXTINF:-1 tvg-id="NEWTV精品萌宠" tvg-name="NEWTV精品萌宠" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品萌宠.png" group-title="IPV6",精品萌宠
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010146/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",咪咕全民热练
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010147/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",NEWTV惊悚悬疑
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010077/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",NEWTV怡伴健康
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010082/1.m3u8
-#EXTINF:-1 tvg-id="NEWTV军事评论" tvg-name="NEWTV军事评论" tvg-logo="https://live.fanmingming.com/tv/NEWTV军事评论.png" group-title="IPV6",NEWTV军事评论
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010080/1.m3u8
-#EXTINF:-1 tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品体育.png" group-title="IPV6",NEWTV精品体育
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010078/1.m3u8
-#EXTINF:-1 tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级体育.png" group-title="IPV6",NEWTV超级体育
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010063/1.m3u8
-#EXTINF:-1 tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="IPV6",NEWTV超级综艺
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010062/1.m3u8
-#EXTINF:-1 tvg-id="NEWTV超级电影" tvg-name="NEWTV超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" group-title="IPV6",NEWTV超级电影
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010064/1.m3u8
-#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="IPV6",黑莓电影
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8
-#EXTINF:-1 tvg-id="NEWTV军旅剧场" tvg-name="NEWTV军旅剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV军旅剧场.png" group-title="IPV6",NEWTV军旅剧场
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010079/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",电子竞技
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010084/1.m3u8
-#EXTINF:-1 tvg-id="NEWTV金牌综艺" tvg-name="NEWTV金牌综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV金牌综艺.png" group-title="IPV6",NEWTV金牌综艺
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010086/1.m3u8
-#EXTINF:-1 tvg-id="NEWTV精品纪录" tvg-name="NEWTV精品纪录" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品纪录.png" group-title="IPV6",NEWTV精品纪录
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010076/1.m3u8
-#EXTINF:-1 tvg-id="NEWTV精品大剧" tvg-name="NEWTV精品大剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品大剧.png" group-title="IPV6",NEWTV精品大剧
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010072/1.m3u8
-#EXTINF:-1 tvg-id="NEWTV中国功夫" tvg-name="NEWTV中国功夫" tvg-logo="https://live.fanmingming.com/tv/NEWTV中国功夫.png" group-title="IPV6",NEWTV中国功夫
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010087/1.m3u8
-#EXTINF:-1 tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="IPV6",NEWTV超级电视剧
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010065/1.m3u8
-#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png" group-title="IPV6",哒啵赛事
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010126/1.m3u8
-#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png" group-title="IPV6",哒啵赛事
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010120/1.m3u8
-#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png" group-title="IPV6",哒啵赛事
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010124/1.m3u8
-#EXTINF:-1 tvg-id="NEWTV农业致富" tvg-name="NEWTV农业致富" tvg-logo="https://live.fanmingming.com/tv/NEWTV农业致富.png" group-title="IPV6",农业致富
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010085/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",热播精选
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010121/1.m3u8
-#EXTINF:-1 tvg-id="NEWTV炫舞未来" tvg-name="NEWTV炫舞未来" tvg-logo="https://live.fanmingming.com/tv/NEWTV炫舞未来.png" group-title="IPV6",NEWTV炫舞未来
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010039/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",咪咕精彩足球
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010148/1.m3u8
 #EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="IPV6",上海新闻综合
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="IPV6",上海都市
@@ -1900,6 +1802,102 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="IPV6",嘉佳卡通
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000025964/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",海南新闻
+http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000111/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",海南自贸
+http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/1.m3u8
+#EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://live.fanmingming.com/tv/海南公共.png" group-title="IPV6",海南公共
+http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/1.m3u8
+#EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" group-title="IPV6",海南少儿
+http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
+#EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="https://live.fanmingming.com/tv/海南文旅.png" group-title="IPV6",海南文旅
+http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",新海南
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010090/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",海口新闻综合
+http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000071/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",海口城乡经济
+http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000077/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",海口生活娱乐
+http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000072/1.m3u8
+#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/中国教育1台.png" group-title="IPV6",中国教育1台
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010103/1.m3u8
+#EXTINF:-1 tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/中国教育2台.png" group-title="IPV6",中国教育2台
+http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000025/1.m3u8
+#EXTINF:-1 tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/中国教育2台.png" group-title="IPV6",中国教育2台
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010104/1.m3u8
+#EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/中国教育4台.png" group-title="IPV6",中国教育4台
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010105/1.m3u8
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="IPV6",CGTN
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010137/1.m3u8
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="IPV6",CGTN
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010095/1.m3u8
+#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="IPV6",黑莓动画
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010002/1.m3u8
+#EXTINF:-1 tvg-id="NEWTV古装剧场" tvg-name="NEWTV古装剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV古装剧场.png" group-title="IPV6",NEWTV古装剧场
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010004/1.m3u8
+#EXTINF:-1 tvg-id="NEWTV家庭剧场" tvg-name="NEWTV家庭剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV家庭剧场.png" group-title="IPV6",NEWTV家庭剧场
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010074/1.m3u8
+#EXTINF:-1 tvg-id="NEWTV潮妈辣婆" tvg-name="NEWTV潮妈辣婆" tvg-logo="https://live.fanmingming.com/tv/NEWTV潮妈辣婆.png" group-title="IPV6",NEWTV潮妈辣婆
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010005/1.m3u8
+#EXTINF:-1 tvg-id="NEWTV动作电影" tvg-name="NEWTV动作电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV动作电影.png" group-title="IPV6",NEWTV动作电影
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010003/1.m3u8
+#EXTINF:-1 tvg-id="NEWTV爱情喜剧" tvg-name="NEWTV爱情喜剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV爱情喜剧.png" group-title="IPV6",NEWTV爱情喜剧
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010000/1.m3u8
+#EXTINF:-1 tvg-id="NEWTV东北热剧" tvg-name="NEWTV东北热剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV东北热剧.png" group-title="IPV6",NEWTV东北热剧
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010021/1.m3u8
+#EXTINF:-1 tvg-id="NEWTV欢乐剧场" tvg-name="NEWTV欢乐剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV欢乐剧场.png" group-title="IPV6",NEWTV欢乐剧场
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010025/1.m3u8
+#EXTINF:-1 tvg-id="NEWTV军事评论" tvg-name="NEWTV军事评论" tvg-logo="https://live.fanmingming.com/tv/NEWTV军事评论.png" group-title="IPV6",NEWTV军事评论
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010080/1.m3u8
+#EXTINF:-1 tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品体育.png" group-title="IPV6",NEWTV精品体育
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010078/1.m3u8
+#EXTINF:-1 tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级体育.png" group-title="IPV6",NEWTV超级体育
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010063/1.m3u8
+#EXTINF:-1 tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="IPV6",NEWTV超级综艺
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010062/1.m3u8
+#EXTINF:-1 tvg-id="NEWTV超级电影" tvg-name="NEWTV超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" group-title="IPV6",NEWTV超级电影
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010064/1.m3u8
+#EXTINF:-1 tvg-id="NEWTV军旅剧场" tvg-name="NEWTV军旅剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV军旅剧场.png" group-title="IPV6",NEWTV军旅剧场
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010079/1.m3u8
+#EXTINF:-1 tvg-id="NEWTV金牌综艺" tvg-name="NEWTV金牌综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV金牌综艺.png" group-title="IPV6",NEWTV金牌综艺
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010086/1.m3u8
+#EXTINF:-1 tvg-id="NEWTV精品纪录" tvg-name="NEWTV精品纪录" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品纪录.png" group-title="IPV6",NEWTV精品纪录
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010076/1.m3u8
+#EXTINF:-1 tvg-id="NEWTV精品大剧" tvg-name="NEWTV精品大剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品大剧.png" group-title="IPV6",NEWTV精品大剧
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010072/1.m3u8
+#EXTINF:-1 tvg-id="NEWTV中国功夫" tvg-name="NEWTV中国功夫" tvg-logo="https://live.fanmingming.com/tv/NEWTV中国功夫.png" group-title="IPV6",NEWTV中国功夫
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010087/1.m3u8
+#EXTINF:-1 tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="IPV6",NEWTV超级电视剧
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010065/1.m3u8
+#EXTINF:-1 tvg-id="NEWTV炫舞未来" tvg-name="NEWTV炫舞未来" tvg-logo="https://live.fanmingming.com/tv/NEWTV炫舞未来.png" group-title="IPV6",NEWTV炫舞未来
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010039/1.m3u8
+#EXTINF:-1 tvg-id="NEWTV农业致富" tvg-name="NEWTV农业致富" tvg-logo="https://live.fanmingming.com/tv/NEWTV农业致富.png" group-title="IPV6",NEWTV农业致富
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010085/1.m3u8
+#EXTINF:-1 tvg-id="NEWTV精品萌宠" tvg-name="NEWTV精品萌宠" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品萌宠.png" group-title="IPV6",NEWTV精品萌宠
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010146/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",NEWTV武搏世界
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010135/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",NEWTV惊悚悬疑
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010077/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",NEWTV怡伴健康
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010082/1.m3u8
+#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png" group-title="IPV6",哒啵赛事
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010125/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",咪咕全民热练
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010147/1.m3u8
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="IPV6",黑莓电影
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8
+#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png" group-title="IPV6",哒啵赛事
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010126/1.m3u8
+#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png" group-title="IPV6",哒啵赛事
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010120/1.m3u8
+#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png" group-title="IPV6",哒啵赛事
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010124/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",热播精选
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010121/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",咪咕精彩足球
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010148/1.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="浙江",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-id="钱江都市" tvg-name="钱江都市" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="浙江",浙江钱江都市
