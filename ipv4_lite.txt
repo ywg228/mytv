@@ -891,7 +891,6 @@ CCTV-17农业农村,http://[2409:8087:5e00:24::1e]:6060/000000001000/10000000060
 上海外语,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281
 五星体育,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
 东方影视,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
-东方财经,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281
 第一财经,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
 哒啵电竞,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281
 哒啵赛事,http://[2409:8087:5e00:24::1e]:6060/000000001000/5320946857686967621/1.m3u8
@@ -902,6 +901,7 @@ CCTV-17农业农村,http://[2409:8087:5e00:24::1e]:6060/000000001000/10000000060
 金鹰纪实,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8
 快乐垂钓,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8
 茶频道,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/1.m3u8
+嘉佳卡通,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000025964/1.m3u8
 SiTV游戏风云,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/1.m3u8
 SiTV动漫秀场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8
 SiTV动漫秀场,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000009&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
@@ -910,9 +910,9 @@ SiTV金色学堂,http://[2409:8087:5e00:24::1e]:6060/000000001000/50000000100000
 SiTV七彩戏剧,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281
 SiTV劲爆体育,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
 SiTV法治天地,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281
-嘉佳卡通,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000025964/1.m3u8
 SiTV欢笑剧场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/1.m3u8$4K
 SiTV都市剧场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031111/1.m3u8
+SiTV东方财经,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281
 黑莓电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000019624/1.m3u8
 黑莓电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/8785669936177902664/1.m3u8
 黑莓动画,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000021734/1.m3u8
@@ -1120,7 +1120,6 @@ CCTV-16奥林匹克,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/
 上海外语,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226201/index.m3u8
 上海都市,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226753/index.m3u8
 纪实人文,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226174/index.m3u8
-东方财经,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226602/index.m3u8
 东方购物,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226622/index.m3u8
 东方购物,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226691/index.m3u8
 东方购物,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226711/index.m3u8
@@ -1131,6 +1130,7 @@ SiTV都市剧场,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/322
 SiTV生活时尚,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226358/index.m3u8
 SiTV动漫秀场,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226197/index.m3u8
 SiTV游戏风云,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226187/index.m3u8
+SiTV东方财经,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226602/index.m3u8
 睛彩篮球,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226506/index.m3u8
 睛彩篮球,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226508/index.m3u8
 睛彩竞技,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226504/index.m3u8
@@ -1307,7 +1307,6 @@ SiTV游戏风云,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/322
 第一财经,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000027146/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000027146
 五星体育,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540
 东方影视,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000032212/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000032212
-东方财经,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000007000010003/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000007000010003
 哈哈炫动,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031123/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031123
 SiTV七彩戏剧,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031116/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031116
 SiTV乐游,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031112/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031112
@@ -1320,6 +1319,7 @@ SiTV生活时尚,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000002
 SiTV都市剧场,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031111/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031111
 SiTV金色学堂,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000026105/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000026105
 SiTV魅力足球,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031207/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031207
+SiTV东方财经,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000007000010003/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000007000010003
 
 东方卫视,http://www.baopiqi.top:4022/rtp/239.45.3.146:5140
 上海纪实人文,http://www.baopiqi.top:4022/rtp/239.45.3.212:5140
@@ -1327,7 +1327,6 @@ SiTV魅力足球,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011
 上海都市,http://www.baopiqi.top:4022/rtp/239.45.3.236:5140
 上海教育,http://www.baopiqi.top:4022/rtp/239.45.0.13:5140
 上海外语,http://www.baopiqi.top:4022/rtp/239.45.1.127:5140
-东方财经,http://www.baopiqi.top:4022/rtp/239.45.0.17:5140
 第一财经,http://www.baopiqi.top:4022/rtp/239.45.3.211:5140
 五星体育,http://www.baopiqi.top:4022/rtp/239.45.3.210:5140
 东方影视,http://www.baopiqi.top:4022/rtp/239.45.3.237:5140
@@ -1342,6 +1341,7 @@ SiTV法治天地,http://www.baopiqi.top:4022/rtp/239.45.1.46:5140
 SiTV七彩戏剧,http://www.baopiqi.top:4022/rtp/239.45.0.16:5140
 SiTV欢笑剧场,http://www.baopiqi.top:4022/rtp/239.45.3.196:5140
 SiTV欢笑剧场,http://www.baopiqi.top:4022/rtp/239.45.1.4:5140
+SiTV东方财经,http://www.baopiqi.top:4022/rtp/239.45.0.17:5140
 
 嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
 金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
@@ -1698,7 +1698,7 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 武术世界,http://www.weihuaz.icu:8888/rtp/239.252.220.180:5140
 文物宝库,http://www.weihuaz.icu:8888/rtp/239.252.220.158:5140
 纪实人文,http://www.weihuaz.icu:8888/rtp/239.252.219.227:5140
-东方财经,http://www.weihuaz.icu:8888/rtp/239.252.219.57:5140
+SiTV东方财经,http://www.weihuaz.icu:8888/rtp/239.252.219.57:5140
 金鹰纪实,http://www.weihuaz.icu:8888/rtp/239.252.220.155:5140
 金鹰卡通,http://www.weihuaz.icu:8888/rtp/239.252.219.69:5140
 茶频道,http://www.weihuaz.icu:8888/rtp/239.252.220.160:5140
