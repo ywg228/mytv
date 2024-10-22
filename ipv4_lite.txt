@@ -189,24 +189,17 @@ CGTN法语,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LS
 CGTN西班牙语,https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 CGTN俄语,https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-CCTV-4欧洲,http://xuwei418.synology.me:3333/rtp/239.253.230.186:8000
-CCTV-4美洲,http://xuwei418.synology.me:3333/rtp/239.253.230.187:8000
+CGTN,https://hc73k3dhwo5gfkt.wcetv.com/hls/cgtn.m3u8
+CGTN纪录,https://hc73k3dhwo5gfkt.wcetv.com/hls/cgtnd.m3u8
 CCTV-4欧洲,http://rou.xyparty.com:8867/rtp/224.30.30.215:8234
 CCTV-4美洲,http://rou.xyparty.com:8867/rtp/224.30.30.216:8235
 CCTV-4欧洲,http://www.mi4.xyz:8888/rtp/239.76.253.95:9000
 CCTV-4美洲,http://www.mi4.xyz:8888/rtp/239.76.253.96:9000
-CCTV-4欧洲,http://zuo-home.oicp.net:10099/rtp/239.33.4.223:22230
-CCTV-4美洲,http://zuo-home.oicp.net:10099/rtp/239.33.4.224:22240
-CCTV-4欧洲,http://czkeji.vip:9000/rtp/239.252.219.192:5140
-CCTV-4美洲,http://czkeji.vip:9000/rtp/239.252.219.193:5140
-CCTV-4欧洲,http://jia.hengji.xyz:8066/rtp/239.21.2.28:5002
-CCTV-4美洲,http://jia.hengji.xyz:8066/rtp/239.21.2.29:5002
 CCTV-4欧洲,http://ry.soff.cn:4022/rtp/239.3.1.213:4220
 CCTV-4美洲,http://ry.soff.cn:4022/rtp/239.3.1.214:4220
+CCTV-4美洲,https://hc73k3dhwo5gfkt.wcetv.com/hls/cctv4.m3u8
 CGTN,http://v4.ry.soff.cn:4022/rtp/239.3.1.215:4220
 CGTN纪录,http://v4.ry.soff.cn:4022/rtp/239.3.1.216:4220
-CCTV-4K超高清,http://xuweihome.asuscomm.com:3333/rtp/239.253.230.122:8000
-CCTV-4K超高清,http://openwrt.guidang.net:8888/rtp/225.1.8.223:2000
 
 CCTV-1综合,http://www.baopiqi.top:4022/rtp/239.45.3.145:5140
 CCTV-2财经,http://www.baopiqi.top:4022/rtp/239.45.0.1:5140
@@ -494,10 +487,9 @@ CGTN,http://eyfs.vicp.net:8888/rtp/239.76.245.66:1234
 兵团卫视,http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701_fhd.m3u8
 甘肃卫视,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 三沙卫视,https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=9d7060831729176429
-海峡卫视,http://loevor.tpddns.cn:8888/rtp/239.61.5.45:1025
-海峡卫视,http://lxc.sooogo.com:8888/rtp/239.61.5.45:1025
-海峡卫视,http://e2.woc.iiiya.cn:8888/rtp/239.61.5.45:1025
 海峡卫视,http://prettyalan.vicp.cc:8888/rtp/239.61.5.45:1025
+海峡卫视,http://loevor.tpddns.cn:8888/rtp/239.61.5.45:1025
+海峡卫视,http://e2.woc.iiiya.cn:8888/rtp/239.61.5.45:1025
 陕西卫视,http://dev.wugeng.cc:8686/rtp/239.76.254.76:9000
 陕西卫视,http://www.mi4.xyz:8888/rtp/239.76.254.76:9000
 陕西卫视,http://njepc.dynv6.net:4000/rtp/239.93.12.143:5140
@@ -510,10 +502,10 @@ CGTN,http://eyfs.vicp.net:8888/rtp/239.76.245.66:1234
 云南卫视,http://njepc.dynv6.net:4000/rtp/239.93.13.174:5140
 云南卫视,http://jjx.icu:8888/rtp/239.93.7.174:5140
 云南卫视,http://enlen.vip:4022/rtp/239.200.200.145:8840
-云南卫视,http://czkeji.vip:9000/rtp/239.252.219.185:5140
 康巴卫视,http://jjx.icu:8888/rtp/239.93.6.41:5140
 康巴卫视,http://zjc.ybitsm.com:7777/rtp/239.93.18.41:5140
 康巴卫视,http://cdut520.x3322.net:8008/rtp/239.93.26.41:5140
+大湾区卫视,https://hc73k3dhwo5gfkt.wcetv.com/hls/wcetv318.m3u8
 
 北京卫视,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000021288/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000021288
 湖南卫视,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000032695/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000032695
@@ -2138,6 +2130,7 @@ NewTV金牌综艺,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/100000000
 亚洲卫视,http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
 香港开电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 公视少儿台,http://stream1.freetv.fun/ptsxsxiao-gong-shi-720-1.m3u8$720P
 公视少儿台,http://stream1.freetv.fun/ptsxsxiao-gong-shi-1080-1.m3u8$1080P
