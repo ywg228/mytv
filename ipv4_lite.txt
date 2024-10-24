@@ -2284,15 +2284,19 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 睛彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 睛彩广场舞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 
+百事通4K电影,http://www.baopiqi.top:4022/rtp/239.45.3.107:5140 
+百事通4K纪实,http://www.baopiqi.top:4022/rtp/239.45.1.10:5140 
+金鹰纪实,http://www.baopiqi.top:4022/rtp/239.45.1.45:5140
+快乐垂钓,http://www.baopiqi.top:4022/rtp/239.45.3.12:5140
+茶频道,http://www.baopiqi.top:4022/rtp/239.45.3.18:5140 
+中国天气,http://www.baopiqi.top:4022/rtp/239.45.1.47:5140
 中国交通,http://ry.soff.cn:4022/rtp/239.3.1.188:8001
 爱上4K,http://ry.soff.cn:4022/rtp/239.3.1.236:2000
 金鹰纪实,http://ry.soff.cn:4022/rtp/239.3.1.58:8156
 快乐垂钓,http://ry.soff.cn:4022/rtp/239.3.1.164:8001
 茶频道,http://ry.soff.cn:4022/rtp/239.3.1.165:8001
-中国天气,http://www.baopiqi.top:4022/rtp/239.45.1.47:5140
-金鹰纪实,http://www.baopiqi.top:4022/rtp/239.45.1.45:5140
 哒啵赛事,http://39.134.64.179:6610/PLTV/88888888/224/3221225675/index.m3u8?
-中国交通北京,http://sdyheng.x3322.net:18888/udp/239.93.40.142:5140
-中国交通广东,http://www.aerowave.com.cn:4022/udp/239.77.1.249:5146
-中国交通湖南,http://56971314.xyz:9993/udp/239.76.247.100:1234
+中国交通北京,http://sdyheng.x3322.net:18888/rtp/239.93.40.142:5140
+中国交通广东,http://www.aerowave.com.cn:4022/rtp/239.77.1.249:5146
+中国交通湖南,http://56971314.xyz:9993/rtp/239.76.247.100:1234
 
