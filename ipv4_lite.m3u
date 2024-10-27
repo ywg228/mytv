@@ -134,11 +134,11 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236373/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236205/index.m3u8
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="央视",CGTN法语
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236288/index.m3u8
-#EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿拉伯语.png" group-title="央视",CGTN阿拉伯语
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视",CGTN阿拉伯语
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236290/index.m3u8
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视",CGTN俄语
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236228/index.m3u8
-#EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.com/tv/CGTN西班牙语.png" group-title="央视",CGTN西班牙语
+#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视",CGTN西班牙语
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236235/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1综合
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/index.m3u8?fmt=ts2hls
@@ -306,9 +306,9 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226520/index.m3u8
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视",CGTN俄语
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226543/index.m3u8
-#EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.com/tv/CGTN西班牙语.png" group-title="央视",CGTN西班牙语
+#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视",CGTN西班牙语
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226431/index.m3u8
-#EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿拉伯语.png" group-title="央视",CGTN阿拉伯语
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视",CGTN阿拉伯语
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226517/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1综合
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000018602/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000018602
@@ -366,9 +366,9 @@ https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPla
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8?$720P
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="央视",CGTN法语
 https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.com/tv/CGTN西班牙语.png" group-title="央视",CGTN西班牙语
+#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视",CGTN西班牙语
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿拉伯语.png" group-title="央视",CGTN阿拉伯语
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视",CGTN阿拉伯语
 https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视",CGTN俄语
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
@@ -480,7 +480,7 @@ http://eyfs.vicp.net:8888/rtp/239.76.246.95:1234
 http://eyfs.vicp.net:8888/rtp/239.76.253.96:9000
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV-4美洲
 http://eyfs.vicp.net:8888/rtp/239.76.246.96:1234
-#EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿拉伯语.png" group-title="央视",CGTN阿拉伯语
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视",CGTN阿拉伯语
 http://eyfs.vicp.net:8888/rtp/239.76.253.97:9000
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="央视",CGTN法语
 http://eyfs.vicp.net:8888/rtp/239.76.253.87:9000
@@ -490,7 +490,7 @@ http://eyfs.vicp.net:8888/rtp/239.76.253.86:9000
 http://eyfs.vicp.net:8888/rtp/239.76.252.67:9000
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视",CGTN
 http://eyfs.vicp.net:8888/rtp/239.76.252.66:9000
-#EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿拉伯语.png" group-title="央视",CGTN阿拉伯语
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视",CGTN阿拉伯语
 http://eyfs.vicp.net:8888/rtp/239.76.246.97:1234
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="央视",CGTN法语
 http://eyfs.vicp.net:8888/rtp/239.76.246.88:1234
@@ -1786,9 +1786,9 @@ https://0472.org/hls/cgtnd.m3u8
 https://0472.org/hls/cgtne.m3u8
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="IPV6",CGTN法语
 https://0472.org/hls/cgtnf.m3u8
-#EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.com/tv/CGTN西班牙语.png" group-title="IPV6",CGTN西班牙语
+#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="IPV6",CGTN西班牙语
 https://0472.org/hls/cgtnx.m3u8
-#EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿拉伯语.png" group-title="IPV6",CGTN阿拉伯语
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="IPV6",CGTN阿拉伯语
 https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="IPV6",CGTN
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
@@ -3270,7 +3270,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8
 http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="国际",凤凰资讯
 http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",凤凰香港
+#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="国际",凤凰香港
 http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="国际",凤凰中文
 http://nas.jc-hqp.cn:9999/rtp/233.50.200.42:5140
