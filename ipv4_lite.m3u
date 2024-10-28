@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml;https://epg.112114.eu.org/pp.xml;https://live.fanmingming.com/e.xml;https://e.erw.cc/all.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U url-tvg="https://live.fanmingming.com/e.xml;https://epg.112114.eu.org/pp.xml.gz;https://e.erw.cc/all.xml.gz;http://epg.51zmt.top:8000/e.xml;" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1综合
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236222/index.m3u8
