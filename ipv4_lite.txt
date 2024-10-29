@@ -1252,9 +1252,6 @@ CCTV-16奥林匹克,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/
 湖州公共频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235526/index.m3u8?fmt=ts2hls
 湖州新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235527/index.m3u8?fmt=ts2hls
 湖州文化娱乐,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235529/index.m3u8?fmt=ts2hls
-湖州公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233785/index.m3u8?fmt=ts2hls
-湖州综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233787/index.m3u8?fmt=ts2hls
-湖州文化,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233790/index.m3u8?fmt=ts2hls
 嘉兴文化影视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235447/index.m3u8?fmt=ts2hls
 嘉兴新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235458/index.m3u8?fmt=ts2hls
 嘉兴公共频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235460/index.m3u8?fmt=ts2hls
@@ -1265,9 +1262,9 @@ CCTV-16奥林匹克,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/
 衢州新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235441/index.m3u8?fmt=ts2hls
 衢州新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233805/index.m3u8?fmt=ts2hls
 衢州新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233755/index.m3u8?fmt=ts2hls
-衢州公共频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235443/index.m3u8?fmt=ts2hls
-衢州公共频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233808/index.m3u8?fmt=ts2hls
-衢州公共频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233752/index.m3u8?fmt=ts2hls
+衢州公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235443/index.m3u8?fmt=ts2hls
+衢州公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233808/index.m3u8?fmt=ts2hls
+衢州公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233752/index.m3u8?fmt=ts2hls
 舟山公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235445/index.m3u8?fmt=ts2hls
 舟山新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235449/index.m3u8?fmt=ts2hls
 宁波1台,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235593/index.m3u8?fmt=ts2hls
@@ -1303,10 +1300,9 @@ CCTV-16奥林匹克,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/
 
 武义新闻综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
 平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
-平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
-萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-萧山生活频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-余杭综合频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
+萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+余杭新闻频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 余杭未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
@@ -1322,7 +1318,7 @@ CCTV-16奥林匹克,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/
 宁波象山综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 宁波余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 丽水云和综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
@@ -1848,23 +1844,19 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 睛彩青少,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 睛彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 睛彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-咪咕视频,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 睛彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 睛彩广场舞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 
-百事通4K电影,http://www.baopiqi.top:4022/rtp/239.45.3.107:5140 
-百事通4K纪实,http://www.baopiqi.top:4022/rtp/239.45.1.10:5140 
 金鹰纪实,http://www.baopiqi.top:4022/rtp/239.45.1.45:5140
 快乐垂钓,http://www.baopiqi.top:4022/rtp/239.45.3.12:5140
 茶频道,http://www.baopiqi.top:4022/rtp/239.45.3.18:5140 
 中国天气,http://www.baopiqi.top:4022/rtp/239.45.1.47:5140
+百事通4K电影,http://www.baopiqi.top:4022/rtp/239.45.3.107:5140 
+百事通4K纪实,http://www.baopiqi.top:4022/rtp/239.45.1.10:5140 
 中国交通,http://ry.soff.cn:4022/rtp/239.3.1.188:8001
 爱上4K,http://ry.soff.cn:4022/rtp/239.3.1.236:2000
 金鹰纪实,http://ry.soff.cn:4022/rtp/239.3.1.58:8156
 快乐垂钓,http://ry.soff.cn:4022/rtp/239.3.1.164:8001
 茶频道,http://ry.soff.cn:4022/rtp/239.3.1.165:8001
 哒啵赛事,http://39.134.64.179:6610/PLTV/88888888/224/3221225675/index.m3u8?
-中国交通北京,http://sdyheng.x3322.net:18888/rtp/239.93.40.142:5140
-中国交通广东,http://www.aerowave.com.cn:4022/rtp/239.77.1.249:5146
-中国交通湖南,http://56971314.xyz:9993/rtp/239.76.247.100:1234
 
