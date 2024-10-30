@@ -193,11 +193,9 @@ CGTN,https://hc73k3dhwo5gfkt.wcetv.com/hls/cgtn.m3u8
 CGTN纪录,https://hc73k3dhwo5gfkt.wcetv.com/hls/cgtnd.m3u8
 CCTV-4欧洲,http://rou.xyparty.com:8867/rtp/224.30.30.215:8234
 CCTV-4美洲,http://rou.xyparty.com:8867/rtp/224.30.30.216:8235
-CCTV-4欧洲,http://www.mi4.xyz:8888/rtp/239.76.253.95:9000
-CCTV-4美洲,http://www.mi4.xyz:8888/rtp/239.76.253.96:9000
+CCTV-4美洲,https://hc73k3dhwo5gfkt.wcetv.com/hls/cctv4.m3u8
 CCTV-4欧洲,http://ry.soff.cn:4022/rtp/239.3.1.213:4220
 CCTV-4美洲,http://ry.soff.cn:4022/rtp/239.3.1.214:4220
-CCTV-4美洲,https://hc73k3dhwo5gfkt.wcetv.com/hls/cctv4.m3u8
 CGTN,http://v4.ry.soff.cn:4022/rtp/239.3.1.215:4220
 CGTN纪录,http://v4.ry.soff.cn:4022/rtp/239.3.1.216:4220
 
@@ -491,13 +489,11 @@ CGTN,http://eyfs.vicp.net:8888/rtp/239.76.245.66:1234
 海峡卫视,http://loevor.tpddns.cn:8888/rtp/239.61.5.45:1025
 海峡卫视,http://e2.woc.iiiya.cn:8888/rtp/239.61.5.45:1025
 陕西卫视,http://dev.wugeng.cc:8686/rtp/239.76.254.76:9000
-陕西卫视,http://www.mi4.xyz:8888/rtp/239.76.254.76:9000
 陕西卫视,http://njepc.dynv6.net:4000/rtp/239.93.12.143:5140
 陕西卫视,http://jjx.icu:8888/rtp/239.93.6.143:5140
 陕西卫视,http://zjc.ybitsm.com:7777/rtp/239.93.18.143:5140
 陕西卫视,http://zqh2333.top:2222/rtp/239.93.24.143:5140
 陕西卫视,http://sdyheng.x3322.net:18888/rtp/239.93.40.143:5140
-三沙卫视,http://www.mi4.xyz:8888/rtp/239.76.253.74:9000
 山西卫视,http://rou.xyparty.com:8867/rtp/224.30.30.96:8115
 云南卫视,http://njepc.dynv6.net:4000/rtp/239.93.13.174:5140
 云南卫视,http://jjx.icu:8888/rtp/239.93.7.174:5140
