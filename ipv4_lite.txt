@@ -1559,29 +1559,16 @@ IPTV大健康,http://ry.soff.cn:4022/rtp/239.3.1.251:8001
 
 
 江苏,#genre#
-江苏卫视,https://litchi-play-encrypted-site.jstv.com/live/jsws_live.m3u8?txSecret=1d2038032896bc605014ace4b919af56&txTime=6721e5ca
-江苏卫视,https://litchinews-tv-hls.jstv.com/litchinews-tv/jiangsuws.m3u8?sign=79a27b0ee2ea9b8adeb0fc5461e9aa70&t=6721f40a
-江苏新闻,https://litchi-play-encrypted-site.jstv.com/live/jsxw_live.m3u8?txSecret=bc0e5650d4c287cb743e08d9fe17be1d&txTime=6721dcbe
-江苏综艺,https://litchi-play-encrypted-site.jstv.com/live/jszy_live.m3u8?txSecret=a64895b2aeffe632d0fb31b2c5879372&txTime=6721dba1
-江苏城市,https://litchi-play-encrypted-site.jstv.com/live/jscs_live.m3u8?txSecret=584598835f0ad7ad18a465361fded988&txTime=6721dbe6
-江苏影视,https://litchi-play-encrypted-site.jstv.com/live/jsys_live.m3u8?txSecret=52b6886273421d7e5cb6c3d79bc79cb4&txTime=6721dc26
-江苏体育休闲,https://litchi-play-encrypted-site.jstv.com/live/jsxx_live.m3u8?txSecret=a29323899d9de84c8c1fc70b4431850a&txTime=6721dc51
-江苏教育,https://litchi-play-encrypted-site.jstv.com/live/jsjy_live.m3u8?txSecret=d412e7e0f7b3c1510bca097044a6d417&txTime=6721dce4
-江苏国际,https://litchi-play-encrypted-site.jstv.com/live/jsgj_live.m3u8?txSecret=e3cc51fb9de27d3633cccebb885bb3c4&txTime=6721dcff
-优漫卡通,https://litchi-play-encrypted-site.jstv.com/live/ymkt_live.m3u8?txSecret=23f01bf44d6528ea050e4180e990add2&txTime=6721dd2f
-南京新闻综合,https://litchi-play-encrypted-site.jstv.com/live/nanjing.m3u8?txSecret=19fb9e04fc0cd07ac5ead16bfe73366b&txTime=6721dda9
-苏州新闻综合,https://litchi-play-encrypted-site.jstv.com/live/suzhou.m3u8?txSecret=3033ccbee1cf3e6d97dbbc8be1a949f6&txTime=6721e3d7
-
-苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
-苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
-苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
-苏州电影娱乐信息,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
-苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 南京新闻综合,http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
 南京教科,http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
 南京十八生活,http://live.nbs.cn/channels/njtv/sbsh/nbs24.m3u8
 南京文旅纪录,http://live.nbs.cn/channels/njtv/wljl/nbs24.m3u8
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
+苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+苏州电影娱乐信息,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 
 无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8
