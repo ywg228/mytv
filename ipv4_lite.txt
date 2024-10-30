@@ -1293,23 +1293,6 @@ CCTV-16奥林匹克,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 
-浙江钱江都市,https://zhfivel06.cztv.com/channel02/1080p.m3u8?auth_key=1730278381-e29c4da86760b6faf8de179ec68ecd46-0-5f3bfa8d1d9ad51c599451e7ecf2e66f
-浙江钱江都市,https://zappl02.cztv.com/channel02/1080p.m3u8?auth_key=1730278432-a0e3701e7233ff5d5e546b445c1bfa2b-0-c0b128c60be64291be651fb7468eed14
-浙江经济生活,https://zhfivel06.cztv.com/channel03/1080p.m3u8?auth_key=1730278487-de5c782cce995bea775a2182726be35a-0-3c3678c1e33a3a295320bab9222daa05
-浙江经济生活,https://zappl02.cztv.com/channel03/1080p.m3u8?auth_key=1730278506-143e8ad7afcbeb0eaa094053fbd4d4eb-0-b6bbbf73fafd3f6ed414fb1e4ede4e39
-浙江教科影视,https://zhfivel06.cztv.com/channel04/1080p.m3u8?auth_key=1730278549-81910ad754556769b73c46e86a05f944-0-51a9eb8b1154d18d0c046a5970b60a0d
-浙江教科影视,https://zappl02.cztv.com/channel04/1080p.m3u8?auth_key=1730278584-b836389dc979295b68df28907b62cd6c-0-66ce82ac2b740daf258d580cff179454
-浙江民生休闲,https://zhfivel06.cztv.com/channel06/1080p.m3u8?auth_key=1730278618-16a15f209c892e77dfbd1774e91d0479-0-765a7096d32c1ec75c03fed6247ea988
-浙江民生休闲,https://zappl02.cztv.com/channel06/1080p.m3u8?auth_key=1730278633-eb935cbc8aa7289e5847b61179cdda9e-0-98847ec7060fe7761dfa544d333c7eab
-浙江公共新闻,https://zhfivel06.cztv.com/channel07/1080p.m3u8?auth_key=1730278673-b4989e7a09c9b11171ace05b804cb15d-0-b0f60bdfc1ed6569d3c8a80842ca8ef7
-浙江公共新闻,https://zappl02.cztv.com/channel07/1080p.m3u8?auth_key=1730278687-b8bf92dd1ef4259516abcc2dec236cb3-0-9b0ae7c4fbafc25897c5cf5be599b7d6
-浙江少儿,https://zhfivel06.cztv.com/channel08/1080p.m3u8?auth_key=1730278739-3c02dacb7baa7501b681a28d6f0e5f86-0-a5d7a7f70add35734543a237fbb378ab
-浙江少儿,https://zappl02.cztv.com/channel08/1080p.m3u8?auth_key=1730278749-7f3d042412e12ecb3f990187b52bb196-0-12a3e42f57f56572feaef3ea8582260d
-浙江国际,https://zhfivel06.cztv.com/channel10/1080p.m3u8?auth_key=1730278773-ceea850021ff1946f64296bc15c4c5bf-0-74d7eca8f744525553ce20aa7218f7d9
-浙江国际,https://zappl02.cztv.com/channel10/1080p.m3u8?auth_key=1730278784-a13c3814e10a09df444ffbc714f1d0aa-0-958e41caf0b8a184bbcc3bf86a2caa14
-浙江之江纪录,https://zhfivel06.cztv.com/channel12/1080p.m3u8?auth_key=1730278813-758dca84dfc156238edf8cdf4128817c-0-236e13ecbbb914d4b00fb9b0859a9dcd
-浙江之江纪录,https://zappl02.cztv.com/channel12/1080p.m3u8?auth_key=1730278826-41e533a0cd8af0453b09ae4045459a15-0-146c051fd86ceb161d8fe35b9f6d94bb
-
 武义新闻综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
 平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
 萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
