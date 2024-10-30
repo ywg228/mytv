@@ -1739,6 +1739,57 @@ CNA频道,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
+BBC News,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8
+Fox LiveNow,https://jmp2.uk/sam-USBA300024TN.m3u8
+CBC News,https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
+NBC News Now,https://jmp2.uk/sam-GBBB1500004LG.m3u8
+ABC News Live,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
+WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+AXS TV Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+Africa News,https://euronews-africanews-english-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Al Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
+Kids TV,https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
+Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+SportsGrid,https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
+RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+ComedyDynamics,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-xiaomi/playlist.m3u8
+BBC Impossible,https://bbc-impossible-1-ca.lg.wurl.tv/playlist.m3u8
+BBC Earth,https://d206rrc0yoxllg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-staxtq3pp4n9p/115c93cf-88fa-4c4d-86c1-ca74ac6969d7/3.m3u8
+History,https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
+TED Conference,https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
+Ted Talks,https://tedconferences-ted-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Mytime,https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+La La Life,https://amg02051-soulpublishing-amg02051c8-xiaomi-in-398.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-xiaomiin/playlist.m3u8
+MovieDome,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-xiaomi/playlist.m3u8
+Tastemade,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintleng-xiaomi/playlist.m3u8
+New Movies,https://newidco-newmovies-1-us.lg.wurl.tv/playlist.m3u8
+ION Plus,https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614
+Today Allday,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991245
+LoveStories,https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Travel XP,https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Museum TV,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
+Ondemand China,https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8
+Young Hollywood,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
+Food,https://food-eu.xiaomi.wurl.tv/playlist.m3u8
+Cartoon Network,https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+Rakuten Viki,https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
+Rakuten TV Shows,https://rakuten-tvshows-1-gb.xiaomi.wurl.tv/playlist.m3u8
+Rakuten Comedy,https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
+Rakuten Thriller,https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8
+Rakuten British Films,https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8
+Global Fashion Channel,https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Crime Time,https://bamca-crimetime-lg.amagi.tv/playlist.m3u8
+
 
 体育,#genre#
 CCTV-5体育,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236444/index.m3u8
