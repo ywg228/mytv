@@ -567,32 +567,6 @@ CGTN,http://eyfs.vicp.net:8888/rtp/239.76.245.66:1234
 青海卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000042
 云南卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000035
 甘肃卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000023
-北京卫视,http://175.178.112.165:33633/VT689/广H.php?id=bjws
-广东卫视,http://175.178.112.165:33633/VT689/广H.php?id=gdws
-东方卫视,http://175.178.112.165:33633/VT689/广H.php?id=dfws
-湖南卫视,http://175.178.112.165:33633/VT689/广H.php?id=hunws
-浙江卫视,http://175.178.112.165:33633/VT689/广H.php?id=zjws
-深圳卫视,http://175.178.112.165:33633/VT689/广H.php?id=szws
-宁夏卫视,http://175.178.112.165:33633/VT689/广H.php?id=nxws
-东南卫视,http://175.178.112.165:33633/VT689/广H.php?id=dnws
-山东卫视,http://175.178.112.165:33633/VT689/广H.php?id=sdws
-重庆卫视,http://175.178.112.165:33633/VT689/广H.php?id=cqws
-河南卫视,http://175.178.112.165:33633/VT689/广H.php?id=hnws
-河南卫视,http://175.178.112.165:33633/VT689/广H.php?id=hnws
-天津卫视,http://175.178.112.165:33633/VT689/广H.php?id=tjws
-新疆卫视,http://175.178.112.165:33633/VT689/广H.php?id=xjws
-东南卫视2,http://175.178.112.165:33633/VT689/广H.php?id=dnws2
-贵州卫视,http://175.178.112.165:33633/VT689/广H.php?id=gzws
-广西卫视,http://175.178.112.165:33633/VT689/广H.php?id=gxws
-云南卫视,http://175.178.112.165:33633/VT689/广H.php?id=ynws
-江苏卫视,http://175.178.112.165:33633/VT689/广H.php?id=jsws
-湖北卫视,http://175.178.112.165:33633/VT689/广H.php?id=hubws
-青海卫视,http://175.178.112.165:33633/VT689/广H.php?id=qhws
-陕西卫视,http://175.178.112.165:33633/VT689/广H.php?id=sxws
-山西卫视,http://175.178.112.165:33633/VT689/广H.php?id=sxiws
-内蒙古卫视,http://175.178.112.165:33633/VT689/广H.php?id=nmws
-海南卫视,http://175.178.112.165:33633/VT689/广H.php?id=hinws
-甘肃卫视,http://175.178.112.165:33633/VT689/广H.php?id=gsws
 
 浙江卫视,http://www.baopiqi.top:4022/rtp/239.45.3.178:5140 
 江苏卫视,http://www.baopiqi.top:4022/rtp/239.45.3.177:5140 
@@ -1860,7 +1834,7 @@ NewTV金牌综艺,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/100000000
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
 八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
-八大第一台,http://61.221.215.25:8800/hls/55/index.m3u8
+八大第1台,http://61.221.215.25:8800/hls/55/index.m3u8
 三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
