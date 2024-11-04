@@ -3478,6 +3478,70 @@ http://61.221.215.25:8800/hls/57/index.m3u8
 http://61.221.215.25:8800/hls/40/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",NHK WORLD
 http://61.221.215.25:8800/hls/51/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",民视第一台
+http://37.27.111.214:8080/live/4/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",民视台湾台
+http://37.27.111.214:8080/live/5/hls.m3u8
+#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="国际",民视
+http://37.27.111.214:8080/live/6/hls.m3u8
+#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="国际",中视
+http://37.27.111.214:8080/live/7/hls.m3u8
+#EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="国际",华视
+http://37.27.111.214:8080/live/8/hls.m3u8
+#EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://live.fanmingming.com/tv/龙华电影.png" group-title="国际",龙华电影
+http://37.27.111.214:8080/live/19/hls.m3u8
+#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/东森新闻.png" group-title="国际",东森新闻
+http://37.27.111.214:8080/live/20/hls.m3u8
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="国际",TVBS
+http://37.27.111.214:8080/live/23/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",TVBS欢乐台
+http://37.27.111.214:8080/live/24/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",三立综合台
+http://37.27.111.214:8080/live/31/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",猪哥会社
+http://37.27.111.214:8080/live/35/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",亚洲旅游台
+http://37.27.111.214:8080/live/10/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",幸福空间
+http://37.27.111.214:8080/live/26/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",HakkaTV
+http://37.27.111.214:8080/live/1/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",TiTV原视
+http://37.27.111.214:8080/live/2/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",动画动漫
+http://37.27.111.214:8080/live/57/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",Nick动画
+http://37.27.111.214:8080/live/12/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",Nick动画
+http://37.27.111.214:8080/live/22/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",MoMo亲子国
+http://37.27.111.214:8080/live/3/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",博斯高球
+http://37.27.111.214:8080/live/13/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",博斯运动
+http://37.27.111.214:8080/live/14/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",博斯无限
+http://37.27.111.214:8080/live/15/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",mTV音乐
+http://37.27.111.214:8080/live/25/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",HISTORY
+http://37.27.111.214:8080/live/27/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",HITs电影
+http://37.27.111.214:8080/live/28/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",探案电影
+http://37.27.111.214:8080/live/11/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",CINEMA WORLD
+http://37.27.111.214:8080/live/30/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",TV5 MONDE
+http://37.27.111.214:8080/live/9/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",BLOOMBERG
+http://37.27.111.214:8080/live/34/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",DW NEWS
+http://37.27.111.214:8080/live/46/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",CNBC
+http://37.27.111.214:8080/live/102/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",互动英语
+http://37.27.111.214:8080/live/54/hls.m3u8
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="国际",民视
 rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="国际",台视
