@@ -1669,21 +1669,21 @@ http://[2409:8087:2801:20:100::010]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888888
 http://[2409:8087:2801:20:100::010]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233005/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="IPV6",浙江少儿
 http://[2409:8087:2801:20:100::010]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233011/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",宁波1套
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",宁波新闻综合
 http://[2409:8087:2801:20:100::010]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235593/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",宁波1套
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",宁波新闻综合
 http://[2409:8087:2801:20:100::010]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235604/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",宁波2套
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",宁波经济生活
 http://[2409:8087:2801:20:100::010]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235608/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",宁波2套
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",宁波经济生活
 http://[2409:8087:2801:20:100::010]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235606/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",宁波3套
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",宁波都市文体
 http://[2409:8087:2801:20:100::010]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235595/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",宁波3套
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",宁波都市文体
 http://[2409:8087:2801:20:100::010]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235612/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",宁波4套
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",宁波影视剧
 http://[2409:8087:2801:20:100::010]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235597/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",宁波4套
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",宁波影视剧
 http://[2409:8087:2801:20:100::010]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235614/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6",嘉兴公共频道
 http://[2409:8087:2801:20:100::010]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235460/index.m3u8?fmt=ts2hls
@@ -2622,51 +2622,51 @@ https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 tvg-id="之江纪录" tvg-name="之江纪录" tvg-logo="https://live.fanmingming.com/tv/之江纪录.png" group-title="浙江",浙江之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.eu.org/logo/浙江卫视.png" group-title="浙江",浙江卫视
-http://wg.lloydind.cn:9999/udp/233.50.200.231:5140
+http://myddns.com.cn:9999/udp/233.50.200.231:5140
 #EXTINF:-1,tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://epg.112114.eu.org/logo/浙江钱江都市.png" group-title="浙江",浙江钱江都市
-http://wg.lloydind.cn:9999/udp/233.50.201.132:5140
+http://myddns.com.cn:9999/udp/233.50.201.132:5140
 #EXTINF:-1,tvg-id="浙江经济生活" tvg-name="浙江经济生活" tvg-logo="https://epg.112114.eu.org/logo/浙江经济生活.png" group-title="浙江",浙江经济生活
-http://wg.lloydind.cn:9999/udp/233.50.201.133:5140
+http://myddns.com.cn:9999/udp/233.50.201.133:5140
 #EXTINF:-1,tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="https://epg.112114.eu.org/logo/浙江教科影视.png" group-title="浙江",浙江教科影视
-http://wg.lloydind.cn:9999/udp/233.50.201.134:5140
+http://myddns.com.cn:9999/udp/233.50.201.134:5140
 #EXTINF:-1,tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://epg.112114.eu.org/logo/浙江民生休闲.png" group-title="浙江",浙江民生休闲
-http://wg.lloydind.cn:9999/udp/233.50.201.136:5140
+http://myddns.com.cn:9999/udp/233.50.201.136:5140
 #EXTINF:-1,tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="https://epg.112114.eu.org/logo/浙江公共新闻.png" group-title="浙江",浙江公共新闻
-http://wg.lloydind.cn:9999/udp/233.50.201.137:5140
+http://myddns.com.cn:9999/udp/233.50.201.137:5140
 #EXTINF:-1,tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://epg.112114.eu.org/logo/浙江少儿.png" group-title="浙江",浙江少儿
-http://wg.lloydind.cn:9999/udp/233.50.201.138:5140
+http://myddns.com.cn:9999/udp/233.50.201.138:5140
 #EXTINF:-1,tvg-id="浙江之江纪录" tvg-name="浙江之江纪录" tvg-logo="https://epg.112114.eu.org/logo/浙江之江纪录.png" group-title="浙江",浙江之江纪录
-http://wg.lloydind.cn:9999/udp/233.50.202.25:5140
+http://myddns.com.cn:9999/udp/233.50.202.25:5140
 #EXTINF:-1,tvg-id="杭州综合" tvg-name="杭州综合" tvg-logo="https://epg.112114.eu.org/logo/杭州综合.png" group-title="浙江",杭州综合
-http://wg.lloydind.cn:9999/udp/233.50.201.173:5140
+http://myddns.com.cn:9999/udp/233.50.201.173:5140
 #EXTINF:-1,tvg-id="杭州明珠" tvg-name="杭州明珠" tvg-logo="https://epg.112114.eu.org/logo/杭州明珠.png" group-title="浙江",杭州明珠
-http://wg.lloydind.cn:9999/udp/233.50.201.174:5140
+http://myddns.com.cn:9999/udp/233.50.201.174:5140
 #EXTINF:-1,tvg-id="杭州生活" tvg-name="杭州生活" tvg-logo="https://epg.112114.eu.org/logo/杭州生活.png" group-title="浙江",杭州生活
-http://wg.lloydind.cn:9999/udp/233.50.201.175:5140
+http://myddns.com.cn:9999/udp/233.50.201.175:5140
 #EXTINF:-1,tvg-id="杭州影视" tvg-name="杭州影视" tvg-logo="https://epg.112114.eu.org/logo/杭州影视.png" group-title="浙江",杭州影视
-http://wg.lloydind.cn:9999/udp/233.50.201.176:5140
+http://myddns.com.cn:9999/udp/233.50.201.176:5140
 #EXTINF:-1,tvg-id="杭州青少体育" tvg-name="杭州青少体育" tvg-logo="https://epg.112114.eu.org/logo/杭州青少体育.png" group-title="浙江",杭州青少体育
-http://wg.lloydind.cn:9999/udp/233.50.201.177:5140
+http://myddns.com.cn:9999/udp/233.50.201.177:5140
 #EXTINF:-1,tvg-id="杭州导视" tvg-name="杭州导视" tvg-logo="https://epg.112114.eu.org/logo/杭州导视.png" group-title="浙江",杭州导视
-http://wg.lloydind.cn:9999/udp/233.50.201.182:5140
+http://myddns.com.cn:9999/udp/233.50.201.182:5140
 #EXTINF:-1,tvg-id="宁波新闻综合" tvg-name="宁波新闻综合" tvg-logo="https://epg.112114.eu.org/logo/宁波新闻综合.png" group-title="浙江",宁波新闻综合
-http://wg.lloydind.cn:9999/udp/233.50.201.168:5140
+http://myddns.com.cn:9999/udp/233.50.201.168:5140
 #EXTINF:-1,tvg-id="宁波经济生活" tvg-name="宁波经济生活" tvg-logo="https://epg.112114.eu.org/logo/宁波经济生活.png" group-title="浙江",宁波经济生活
-http://wg.lloydind.cn:9999/udp/233.50.201.178:5140
+http://myddns.com.cn:9999/udp/233.50.201.178:5140
 #EXTINF:-1,tvg-id="宁波都市文体" tvg-name="宁波都市文体" tvg-logo="https://epg.112114.eu.org/logo/宁波都市文体.png" group-title="浙江",宁波都市文体
-http://wg.lloydind.cn:9999/udp/233.50.201.179:5140
+http://myddns.com.cn:9999/udp/233.50.201.179:5140
 #EXTINF:-1,tvg-id="宁波影视剧" tvg-name="宁波影视剧" tvg-logo="https://epg.112114.eu.org/logo/宁波影视剧.png" group-title="浙江",宁波影视剧
-http://wg.lloydind.cn:9999/udp/233.50.201.180:5140
+http://myddns.com.cn:9999/udp/233.50.201.180:5140
 #EXTINF:-1,tvg-id="温州新闻综合" tvg-name="温州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/温州新闻综合.png" group-title="浙江",温州新闻综合
-http://wg.lloydind.cn:9999/udp/233.50.201.87:5140
+http://myddns.com.cn:9999/udp/233.50.201.87:5140
 #EXTINF:-1,tvg-id="绍兴新闻综合" tvg-name="绍兴新闻综合" tvg-logo="https://epg.112114.eu.org/logo/绍兴新闻综合.png" group-title="浙江",绍兴新闻综合
-http://wg.lloydind.cn:9999/udp/233.50.201.156:5140
+http://myddns.com.cn:9999/udp/233.50.201.156:5140
 #EXTINF:-1,tvg-id="丽水新闻综合" tvg-name="丽水新闻综合" tvg-logo="https://epg.112114.eu.org/logo/丽水新闻综合.png" group-title="浙江",丽水新闻综合
-http://wg.lloydind.cn:9999/udp/233.50.201.162:5140
+http://myddns.com.cn:9999/udp/233.50.201.162:5140
 #EXTINF:-1,tvg-id="衢州新闻综合" tvg-name="衢州新闻综合" tvg-logo="https://epg.112114.eu.org/logo/衢州新闻综合.png" group-title="浙江",衢州新闻综合
-http://wg.lloydind.cn:9999/udp/233.50.202.11:5140
+http://myddns.com.cn:9999/udp/233.50.202.11:5140
 #EXTINF:-1,tvg-id="衢州公共" tvg-name="衢州公共" tvg-logo="https://epg.112114.eu.org/logo/衢州公共.png" group-title="浙江",衢州公共
-http://wg.lloydind.cn:9999/udp/233.50.202.12:5140
+http://myddns.com.cn:9999/udp/233.50.202.12:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江",武义新闻综合
 http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江",平湖新闻综合
@@ -3314,11 +3314,11 @@ http://nas.jc-hqp.cn:9999/rtp/233.50.200.191:5140
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="国际",凤凰资讯
 http://nas.jc-hqp.cn:9999/rtp/233.50.200.192:5140
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="国际",凤凰中文
-http://wg.lloydind.cn:9999/rtp/233.50.200.42:5140
+http://myddns.com.cn:9999/rtp/233.50.200.42:5140
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="国际",凤凰中文
-http://wg.lloydind.cn:9999/rtp/233.50.200.191:5140
+http://myddns.com.cn:9999/rtp/233.50.200.191:5140
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="国际",凤凰资讯
-http://wg.lloydind.cn:9999/rtp/233.50.200.192:5140
+http://myddns.com.cn:9999/rtp/233.50.200.192:5140
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="国际",凤凰中文
 http://xeace.cn:8888/rtp/239.93.0.162:2192
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="国际",凤凰中文
