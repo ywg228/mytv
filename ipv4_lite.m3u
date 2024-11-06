@@ -3193,7 +3193,7 @@ http://205.185.123.236:8899/tvb/Finance/stream.m3u8
 http://205.185.123.236:8899/astro/qianxi/stream.m3u8
 #EXTINF:-1 tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="" group-title="国际",Now爆谷台
 http://205.185.123.236:8899/1/baogutai/stream.m3u8
-#EXTINF:-1 tvg-id="Now爆谷星影台" tvg-name="Now爆谷星影台" tvg-logo="" group-title="国际",Now爆谷星影台
+#EXTINF:-1 tvg-id="Now星影台" tvg-name="Now星影台" tvg-logo="" group-title="国际",Now星影台
 http://205.185.123.236:8899/1/now/stream.m3u8
 #EXTINF:-1 tvg-id="中天娱乐" tvg-name="中天娱乐" tvg-logo="" group-title="国际",中天娱乐
 http://61.221.215.25:8800/hls/47/index.m3u8
@@ -3321,7 +3321,7 @@ http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 #EXTINF:-1 tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="" group-title="国际",Now爆谷台
 http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-#EXTINF:-1 tvg-id="Now爆谷星影台" tvg-name="Now爆谷星影台" tvg-logo="" group-title="国际",Now爆谷星影台
+#EXTINF:-1 tvg-id="Now星影台" tvg-name="Now星影台" tvg-logo="" group-title="国际",Now星影台
 http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 #EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="" group-title="国际",美亚电影台
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
