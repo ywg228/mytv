@@ -3015,13 +3015,13 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/index.m3u8?f
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231385/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="欧美影院" tvg-name="欧美影院" tvg-logo="" group-title="数字",探索纪实
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228366/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="IHOT精品剧场" tvg-name="IHOT精品剧场" tvg-logo="" group-title="数字",iHOT精品剧场
+#EXTINF:-1 tvg-id="精品剧场" tvg-name="精品剧场" tvg-logo="" group-title="数字",精品剧场
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231330/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="IHOT风尚音乐" tvg-name="IHOT风尚音乐" tvg-logo="" group-title="数字",iHOT风尚音乐
+#EXTINF:-1 tvg-id="风尚音乐" tvg-name="风尚音乐" tvg-logo="" group-title="数字",风尚音乐
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228344/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="IHOT漫游世界" tvg-name="IHOT漫游世界" tvg-logo="" group-title="数字",iHOT漫游世界
+#EXTINF:-1 tvg-id="漫游世界" tvg-name="漫游世界" tvg-logo="" group-title="数字",漫游世界
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228581/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="IHOT高清娱乐" tvg-name="IHOT高清娱乐" tvg-logo="" group-title="数字",iHOT高清娱乐
+#EXTINF:-1 tvg-id="高清娱乐" tvg-name="高清娱乐" tvg-logo="" group-title="数字",高清娱乐
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228575/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="电子竞技" tvg-name="电子竞技" tvg-logo="" group-title="数字",电子竞技
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228572/index.m3u8?fmt=ts2hls
