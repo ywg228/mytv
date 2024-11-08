@@ -181,6 +181,7 @@ CCTV-2财经,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000502
 CCTV-3综艺,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000003
 CCTV-4中文国际,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000503
 CCTV-5体育,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000005
+CCTV-5+体育赛事,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000507
 CCTV-6电影,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000006
 CCTV-7国防军事,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000504
 CCTV-8电视剧,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000008
@@ -1428,6 +1429,16 @@ SITV东方财经,http://www.baopiqi.top:4022/rtp/239.45.0.17:5140
 金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 
+上海新闻综合,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031110
+第一财经,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000027146
+哈哈炫动,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031123
+东方影视,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000032212
+五星体育,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000007
+五星体育,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000017540
+SITV东方财经,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000007000010003
+SITV魅力足球,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031207
+劲爆体育,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000008
+
 
 北京,#genre#
 北京卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228321/index.m3u8?fmt=ts2hls
@@ -1472,6 +1483,7 @@ IPTV大健康,http://ry.soff.cn:4022/rtp/239.3.1.251:8001
 北京纪实科教,http://www.baopiqi.top:4022/rtp/239.45.1.14:5140
 北京纪实科教,http://39.134.64.179:6610/PLTV/88888888/224/3221225729/index.m3u8?
 北京卡酷少儿,http://p.hzzzz530.com:4022/rtp/239.69.1.193:10800
+北京卡酷少儿,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=7851974109718180595
 
 
 数字,#genre#
@@ -1584,6 +1596,42 @@ NEWTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/
 百事通4K,http://www.baopiqi.top:4022/rtp/239.45.1.42:5140
 百事通4K,http://www.baopiqi.top:4022/rtp/239.45.1.108:5140
 百事通4K,http://www.baopiqi.top:4022/rtp/239.45.3.107:5140
+
+纯享4K,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011651
+华数4K影视,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000014
+求索纪录,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000010
+求索生活,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000011
+SITV欢笑剧场,http://php.jdshipin.com:8880/itv6s.php?cid=bestzb&id=5000000007000010001$4K
+SITV欢笑剧场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000009455$4K
+SITV都市剧场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031111
+SITV动漫秀场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031113
+SITV法治天地,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=9001547084732463424
+SITV金色学堂,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000026105
+SITV乐游,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031112
+SITV游戏风云,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031114
+SITV七彩戏剧,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031116
+SITV生活时尚,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000019634
+IHOT爱院线,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000030630
+IHOT爱谍战,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000070630
+IHOT爱悬疑,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000050630
+IHOT爱喜剧,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000010630
+IHOT爱经典,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000060630
+IHOT爱科幻,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000020630
+IHOT爱科学,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000160630
+IHOT爱浪漫,hhttp://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000040630
+IHOT爱历史,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000046
+IHOT爱旅行,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000250630
+IHOT爱奇谈,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000270630
+IHOT爱青春,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000100630
+IHOT爱赛车,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000240630
+IHOT爱动漫,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000280630
+IHOT爱玩具,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000220630
+IHOT爱幼教,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000049
+IHOT爱电竞,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000230630
+IHOT爱怀旧,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000260630
+IHOT爱体育,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000290630
+精彩影视,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000320630
+精彩影视,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000063
 
 
 国际,#genre#
@@ -1819,6 +1867,12 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 重庆新闻,https://cqonsitecdn.cbgcloud.com/qf6jl2/tctiz9.m3u8
 福建综合,https://p2.vzan.com/slowlive/485365200293316089/live.m3u8
 晋江电视台,https://live.ijjnews.com/jjtv/sd/live.m3u8
+广东珠江,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011655
+广州综合,http://php.jdshipin.com:8880/PLTV/iptv.php?id=gzzh
+广州影视,http://php.jdshipin.com:8880/PLTV/iptv.php?id=gzys
+广州南国都市,http://php.jdshipin.com:8880/PLTV/iptv.php?id=gzngds
+湖南娱乐,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=6427893650335440392
+湖南国际,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=5015828848322021526
 黑龙江影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 黑龙江新闻法治,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
@@ -1869,5 +1923,7 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 快乐垂钓,http://ry.soff.cn:4022/rtp/239.3.1.164:8001
 茶频道,http://ry.soff.cn:4022/rtp/239.3.1.165:8001
 哒啵赛事,http://39.134.64.179:6610/PLTV/88888888/224/3221225675/index.m3u8?
-
-
+中华美食,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000003000000052
+快乐垂钓,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031206
+茶频道,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031209
+茶频道,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000070
