@@ -1550,7 +1550,7 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 茶频道,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000070
 
 
-🪜_1248,#genre#
+需翻_1248,#genre#
 緯來體育,http://125.227.210.55:8155/VideoInput/play.ts
 三立台灣台,http://125.227.210.55:8160/VideoInput/play.ts
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
