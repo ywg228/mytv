@@ -3241,7 +3241,32 @@ http://ry.soff.cn:4022/rtp/239.3.1.164:8001
 http://ry.soff.cn:4022/rtp/239.3.1.165:8001
 #EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png" group-title="其它",哒啵赛事
 http://39.134.64.179:6610/PLTV/88888888/224/3221225675/index.m3u8?
-#EXTM3U
+#EXTINF:-1,tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://epg.112114.eu.org/logo/台視新聞.png" group-title="需翻",台視新聞
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1,tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://epg.112114.eu.org/logo/台視新聞.png" group-title="需翻",台視新聞
+http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1,tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://epg.112114.eu.org/logo/民視新聞台.png" group-title="需翻",民視新聞台
+http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1,tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://epg.112114.eu.org/logo/民視新聞台.png" group-title="需翻",民視新聞台
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.eu.org/logo/TVBS.png" group-title="需翻",TVBS
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.eu.org/logo/TVBS.png" group-title="需翻",TVBS
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.eu.org/logo/TVBS.png" group-title="需翻",TVBS亞洲
+http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.eu.org/logo/TVBS.png" group-title="需翻",TVBS亞洲
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1,tvg-id="東森超視" tvg-name="東森超視" tvg-logo="https://epg.112114.eu.org/logo/東森超視.png" group-title="需翻",東森超視
+http://38.64.72.148:80/hls/modn/list/2013/playlist.m3u8
+#EXTINF:-1,tvg-id="東森超視" tvg-name="東森超視" tvg-logo="https://epg.112114.eu.org/logo/東森超視.png" group-title="需翻",東森超視
+http://38.64.72.148/hls/modn/list/2013/chunklist0.m3u8
+#EXTINF:-1,tvg-id="東森美洲" tvg-name="東森美洲" tvg-logo="https://epg.112114.eu.org/logo/東森美洲.png" group-title="需翻",東森美洲
+http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
+#EXTINF:-1,tvg-id="東森美洲" tvg-name="東森美洲" tvg-logo="https://epg.112114.eu.org/logo/東森美洲.png" group-title="需翻",東森美洲
+http://38.64.72.148:80/hls/modn/list/2016/playlist.m3u8
+#EXTINF:-1,tvg-id="華語電視" tvg-name="華語電視" tvg-logo="https://epg.112114.eu.org/logo/華語電視.png" group-title="需翻",華語電視
+http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 #EXTINF:-1,tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://epg.112114.eu.org/logo/緯來體育.png" group-title="需翻",緯來體育
 http://125.227.210.55:8155/VideoInput/play.ts
 #EXTINF:-1,tvg-id="三立台灣台" tvg-name="三立台灣台" tvg-logo="https://epg.112114.eu.org/logo/三立台灣台.png" group-title="需翻",三立台灣台
