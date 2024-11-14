@@ -3241,3 +3241,56 @@ http://ry.soff.cn:4022/rtp/239.3.1.164:8001
 http://ry.soff.cn:4022/rtp/239.3.1.165:8001
 #EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png" group-title="其它",哒啵赛事
 http://39.134.64.179:6610/PLTV/88888888/224/3221225675/index.m3u8?
+#EXTM3U
+#EXTINF:-1,tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://epg.112114.eu.org/logo/緯來體育.png" group-title="需翻",緯來體育
+http://125.227.210.55:8155/VideoInput/play.ts
+#EXTINF:-1,tvg-id="三立台灣台" tvg-name="三立台灣台" tvg-logo="https://epg.112114.eu.org/logo/三立台灣台.png" group-title="需翻",三立台灣台
+http://125.227.210.55:8160/VideoInput/play.ts
+#EXTINF:-1,tvg-id="三立新聞" tvg-name="三立新聞" tvg-logo="https://epg.112114.eu.org/logo/三立新聞.png" group-title="需翻",三立新聞
+http://125.227.210.55:8162/VideoInput/play.ts
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.eu.org/logo/TVBS.png" group-title="需翻",TVBS新聞台
+http://125.227.210.55:8186/VideoInput/play.ts
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.eu.org/logo/TVBS.png" group-title="需翻",TVBS歡樂台
+http://125.227.210.55:8187/VideoInput/play.ts
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.eu.org/logo/TVBS.png" group-title="需翻",TVBS HD
+http://125.227.210.55:8188/VideoInput/play.ts
+#EXTINF:-1,tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://epg.112114.eu.org/logo/鳳凰中文.png" group-title="需翻",鳳凰中文
+http://125.227.210.55:39004/VideoInput/play.ts
+#EXTINF:-1,tvg-id="CN卡通" tvg-name="CN卡通" tvg-logo="https://epg.112114.eu.org/logo/CN卡通.png" group-title="需翻",CN卡通
+http://125.227.210.55:8167/VideoInput/play.ts
+#EXTINF:-1,tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://epg.112114.eu.org/logo/CINEMAX.png" group-title="需翻",CINEMAX
+http://125.227.210.55:8151/VideoInput/play.ts
+#EXTINF:-1,tvg-id="CNBCHONGKONG" tvg-name="CNBCHONGKONG" tvg-logo="https://epg.112114.eu.org/logo/CNBCHONGKONG.png" group-title="需翻",CNBC
+http://125.227.210.55:8152/VideoInput/play.ts
+#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.eu.org/logo/HBO.png" group-title="需翻",HBO HD
+http://125.227.210.55:8153/VideoInput/play.ts
+#EXTINF:-1,tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.eu.org/logo/DISCOVERY.png" group-title="需翻",Discovery
+http://125.227.210.55:8154/VideoInput/play.ts
+#EXTINF:-1,tvg-id="BLOOMBERGTV" tvg-name="BLOOMBERGTV" tvg-logo="https://epg.112114.eu.org/logo/BLOOMBERGTV.png" group-title="需翻",Bloomberg
+http://125.227.210.55:8161/VideoInput/play.ts
+#EXTINF:-1,tvg-id="BBC NEWS" tvg-name="BBC NEWS" tvg-logo="https://epg.112114.eu.org/logo/BBCNEWS.png" group-title="需翻",BBC NEWS
+http://125.227.210.55:8165/VideoInput/play.ts
+#EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.eu.org/logo/CNN.png" group-title="需翻",CNN NEWS
+http://125.227.210.55:8166/VideoInput/play.ts
+#EXTINF:-1,tvg-id="JTV" tvg-name="JTV" tvg-logo="https://epg.112114.eu.org/logo/JTV.png" group-title="需翻",JTV
+http://125.227.210.55:8169/VideoInput/play.ts
+#EXTINF:-1,tvg-id="TV5MONDE" tvg-name="TV5MONDE" tvg-logo="https://epg.112114.eu.org/logo/TV5MONDE.png" group-title="需翻",TV5 MONDE
+http://125.227.210.55:15533/VideoInput/play.ts
+#EXTINF:-1,tvg-id="KBS WORLD" tvg-name="KBS WORLD" tvg-logo="https://epg.112114.eu.org/logo/KBSWORLD.png" group-title="需翻",KBS WORLD
+http://125.227.210.55:17478/VideoInput/play.ts
+#EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.eu.org/logo/NHK.png" group-title="需翻",NHK JAPAN
+http://125.227.210.55:35802/VideoInput/play.ts
+#EXTINF:-1,tvg-id="DW" tvg-name="DW" tvg-logo="https://epg.112114.eu.org/logo/DW.png" group-title="需翻",DW NEWS
+http://125.227.210.55:42534/VideoInput/play.ts
+#EXTINF:-1,tvg-id="KOREA" tvg-name="KOREA" tvg-logo="https://epg.112114.eu.org/logo/KOREA.png" group-title="需翻",KOREA
+http://125.227.210.55:48553/VideoInput/play.ts
+#EXTINF:-1,tvg-id="🈲驚艷台" tvg-name="🈲驚艷台" tvg-logo="" group-title="需翻",🈲驚艷台
+http://125.227.210.55:8156/VideoInput/play.ts
+#EXTINF:-1,tvg-id="🍌香蕉台" tvg-name="🍌香蕉台" tvg-logo="" group-title="需翻",🍌香蕉台
+http://125.227.210.55:8159/VideoInput/play.ts
+#EXTINF:-1,tvg-id="🇯🇵日本A" tvg-name="🇯🇵日本A" tvg-logo="" group-title="需翻",🇯🇵日本A
+http://203.75.191.130:8201/VideoInput/play.ts
+#EXTINF:-1,tvg-id="🇯🇵日本B" tvg-name="🇯🇵日本B" tvg-logo="" group-title="需翻",🇯🇵日本B
+http://203.75.191.130:8205/VideoInput/play.ts
+#EXTINF:-1,tvg-id="🔞Mainu" tvg-name="🔞Mainu" tvg-logo="" group-title="需翻",🔞Mainu
+http://125.227.210.55:51359/VideoInput/play.ts
