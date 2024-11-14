@@ -1551,12 +1551,26 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 
 
 需翻,#genre#
+台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+民視新聞台,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+民視新聞台,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+東森超視,http://38.64.72.148:80/hls/modn/list/2013/playlist.m3u8
+東森超視,http://38.64.72.148/hls/modn/list/2013/chunklist0.m3u8
+東森美洲,http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
+東森美洲,http://38.64.72.148:80/hls/modn/list/2016/playlist.m3u8
+華語電視,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+
 緯來體育,http://125.227.210.55:8155/VideoInput/play.ts
 三立台灣台,http://125.227.210.55:8160/VideoInput/play.ts
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
 TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
 TVBS歡樂台,http://125.227.210.55:8187/VideoInput/play.ts
-TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
+TVBS,http://125.227.210.55:8188/VideoInput/play.ts
 鳳凰中文,http://125.227.210.55:39004/VideoInput/play.ts
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
