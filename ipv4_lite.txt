@@ -1577,9 +1577,3 @@ KOREA,http://125.227.210.55:48553/VideoInput/play.ts
 🇯🇵日本A,http://203.75.191.130:8201/VideoInput/play.ts
 🇯🇵日本B,http://203.75.191.130:8205/VideoInput/play.ts
 🔞Mainu,http://125.227.210.55:51359/VideoInput/play.ts
-
-
-測試,#genre#
-緯來體育台,mitv://generationnexxxt.com:19806/79090c69d43040148deaa21d5e26c32a
-衛視中文台,mitv://generationnexxxt.com:19806/7f7bdcb1fb94430daa8ba120dcbfde4e
-衛視電影台,mitv://generationnexxxt.com:19806/f5f1de75dbbf48e2a21a498977ffb8e4
