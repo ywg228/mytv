@@ -1636,7 +1636,7 @@ Mezzo Live,https://litv.zapi.us.kg/?id=4gtv-4gtv083
 亞洲旅遊台,https://litv.zapi.us.kg/?id=litv-longturn17
 龍華戲劇台,https://litv.zapi.us.kg/?id=litv-longturn18
 Smart知識台,https://litv.zapi.us.kg/?id=litv-longturn19
-生活英語台,https://litv.zapi.us.kg/?id=litv-longturn20
+ELTV生活英語台,https://litv.zapi.us.kg/?id=litv-longturn20
 龍華經典台,https://litv.zapi.us.kg/?id=litv-longturn21
 台灣戲劇台,https://litv.zapi.us.kg/?id=litv-longturn22
 
@@ -1656,7 +1656,7 @@ Smart知識台,https://litv.zapi.us.kg/?id=litv-longturn19
 亞洲旅遊台,https://www.567858.xyz/ofiii.php?id=litv-longturn17
 Smart知識台,https://www.567858.xyz/ofiii.php?id=litv-longturn19
 龍華戲劇台,https://www.567858.xyz/ofiii.php?id=litv-longturn18
-生活英語台,https://www.567858.xyz/ofiii.php?id=litv-longturn20
+ELTV生活英語台,https://www.567858.xyz/ofiii.php?id=litv-longturn20
 龍華經典台,https://www.567858.xyz/ofiii.php?id=litv-longturn21
 台灣戲劇台,https://www.567858.xyz/ofiii.php?id=litv-longturn22
 寰宇財經台,https://www.567858.xyz/ofiii.php?id=litv-longturn23
