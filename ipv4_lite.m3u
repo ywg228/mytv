@@ -3290,7 +3290,7 @@ https://litv.zapi.us.kg/?id=4gtv-4gtv041
 https://litv.zapi.us.kg/?id=4gtv-4gtv042
 #EXTINF:-1,tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://epg.112114.eu.org/logo/客家電視台.png" group-title="需翻",客家電視台
 https://litv.zapi.us.kg/?id=4gtv-4gtv043
-#EXTINF:-1,tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://epg.112114.eu.org/logo/靖天卡通台.png" group-title="需翻",靖天卡通台
+#EXTINF:-1,tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://live.fanmingming.com/tv/靖天卡通.png" group-title="需翻",靖天卡通台
 https://litv.zapi.us.kg/?id=4gtv-4gtv044
 #EXTINF:-1,tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://epg.112114.eu.org/logo/靖洋戲劇台.png" group-title="需翻",靖洋戲劇台
 https://litv.zapi.us.kg/?id=4gtv-4gtv045
@@ -3308,11 +3308,11 @@ https://litv.zapi.us.kg/?id=4gtv-4gtv051
 https://litv.zapi.us.kg/?id=4gtv-4gtv052
 #EXTINF:-1,tvg-id="GinxTV" tvg-name="GinxTV" tvg-logo="https://epg.112114.eu.org/logo/GINXTV.png" group-title="需翻",GinxTV
 https://litv.zapi.us.kg/?id=4gtv-4gtv053
-#EXTINF:-1,tvg-id="靖天歡樂台" tvg-name="靖天歡樂台" tvg-logo="https://epg.112114.eu.org/logo/靖天歡樂台.png" group-title="需翻",靖天歡樂台
+#EXTINF:-1,tvg-id="靖天歡樂台" tvg-name="靖天歡樂台" tvg-logo="https://live.fanmingming.com/tv/靖天欢乐.png" group-title="需翻",靖天歡樂台
 https://litv.zapi.us.kg/?id=4gtv-4gtv054
-#EXTINF:-1,tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://epg.112114.eu.org/logo/靖天映畫.png" group-title="需翻",靖天映畫
+#EXTINF:-1,tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://live.fanmingming.com/tv/靖天映画.png" group-title="需翻",靖天映畫
 https://litv.zapi.us.kg/?id=4gtv-4gtv055
-#EXTINF:-1,tvg-id="台視財經" tvg-name="台視財經" tvg-logo="https://epg.112114.eu.org/logo/台視財經.png" group-title="需翻",台視財經
+#EXTINF:-1,tvg-id="台視財經" tvg-name="台視財經" tvg-logo="https://live.fanmingming.com/tv/台视财经.png" group-title="需翻",台視財經
 https://litv.zapi.us.kg/?id=4gtv-4gtv056
 #EXTINF:-1,tvg-id="靖洋卡通台" tvg-name="靖洋卡通台" tvg-logo="https://epg.112114.eu.org/logo/靖洋卡通台.png" group-title="需翻",靖洋卡通台
 https://litv.zapi.us.kg/?id=4gtv-4gtv057
@@ -3326,7 +3326,7 @@ https://litv.zapi.us.kg/?id=4gtv-4gtv061
 https://litv.zapi.us.kg/?id=4gtv-4gtv062
 #EXTINF:-1,tvg-id="靖天國際台" tvg-name="靖天國際台" tvg-logo="https://epg.112114.eu.org/logo/靖天國際台.png" group-title="需翻",靖天國際台
 https://litv.zapi.us.kg/?id=4gtv-4gtv063
-#EXTINF:-1,tvg-id="中視菁采" tvg-name="中視菁采" tvg-logo="https://epg.112114.eu.org/logo/中視菁采.png" group-title="需翻",中視菁采
+#EXTINF:-1,tvg-id="中視菁采" tvg-name="中視菁采" tvg-logo="https://live.fanmingming.com/tv/中视菁采.png" group-title="需翻",中視菁采
 https://litv.zapi.us.kg/?id=4gtv-4gtv064
 #EXTINF:-1,tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://epg.112114.eu.org/logo/靖天資訊台.png" group-title="需翻",靖天資訊台
 https://litv.zapi.us.kg/?id=4gtv-4gtv065
@@ -3366,9 +3366,9 @@ https://litv.zapi.us.kg/?id=4gtv-4gtv101
 https://litv.zapi.us.kg/?id=4gtv-4gtv104
 #EXTINF:-1,tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://epg.112114.eu.org/logo/中天亞洲台.png" group-title="需翻",中天亞洲台
 https://litv.zapi.us.kg/?id=4gtv-4gtv109
-#EXTINF:-1,tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://epg.112114.eu.org/logo/東森新聞.png" group-title="需翻",東森新聞
+#EXTINF:-1,tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://epg.112114.eu.org/logo/东森新闻.png" group-title="需翻",東森新聞
 https://litv.zapi.us.kg/?id=4gtv-4gtv152
-#EXTINF:-1,tvg-id="東森財經新聞" tvg-name="東森財經新聞" tvg-logo="https://epg.112114.eu.org/logo/東森財經新聞.png" group-title="需翻",東森財經新聞
+#EXTINF:-1,tvg-id="東森財經新聞" tvg-name="東森財經新聞" tvg-logo="https://epg.112114.eu.org/logo/东森财经新闻.png" group-title="需翻",東森財經新聞
 https://litv.zapi.us.kg/?id=4gtv-4gtv153
 #EXTINF:-1,tvg-id="民視" tvg-name="民視" tvg-logo="https://epg.112114.eu.org/logo/民視.png" group-title="需翻",民視
 https://litv.zapi.us.kg/?id=4gtv-4gtv155
@@ -3486,7 +3486,7 @@ https://1234.koyeb.app/litv/4gtv-4gtv109
 https://1234.koyeb.app/litv/4gtv-4gtv009
 #EXTINF:-1,tvg-id="中視" tvg-name="中視" tvg-logo="https://epg.112114.eu.org/logo/中視.png" group-title="需翻",中視
 https://1234.koyeb.app/litv/4gtv-4gtv040
-#EXTINF:-1,tvg-id="中視菁采" tvg-name="中視菁采" tvg-logo="https://epg.112114.eu.org/logo/中視菁采.png" group-title="需翻",中視菁采
+#EXTINF:-1,tvg-id="中視菁采" tvg-name="中視菁采" tvg-logo="https://live.fanmingming.com/tv/中视菁采.png" group-title="需翻",中視菁采
 https://1234.koyeb.app/litv/4gtv-4gtv064
 #EXTINF:-1,tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://epg.112114.eu.org/logo/中視新聞.png" group-title="需翻",中視新聞
 https://1234.koyeb.app/litv/4gtv-4gtv074
@@ -3508,9 +3508,9 @@ https://1234.koyeb.app/litv/4gtv-4gtv001
 https://1234.koyeb.app/litv/4gtv-4gtv003
 #EXTINF:-1,tvg-id="民視綜藝" tvg-name="民視綜藝" tvg-logo="https://epg.112114.eu.org/logo/民視綜藝.png" group-title="需翻",民視綜藝
 https://1234.koyeb.app/litv/4gtv-4gtv004
-#EXTINF:-1,tvg-id="東森財經新聞" tvg-name="東森財經新聞" tvg-logo="https://epg.112114.eu.org/logo/東森財經新聞.png" group-title="需翻",東森財經新聞
+#EXTINF:-1,tvg-id="東森財經新聞" tvg-name="東森財經新聞" tvg-logo="https://epg.112114.eu.org/logo/东森财经新闻.png" group-title="需翻",東森財經新聞
 https://1234.koyeb.app/litv/4gtv-4gtv153
-#EXTINF:-1,tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://epg.112114.eu.org/logo/東森新聞.png" group-title="需翻",東森新聞
+#EXTINF:-1,tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://epg.112114.eu.org/logo/东森新闻.png" group-title="需翻",東森新聞
 https://1234.koyeb.app/litv/4gtv-4gtv152
 #EXTINF:-1,tvg-id="采昌影劇" tvg-name="采昌影劇" tvg-logo="https://live.fanmingming.com/tv/采昌影剧.png" group-title="需翻",采昌影劇
 https://1234.koyeb.app/litv/4gtv-4gtv049
@@ -3522,7 +3522,7 @@ https://1234.koyeb.app/litv/4gtv-4gtv010
 https://1234.koyeb.app/litv/4gtv-4gtv043
 #EXTINF:-1,tvg-id="原住民" tvg-name="原住民" tvg-logo="https://epg.112114.eu.org/logo/原住民.png" group-title="需翻",原住民族電視台
 https://1234.koyeb.app/4gtv/273
-#EXTINF:-1,tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://epg.112114.eu.org/logo/國會頻道1.png" group-title="需翻",國會頻道1
+#EXTINF:-1,tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://epg.112114.eu.org/logo/国会频道1.png" group-title="需翻",國會頻道1
 https://1234.koyeb.app/litv/4gtv-4gtv084
 #EXTINF:-1,tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://epg.112114.eu.org/logo/國會頻道2.png" group-title="需翻",國會頻道2
 https://1234.koyeb.app/litv/4gtv-4gtv085
@@ -3538,11 +3538,11 @@ https://1234.koyeb.app/litv/4gtv-4gtv052
 https://1234.koyeb.app/litv/4gtv-4gtv018
 #EXTINF:-1,tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://epg.112114.eu.org/logo/靖天日本台.png" group-title="需翻",靖天日本台
 https://1234.koyeb.app/litv/4gtv-4gtv047
-#EXTINF:-1,tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://epg.112114.eu.org/logo/靖天卡通台.png" group-title="需翻",靖天卡通台
+#EXTINF:-1,tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://live.fanmingming.com/tv/靖天卡通.png" group-title="需翻",靖天卡通台
 https://1234.koyeb.app/litv/4gtv-4gtv044
 #EXTINF:-1,tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://epg.112114.eu.org/logo/靖天育樂台.png" group-title="需翻",靖天育樂台
 https://1234.koyeb.app/litv/4gtv-4gtv062
-#EXTINF:-1,tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://epg.112114.eu.org/logo/靖天映畫.png" group-title="需翻",靖天映畫
+#EXTINF:-1,tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://live.fanmingming.com/tv/靖天映画.png" group-title="需翻",靖天映畫
 https://1234.koyeb.app/litv/4gtv-4gtv055
 #EXTINF:-1,tvg-id="靖天國際台" tvg-name="靖天國際台" tvg-logo="https://epg.112114.eu.org/logo/靖天國際台.png" group-title="需翻",靖天國際台
 https://1234.koyeb.app/litv/4gtv-4gtv063
@@ -3554,7 +3554,7 @@ https://1234.koyeb.app/litv/4gtv-4gtv061
 https://1234.koyeb.app/litv/4gtv-4gtv046
 #EXTINF:-1,tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://epg.112114.eu.org/logo/靖天戲劇台.png" group-title="需翻",靖天戲劇台
 https://1234.koyeb.app/litv/4gtv-4gtv058
-#EXTINF:-1,tvg-id="靖天歡樂台" tvg-name="靖天歡樂台" tvg-logo="https://epg.112114.eu.org/logo/靖天歡樂台.png" group-title="需翻",靖天歡樂台
+#EXTINF:-1,tvg-id="靖天歡樂台" tvg-name="靖天歡樂台" tvg-logo="https://live.fanmingming.com/tv/靖天欢乐.png" group-title="需翻",靖天歡樂台
 https://1234.koyeb.app/litv/4gtv-4gtv054
 #EXTINF:-1,tvg-id="靖洋卡通台" tvg-name="靖洋卡通台" tvg-logo="https://epg.112114.eu.org/logo/靖洋卡通台.png" group-title="需翻",靖洋卡通台
 https://1234.koyeb.app/litv/4gtv-4gtv057
