@@ -2394,25 +2394,25 @@ http://ry.soff.cn:4022/rtp/239.3.1.116:8000
 http://ry.soff.cn:4022/rtp/239.3.1.235:8000
 #EXTINF:-1 tvg-id="北京卡酷少儿" tvg-name="北京卡酷少儿" tvg-logo="" group-title="北京",北京卡酷少儿
 http://ry.soff.cn:4022/rtp/239.3.1.189:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",朝阳融媒
+#EXTINF:-1 tvg-id="朝阳融媒" tvg-name="朝阳融媒" tvg-logo="https://epg.112114.eu.org/logo/朝阳融媒.png" group-title="北京",朝阳融媒
 http://ry.soff.cn:4022/rtp/239.3.1.163:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",房山电视台
 http://ry.soff.cn:4022/rtp/239.3.1.96:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",密云电视
 http://ry.soff.cn:4022/rtp/239.3.1.154:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",IPTV淘剧场
+#EXTINF:-1 tvg-id="淘剧场" tvg-name="淘剧场" tvg-logo="https://epg.112114.eu.org/logo/淘剧场.png" group-title="北京",IPTV淘剧场
 http://ry.soff.cn:4022/rtp/239.3.1.95:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",IPTV淘娱乐
+#EXTINF:-1 tvg-id="淘娱乐" tvg-name="淘娱乐" tvg-logo="https://epg.112114.eu.org/logo/淘娱乐.png" group-title="北京",IPTV淘娱乐
 http://ry.soff.cn:4022/rtp/239.3.1.100:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",IPTV萌宠TV
+#EXTINF:-1 tvg-id="萌宠TV" tvg-name="萌宠TV" tvg-logo="https://epg.112114.eu.org/logo/萌宠TV.png" group-title="北京",IPTV萌宠TV
 http://ry.soff.cn:4022/rtp/239.3.1.102:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",IPTV淘精彩
+#EXTINF:-1 tvg-id="淘精彩" tvg-name="淘精彩" tvg-logo="https://epg.112114.eu.org/logo/淘精彩.png" group-title="北京",IPTV淘精彩
 http://ry.soff.cn:4022/rtp/239.3.1.178:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",IPTV淘Baby
+#EXTINF:-1 tvg-id="淘BABY" tvg-name="淘BABY" tvg-logo="https://epg.112114.eu.org/logo/淘BABY.png" group-title="北京",IPTV淘Baby
 http://ry.soff.cn:4022/rtp/239.3.1.238:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",IPTV淘电影
+#EXTINF:-1 tvg-id="淘电影" tvg-name="淘电影" tvg-logo="https://epg.112114.eu.org/logo/淘电影.png" group-title="北京",IPTV淘电影
 http://ry.soff.cn:4022/rtp/239.3.1.250:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",IPTV大健康
+#EXTINF:-1 tvg-id="大健康" tvg-name="大健康" tvg-logo="https://epg.112114.eu.org/logo/大健康.png" group-title="北京",IPTV大健康
 http://ry.soff.cn:4022/rtp/239.3.1.251:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",4K超清
 http://ry.soff.cn:4022/rtp/239.3.1.249:8001
@@ -2426,7 +2426,7 @@ http://ry.soff.cn:4022/rtp/239.3.1.127:8001
 http://ry.soff.cn:4022/rtp/239.3.1.128:8001
 #EXTINF:-1 tvg-id="每日影院" tvg-name="每日影院" tvg-logo="https://live.fanmingming.com/tv/每日影院.png" group-title="北京",每日影院
 http://ry.soff.cn:4022/rtp/239.3.1.111:8001
-#EXTINF:-1 tvg-id="幸福剧场" tvg-name="幸福剧场" tvg-logo="" group-title="北京",幸福剧场
+#EXTINF:-1 tvg-id="幸福剧场" tvg-name="幸福剧场" tvg-logo="https://epg.112114.eu.org/logo/幸福剧场.png" group-title="北京",幸福剧场
 http://ry.soff.cn:4022/rtp/239.3.1.112:8001
 #EXTINF:-1 tvg-id="幸福娱乐" tvg-name="幸福娱乐" tvg-logo="https://live.fanmingming.com/tv/幸福娱乐.png" group-title="北京",幸福娱乐
 http://ry.soff.cn:4022/rtp/239.3.1.113:8001
@@ -2599,11 +2599,11 @@ http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D
 #EXTINF:-1 tvg-id="经典电影台" tvg-name="经典电影台" tvg-logo="https://epg.112114.eu.org/logo/经典电影台.png" group-title="数字",经典电影台
 http://ali.hlspull.yximgs.com/live/asdfg978707232.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",百事通4K
+#EXTINF:-1 tvg-id="百事通4K" tvg-name="百事通4K" tvg-logo="https://epg.112114.eu.org/logo/百事通4K.png" group-title="数字",百事通4K
 http://www.baopiqi.top:4022/rtp/239.45.1.42:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",百事通4K
+#EXTINF:-1 tvg-id="百事通4K" tvg-name="百事通4K" tvg-logo="https://epg.112114.eu.org/logo/百事通4K.png" group-title="数字",百事通4K
 http://www.baopiqi.top:4022/rtp/239.45.1.108:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",百事通4K
+#EXTINF:-1 tvg-id="百事通4K" tvg-name="百事通4K" tvg-logo="https://epg.112114.eu.org/logo/百事通4K.png" group-title="数字",百事通4K
 http://www.baopiqi.top:4022/rtp/239.45.3.107:5140
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="国际",凤凰中文
@@ -3235,9 +3235,9 @@ http://www.baopiqi.top:4022/rtp/239.45.3.12:5140
 http://www.baopiqi.top:4022/rtp/239.45.3.18:5140
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="其它",中国天气
 http://www.baopiqi.top:4022/rtp/239.45.1.47:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",百事通4K电影
+#EXTINF:-1 tvg-id="百事通4K" tvg-name="百事通4K" tvg-logo="https://epg.112114.eu.org/logo/百事通4K.png" group-title="其它",百事通4K电影
 http://www.baopiqi.top:4022/rtp/239.45.3.107:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",百事通4K纪实
+#EXTINF:-1 tvg-id="百事通4K" tvg-name="百事通4K" tvg-logo="https://epg.112114.eu.org/logo/百事通4K.png" group-title="其它",百事通4K纪实
 http://www.baopiqi.top:4022/rtp/239.45.1.10:5140
 #EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://live.fanmingming.com/tv/中国交通.png" group-title="其它",中国交通
 http://ry.soff.cn:4022/rtp/239.3.1.188:8001
