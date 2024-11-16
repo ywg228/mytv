@@ -2357,11 +2357,11 @@ http://www.baopiqi.top:4022/rtp/239.45.3.196:5140$4K
 http://www.baopiqi.top:4022/rtp/239.45.1.22:5140$4K
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="上海",SiTV东方财经
 http://www.baopiqi.top:4022/rtp/239.45.0.17:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",嘉定电视台
+#EXTINF:-1 tvg-id="嘉定电视台" tvg-name="嘉定电视台" tvg-logo="https://epg.112114.eu.org/logo/嘉定电视台.png" group-title="上海",嘉定电视台
 https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",金山电视台
+#EXTINF:-1 tvg-id="金山电视台" tvg-name="金山电视台" tvg-logo="https://epg.112114.eu.org/logo/金山电视台.png" group-title="上海",金山电视台
 https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",崇明电视台
+#EXTINF:-1 tvg-id="崇明电视台" tvg-name="崇明电视台" tvg-logo="https://epg.112114.eu.org/logo/崇明电视台.png" group-title="上海",崇明电视台
 https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="北京",北京卫视
@@ -2471,19 +2471,19 @@ http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=
 http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="数字",CHC动作电影
 http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
-#EXTINF:-1 tvg-id="CIBN情感影院" tvg-name="CIBN情感影院" group-title="数字",CIBN情感影院
+#EXTINF:-1 tvg-id="CIBN情感影院" tvg-name="CIBN情感影院" tvg-logo="https://epg.112114.eu.org/logo/CIBN情感影院.png" group-title="数字",CIBN情感影院
 http://zby.xjqxz.top/zh09/live.m3u8
-#EXTINF:-1 tvg-id="CIBN动作影院" tvg-name="CIBN动作影院" group-title="数字",CIBN动作影院
+#EXTINF:-1 tvg-id="CIBN动作影院" tvg-name="CIBN动作影院" tvg-logo="https://epg.112114.eu.org/logo/CIBN动作影院.png" group-title="数字",CIBN动作影院
 http://zby.xjqxz.top/zh04/live.m3u8
-#EXTINF:-1 tvg-id="CIBN古装剧场" tvg-name="CIBN古装剧场" group-title="数字",CIBN古装剧场
+#EXTINF:-1 tvg-id="CIBN古装剧场" tvg-name="CIBN古装剧场" tvg-logo="https://epg.112114.eu.org/logo/CIBN古装剧场.png" group-title="数字",CIBN古装剧场
 http://zby.xjqxz.top/gzwxj/live.m3u8
-#EXTINF:-1 tvg-id="CIBN经典剧场" tvg-name="CIBN经典剧场" group-title="数字",CIBN经典剧场
+#EXTINF:-1 tvg-id="CIBN经典剧场" tvg-name="CIBN经典剧场" tvg-logo="https://epg.112114.eu.org/logo/CIBN经典剧场.png" group-title="数字",CIBN经典剧场
 http://zby.xjqxz.top/gzdsj2/live.m3u8
-#EXTINF:-1 tvg-id="CIBN精品影院" tvg-name="CIBN精品影院" group-title="数字",CIBN精品影院
+#EXTINF:-1 tvg-id="CIBN精品影院" tvg-name="CIBN精品影院" tvg-logo="https://epg.112114.eu.org/logo/CIBN精品影院.png" group-title="数字",CIBN精品影院
 http://zby.xjqxz.top/zh13/live.m3u8
-#EXTINF:-1 tvg-id="CIBN流金岁月" tvg-name="CIBN流金岁月" group-title="数字",CIBN流金岁月
+#EXTINF:-1 tvg-id="CIBN流金岁月" tvg-name="CIBN流金岁月" tvg-logo="https://epg.112114.eu.org/logo/CIBN流金岁月.png" group-title="数字",CIBN流金岁月
 http://zby.xjqxz.top/hkdy1/live.m3u8
-#EXTINF:-1 tvg-id="CIBN院线大片" tvg-name="CIBN院线大片" group-title="数字",CIBN院线大片
+#EXTINF:-1 tvg-id="CIBN院线大片" tvg-name="CIBN院线大片" tvg-logo="https://epg.112114.eu.org/logo/CIBN院线大片.png" group-title="数字",CIBN院线大片
 http://zby.xjqxz.top/zh06/live.m3u8
 #EXTINF:-1 tvg-id="NEWTV金牌综艺" tvg-name="NEWTV金牌综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV金牌综艺.png" group-title="数字",NewTV金牌综艺
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236282/index.m3u8
@@ -2597,7 +2597,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/index.m3u8?f
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="数字",重温经典
 http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",经典电影台
+#EXTINF:-1 tvg-id="经典电影台" tvg-name="经典电影台" tvg-logo="https://epg.112114.eu.org/logo/经典电影台.png" group-title="数字",经典电影台
 http://ali.hlspull.yximgs.com/live/asdfg978707232.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",百事通4K
 http://www.baopiqi.top:4022/rtp/239.45.1.42:5140
@@ -3152,11 +3152,11 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",MBC体育
 http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",遂宁综合
+#EXTINF:-1 tvg-id="遂宁综合" tvg-name="遂宁综合" tvg-logo="https://epg.112114.eu.org/logo/遂宁综合.png" group-title="地方",遂宁综合
 https://szyplaytv.snxw.com/live/xwzh/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",遂宁文化生活
+#EXTINF:-1 tvg-id="遂宁文化生活" tvg-name="遂宁文化生活" tvg-logo="https://epg.112114.eu.org/logo/遂宁文化生活.png" group-title="地方",遂宁文化生活
 https://szyplaytv.snxw.com/live/gggy/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",合肥新闻
+#EXTINF:-1 tvg-id="合肥新闻" tvg-name="合肥新闻" tvg-logo="https://epg.112114.eu.org/logo/合肥新闻.png" group-title="地方",合肥新闻
 https://live.ahsx.ahtv.cn/live/hftv.m3u8?txSecret=ee80a62957023200f8124fafe6de4e44&txTime=83301CCD
 #EXTINF:-1 tvg-id="重庆新闻" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="地方",重庆新闻
 https://cqonsitecdn.cbgcloud.com/qf6jl2/tctiz9.m3u8
@@ -3184,7 +3184,7 @@ http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011655
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=gzzh
 #EXTINF:-1,tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://live.fanmingming.com/tv/广州影视.png" group-title="地方",广州影视
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=gzys
-#EXTINF:-1,tvg-id="广州南国都市" tvg-name="广州南国都市" tvg-logo="https://live.fanmingming.com/tv/广州南国都市.png" group-title="地方",广州南国都市
+#EXTINF:-1,tvg-id="广州南国都市" tvg-name="广州南国都市" tvg-logo="https://epg.112114.eu.org/logo/广州南国都市.png" group-title="地方",广州南国都市
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=gzngds
 #EXTINF:-1,tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://live.fanmingming.com/tv/湖南娱乐.png" group-title="地方",湖南娱乐
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=6427893650335440392
@@ -3192,13 +3192,13 @@ http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=6427893650335440392
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=5015828848322021526
 #EXTINF:-1,tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="地方",江西新闻
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxxw
-#EXTINF:-1,tvg-id="江西都市" tvg-name="江西都市" tvg-logo="https://live.fanmingming.com/tv/江西都市.png" group-title="地方",江西都市
+#EXTINF:-1,tvg-id="江西都市" tvg-name="江西都市" tvg-logo="https://epg.112114.eu.org/logo/江西都市.png" group-title="地方",江西都市
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxds
 #EXTINF:-1,tvg-id="江西经济生活" tvg-name="江西经济生活" tvg-logo="https://live.fanmingming.com/tv/江西经济生活.png" group-title="地方",江西经济生活
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxjjsh
-#EXTINF:-1,tvg-id="江西影视旅游" tvg-name="江西影视旅游" tvg-logo="https://live.fanmingming.com/tv/江西影视旅游.png" group-title="地方",江西影视旅游
+#EXTINF:-1,tvg-id="江西影视旅游" tvg-name="江西影视旅游" tvg-logo="https://epg.112114.eu.org/logo/江西影视旅游.png" group-title="地方",江西影视旅游
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxysly
-#EXTINF:-1,tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="地方",江西公共农业
+#EXTINF:-1,tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://epg.112114.eu.org/logo/江西公共农业.png" group-title="地方",江西公共农业
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxggny
 #EXTINF:-1,tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="地方",江西少儿
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxse
@@ -3374,7 +3374,7 @@ https://litv.zapi.us.kg/?id=4gtv-4gtv153
 https://litv.zapi.us.kg/?id=4gtv-4gtv155
 #EXTINF:-1,tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://live.fanmingming.com/tv/民视台湾台.png" group-title="需翻",民視台灣台
 https://litv.zapi.us.kg/?id=4gtv-4gtv156
-#EXTINF:-1,tvg-id="龍華卡通" tvg-name="龍華卡通" tvg-logo="https://epg.112114.eu.org/logo/龍華卡通.png" group-title="需翻",龍華卡通
+#EXTINF:-1,tvg-id="龍華卡通" tvg-name="龍華卡通" tvg-logo="https://epg.112114.eu.org/logo/龙华卡通台.png" group-title="需翻",龍華卡通
 https://litv.zapi.us.kg/?id=litv-longturn01
 #EXTINF:-1,tvg-id="龍華電影" tvg-name="龍華電影" tvg-logo="https://epg.112114.eu.org/logo/龍華電影.png" group-title="需翻",龍華電影
 https://litv.zapi.us.kg/?id=litv-longturn03
@@ -3396,7 +3396,7 @@ https://litv.zapi.us.kg/?id=litv-longturn10
 https://litv.zapi.us.kg/?id=litv-longturn11
 #EXTINF:-1,tvg-id="龍華偶像" tvg-name="龍華偶像" tvg-logo="https://epg.112114.eu.org/logo/龍華偶像.png" group-title="需翻",龍華偶像
 https://litv.zapi.us.kg/?id=litv-longturn12
-#EXTINF:-1,tvg-id="博斯無限2" tvg-name="博斯無限2" tvg-logo="https://epg.112114.eu.org/logo/博斯無限2.png" group-title="需翻",博斯無限2
+#EXTINF:-1,tvg-id="博斯無限2" tvg-name="博斯無限2" tvg-logo="https://epg.112114.eu.org/logo/博斯无限二.png" group-title="需翻",博斯無限2
 https://litv.zapi.us.kg/?id=litv-longturn13
 #EXTINF:-1,tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://epg.112114.eu.org/logo/寰宇新聞台.png" group-title="需翻",寰宇新聞台
 https://litv.zapi.us.kg/?id=litv-longturn14
@@ -3616,7 +3616,7 @@ https://1234.koyeb.app/litv/litv-longturn05
 https://1234.koyeb.app/litv/litv-longturn06
 #EXTINF:-1,tvg-id="博斯無限" tvg-name="博斯無限" tvg-logo="https://epg.112114.eu.org/logo/博斯無限.png" group-title="需翻",博斯無限
 https://1234.koyeb.app/litv/litv-longturn10
-#EXTINF:-1,tvg-id="博斯無限2" tvg-name="博斯無限2" tvg-logo="https://epg.112114.eu.org/logo/博斯無限2.png" group-title="需翻",博斯無限2
+#EXTINF:-1,tvg-id="博斯無限2" tvg-name="博斯無限2" tvg-logo="https://epg.112114.eu.org/logo/博斯无限二.png" group-title="需翻",博斯無限2
 https://1234.koyeb.app/litv/litv-longturn13
 #EXTINF:-1,tvg-id="博斯運動1" tvg-name="博斯運動1" tvg-logo="https://epg.112114.eu.org/logo/博斯运动1.png" group-title="需翻",博斯運動1
 https://1234.koyeb.app/litv/litv-longturn07
@@ -3668,7 +3668,7 @@ http://38.64.72.148/hls/modn/list/2013/chunklist0.m3u8
 http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
 #EXTINF:-1,tvg-id="東森美洲" tvg-name="東森美洲" tvg-logo="https://epg.112114.eu.org/logo/東森美洲.png" group-title="需翻",東森美洲
 http://38.64.72.148:80/hls/modn/list/2016/playlist.m3u8
-#EXTINF:-1,tvg-id="華語電視" tvg-name="華語電視" tvg-logo="https://epg.112114.eu.org/logo/華語電視.png" group-title="需翻",華語電視
+#EXTINF:-1,tvg-id="華語電視" tvg-name="華語電視" tvg-logo="https://epg.112114.eu.org/logo/华语电视台.png" group-title="需翻",華語電視
 http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 #EXTINF:-1,tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://epg.112114.eu.org/logo/緯來體育.png" group-title="需翻",緯來體育
 http://125.227.210.55:8155/VideoInput/play.ts
