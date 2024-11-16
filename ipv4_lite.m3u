@@ -2720,7 +2720,7 @@ Astro华丽台,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
 Astro剧集台,http://cdn9.1689.us.kg/smt1.1.php?id=Aodhd
 #EXTINF:-1 tvg-id="中天娱乐" tvg-name="中天娱乐" tvg-logo="https://epg.112114.eu.org/logo/中天娱乐.png" group-title="国际",中天娱乐
 http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1 tvg-id="TVBS NEWS" tvg-name="TVBS NEWS" tvg-logo="" group-title="国际",TVBS NEWS
+#EXTINF:-1 tvg-id="TVBS NEWS" tvg-name="TVBS NEWS" tvg-logo="https://epg.112114.eu.org/logo/TVBSNEWS.png" group-title="国际",TVBS NEWS
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-id="八大戏剧台" tvg-name="八大戏剧台" tvg-logo="https://epg.112114.eu.org/logo/八大戏剧台.png" group-title="国际",八大戏剧台
 http://61.221.215.25:8800/hls/39/index.m3u8
@@ -2756,7 +2756,7 @@ http://37.27.111.214:8080/live/7/hls.m3u8
 http://37.27.111.214:8080/live/8/hls.m3u8
 #EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://live.fanmingming.com/tv/龙华电影.png" group-title="国际",龙华电影
 http://37.27.111.214:8080/live/19/hls.m3u8
-#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/东森新闻.png" group-title="国际",东森新闻
+#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://epg.112114.eu.org/logo/东森新闻.png" group-title="国际",东森新闻
 http://37.27.111.214:8080/live/20/hls.m3u8
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="国际",TVBS
 http://37.27.111.214:8080/live/23/hls.m3u8
@@ -2766,11 +2766,11 @@ http://37.27.111.214:8080/live/24/hls.m3u8
 http://37.27.111.214:8080/live/31/hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",猪哥会社
 http://37.27.111.214:8080/live/35/hls.m3u8
-#EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="" group-title="国际",亚洲旅游台
+#EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://epg.112114.eu.org/logo/亚洲旅游台.png" group-title="国际",亚洲旅游台
 http://37.27.111.214:8080/live/10/hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",幸福空间
 http://37.27.111.214:8080/live/26/hls.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",HakkaTV
+#EXTINF:-1 tvg-id="客家电视台" tvg-name="客家电视台" tvg-logo="https://epg.112114.eu.org/logo/客家电视台.png" group-title="国际",客家电视台
 http://37.27.111.214:8080/live/1/hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",TiTV原视
 http://37.27.111.214:8080/live/2/hls.m3u8
@@ -2782,11 +2782,11 @@ http://37.27.111.214:8080/live/12/hls.m3u8
 http://37.27.111.214:8080/live/22/hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",MoMo亲子国
 http://37.27.111.214:8080/live/3/hls.m3u8
-#EXTINF:-1 tvg-id="博斯高球" tvg-name="博斯高球" tvg-logo="" group-title="国际",博斯高球
+#EXTINF:-1 tvg-id="博斯高球" tvg-name="博斯高球" tvg-logo="https://epg.112114.eu.org/logo/博斯高球.png" group-title="国际",博斯高球
 http://37.27.111.214:8080/live/13/hls.m3u8
-#EXTINF:-1 tvg-id="博斯运动" tvg-name="博斯运动" tvg-logo="" group-title="国际",博斯运动
+#EXTINF:-1 tvg-id="博斯运动" tvg-name="博斯运动" tvg-logo="https://epg.112114.eu.org/logo/博斯运动.png" group-title="国际",博斯运动
 http://37.27.111.214:8080/live/14/hls.m3u8
-#EXTINF:-1 tvg-id="博斯无限" tvg-name="博斯无限" tvg-logo="" group-title="国际",博斯无限
+#EXTINF:-1 tvg-id="博斯无限" tvg-name="博斯无限" tvg-logo="https://epg.112114.eu.org/logo/博斯无限.png" group-title="国际",博斯无限
 http://37.27.111.214:8080/live/15/hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",mTV音乐
 http://37.27.111.214:8080/live/25/hls.m3u8
@@ -2856,7 +2856,7 @@ http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 #EXTINF:-1 tvg-id="Now星影台" tvg-name="Now星影台" tvg-logo="https://epg.112114.eu.org/logo/NOW星影台.png" group-title="国际",Now星影台
 http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
-#EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="" group-title="国际",美亚电影台
+#EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://epg.112114.eu.org/logo/美亚电影台.png" group-title="国际",美亚电影台
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="国际",无线新闻台
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
@@ -2864,7 +2864,7 @@ http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="国际",明珠台
 http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",娱乐新闻台
+#EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://epg.112114.eu.org/logo/娱乐新闻台.png" group-title="国际",娱乐新闻台
 http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="国际",TVB星河
 http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
@@ -3518,7 +3518,7 @@ https://1234.koyeb.app/litv/4gtv-4gtv049
 https://1234.koyeb.app/litv/4gtv-4gtv048
 #EXTINF:-1,tvg-id="非凡新聞" tvg-name="非凡新聞" tvg-logo="https://epg.112114.eu.org/logo/非凡新聞.png" group-title="需翻",非凡新聞
 https://1234.koyeb.app/litv/4gtv-4gtv010
-#EXTINF:-1,tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://epg.112114.eu.org/logo/客家電視台.png" group-title="需翻",客家電視台
+#EXTINF:-1,tvg-id="客家電視台" tvg-name="可加電視台" tvg-logo="https://epg.112114.eu.org/logo/客家電視台.png" group-title="需翻",客家電視台
 https://1234.koyeb.app/litv/4gtv-4gtv043
 #EXTINF:-1,tvg-id="原住民" tvg-name="原住民" tvg-logo="https://epg.112114.eu.org/logo/原住民.png" group-title="需翻",原住民族電視台
 https://1234.koyeb.app/4gtv/273
