@@ -1347,11 +1347,13 @@ DW NEWS,http://37.27.111.214:8080/live/46/hls.m3u8
 CNBC,http://37.27.111.214:8080/live/102/hls.m3u8
 互动英语,http://37.27.111.214:8080/live/54/hls.m3u8
 
-Now爆谷台,https://www.mytvsuper.xyz/1/baogutai/stream.m3u8
-Now星影台,https://www.mytvsuper.xyz/1/now/stream.m3u8
-TVB星河,https://www.mytvsuper.xyz/tvb/xinghe/stream.m3u8
-千禧经典台,https://www.mytvsuper.xyz/astro/qianxi/stream.m3u8
-TVB生活台,https://www.mytvsuper.xyz/tvb/shenghuo/stream.m3u8
+Now爆谷台,https://tv.mytvsuper.xyz/1/baogutai/baogu.m3u8
+Now星影台,https://tv.mytvsuper.xyz/1/xingyingtai/xingying.m3u8
+TVB星河,https://tv.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
+千禧经典台,https://tv.mytvsuper.xyz/astro/qianxi/qianxi.m3u8
+天映频道,https://tv.mytvsuper.xyz/astro/tianying/tianying.m3u8
+AMC电影台,https://tv.mytvsuper.xyz/hami/amc/amc.m3u8
+TVB生活台,https://tv.mytvsuper.xyz/tvb/shenghuo/stream.m3u8
 
 民视,rtmp://f13h.mine.nu/sat/tv051
 台视,rtmp://f13h.mine.nu/sat/tv071
@@ -1578,13 +1580,13 @@ AMC電影台,https://litv.zapi.us.kg/?id=4gtv-4gtv017
 采昌影劇,https://litv.zapi.us.kg/?id=4gtv-4gtv049
 台視新聞,https://litv.zapi.us.kg/?id=4gtv-4gtv051
 華視新聞,https://litv.zapi.us.kg/?id=4gtv-4gtv052
-GinxTV,https://litv.zapi.us.kg/?id=4gtv-4gtv053
+GINX Esports TV,https://litv.zapi.us.kg/?id=4gtv-4gtv053
 靖天歡樂台,https://litv.zapi.us.kg/?id=4gtv-4gtv054
 靖天映畫,https://litv.zapi.us.kg/?id=4gtv-4gtv055
 台視財經,https://litv.zapi.us.kg/?id=4gtv-4gtv056
 靖洋卡通台,https://litv.zapi.us.kg/?id=4gtv-4gtv057
 靖天戲劇台,https://litv.zapi.us.kg/?id=4gtv-4gtv058
-古典音樂台,https://litv.zapi.us.kg/?id=4gtv-4gtv059
+CLASSICA古典樂,https://litv.zapi.us.kg/?id=4gtv-4gtv059
 靖天電影台,https://litv.zapi.us.kg/?id=4gtv-4gtv061
 靖天育樂台,https://litv.zapi.us.kg/?id=4gtv-4gtv062
 靖天國際台,https://litv.zapi.us.kg/?id=4gtv-4gtv063
@@ -1628,8 +1630,8 @@ MEZZO LIVE,https://litv.zapi.us.kg/?id=4gtv-4gtv083
 寰宇新聞台灣台,https://litv.zapi.us.kg/?id=litv-longturn15
 亞洲旅遊台,https://litv.zapi.us.kg/?id=litv-longturn17
 龍華戲劇,https://litv.zapi.us.kg/?id=litv-longturn18
-Smart知識台,https://litv.zapi.us.kg/?id=litv-longturn19
-生活英語台,https://litv.zapi.us.kg/?id=litv-longturn20
+SMART知識台,https://litv.zapi.us.kg/?id=litv-longturn19
+ELTV生活英語台,https://litv.zapi.us.kg/?id=litv-longturn20
 龍華經典,https://litv.zapi.us.kg/?id=litv-longturn21
 台灣戲劇台,https://litv.zapi.us.kg/?id=litv-longturn22
 民視旅遊,https://litv.zapi.us.kg/?id=litv-ftv07
@@ -1654,9 +1656,9 @@ Smart知識台,https://litv.zapi.us.kg/?id=litv-longturn19
 寰宇新聞台,https://www.567858.xyz/ofiii.php?id=litv-longturn14
 寰宇新聞台灣台,https://www.567858.xyz/ofiii.php?id=litv-longturn15
 亞洲旅遊台,https://www.567858.xyz/ofiii.php?id=litv-longturn17
-Smart知識台,https://www.567858.xyz/ofiii.php?id=litv-longturn19
+SMART知識台,https://www.567858.xyz/ofiii.php?id=litv-longturn19
 龍華戲劇,https://www.567858.xyz/ofiii.php?id=litv-longturn18
-生活英語台,https://www.567858.xyz/ofiii.php?id=litv-longturn20
+ELTV生活英語台,https://www.567858.xyz/ofiii.php?id=litv-longturn20
 龍華經典,https://www.567858.xyz/ofiii.php?id=litv-longturn21
 台灣戲劇台,https://www.567858.xyz/ofiii.php?id=litv-longturn22
 寰宇財經台,https://www.567858.xyz/ofiii.php?id=litv-longturn23
@@ -1713,9 +1715,9 @@ TVBS,https://1234.koyeb.app/litv/4gtv-4gtv073
 鏡新聞,https://1234.koyeb.app/litv/4gtv-4gtv075
 AMC電影台,https://1234.koyeb.app/litv/4gtv-4gtv017
 阿里郎,https://1234.koyeb.app/litv/4gtv-4gtv079
-古典音樂台,https://1234.koyeb.app/litv/4gtv-4gtv059
+CLASSICA古典樂,https://1234.koyeb.app/litv/4gtv-4gtv059
 ELTA娛樂,https://1234.koyeb.app/litv/4gtv-4gtv070
-GinxTV,https://1234.koyeb.app/litv/4gtv-4gtv053
+GINX Esports TV,https://1234.koyeb.app/litv/4gtv-4gtv053
 MEZZO LIVE,https://1234.koyeb.app/litv/4gtv-4gtv083
 TRACE URBAN,https://1234.koyeb.app/litv/4gtv-4gtv082
 TRACE SPORTS STARS,https://1234.koyeb.app/litv/4gtv-4gtv077
@@ -1740,8 +1742,8 @@ CATCHPLAY電影台,https://1234.koyeb.app/litv/4gtv-4gtv076
 博斯運動2,https://1234.koyeb.app/litv/litv-longturn08
 博斯網球,https://1234.koyeb.app/litv/litv-longturn09
 博斯魅力,https://1234.koyeb.app/litv/litv-longturn04
-Smart知識台,https://1234.koyeb.app/litv/litv-longturn19
-生活英語台,https://1234.koyeb.app/litv/litv-longturn20
+SMART知識台,https://1234.koyeb.app/litv/litv-longturn19
+ELTV生活英語台,https://1234.koyeb.app/litv/litv-longturn20
 民視旅遊,https://1234.koyeb.app/litv/litv-ftv07
 民視新聞台,https://1234.koyeb.app/litv/litv-ftv13
 民視影劇,https://1234.koyeb.app/litv/litv-ftv09
