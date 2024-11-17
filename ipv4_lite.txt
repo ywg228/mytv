@@ -1552,7 +1552,7 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 茶频道,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000070
 
 
-需翻,#genre#
+台灣,#genre#
 民視台灣台,https://litv.zapi.us.kg/?id=4gtv-4gtv001
 民視,https://litv.zapi.us.kg/?id=4gtv-4gtv002
 民視第一台,https://litv.zapi.us.kg/?id=4gtv-4gtv003
