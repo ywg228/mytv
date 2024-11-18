@@ -2460,7 +2460,7 @@ http://61.221.215.25:8800/hls/55/index.m3u8
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1,tvg-id="AMC" tvg-name="AMC" tvg-logo="https://epg.112114.eu.org/logo/AMC.png" group-title="國際",AMC電影台
 http://61.221.215.25:8800/hls/43/index.m3u8
-#EXTINF:-1,tvg-id="緯來精采" tvg-name="緯來精采" tvg-logo="https://epg.112114.eu.org/logo/緯來精采.png" group-title="國際",緯來精采
+#EXTINF:-1,tvg-id="緯來精采" tvg-name="緯來精采" tvg-logo="https://epg.112114.eu.org/logo/纬来精采.png" group-title="國際",緯來精采
 http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1,tvg-id="探索頻道" tvg-name="探索頻道" tvg-logo="https://epg.112114.eu.org/logo/探索频道.png" group-title="國際",探索頻道
 http://61.221.215.25:8800/hls/1/index.m3u8
