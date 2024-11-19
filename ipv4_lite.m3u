@@ -2811,6 +2811,8 @@ http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 #EXTINF:-1,tvg-id="翡翠綜合台" tvg-name="翡翠綜合台" tvg-logo="https://epg.112114.eu.org/logo/翡翠綜合台.png" group-title="國際",翡翠綜合台
 http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+#EXTINF:-1,tvg-id="RTHK-32" tvg-name="RTHK-32" tvg-logo="https://epg.112114.eu.org/logo/RTHK32.png" group-title="國際",RTHK-32
+https://tv.mytvsuper.xyz/tvb/RTHKTV32/RTHKTV32.m3u8
 #EXTINF:-1,tvg-id="Hoy 78" tvg-name="Hoy 78" tvg-logo="https://epg.112114.eu.org/logo/HOY78.png" group-title="國際",Hoy 78
 http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
 #EXTINF:-1,tvg-id="myTV SUPER 18台" tvg-name="myTV SUPER 18台" tvg-logo="https://epg.112114.eu.org/logo/MYTVSUPER18台.png" group-title="國際",myTV SUPER 18台

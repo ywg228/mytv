@@ -1507,6 +1507,7 @@ myTV SUPER3,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 翡翠劇集台,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 明珠劇集台,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 翡翠綜合台,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+RTHK-32,https://tv.mytvsuper.xyz/tvb/RTHKTV32/RTHKTV32.m3u8
 Hoy 78,http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
 myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
