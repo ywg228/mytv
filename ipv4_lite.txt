@@ -188,8 +188,8 @@ CCTV-4K超高清,http://www.baopiqi.top:4022/rtp/239.45.0.55:5140
 女性时尚,http://www.baopiqi.top:4022/rtp/239.45.0.47:5140 
 高尔夫网球,http://www.baopiqi.top:4022/rtp/239.45.0.48:5140 
 高尔夫网球,http://www.baopiqi.top:4022/rtp/239.45.1.72:5140 
-文化精品,http://www.baopiqi.top:4022/rtp/239.45.0.53:5140 
-文化精品,http://www.baopiqi.top:4022/rtp/239.45.1.17:5140 
+央视文化精品,http://www.baopiqi.top:4022/rtp/239.45.0.53:5140 
+央视文化精品,http://www.baopiqi.top:4022/rtp/239.45.1.17:5140 
 电视指南,http://www.baopiqi.top:4022/rtp/239.45.1.73:5140
 中国教育1台,http://www.baopiqi.top:4022/rtp/239.45.1.125:5140 
 中国教育2台,http://www.baopiqi.top:4022/rtp/239.45.1.52:5140 
