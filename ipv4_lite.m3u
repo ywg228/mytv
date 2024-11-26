@@ -2595,19 +2595,19 @@ http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000011
 http://php.jdshipin.com:8880/itv6s.php?cid=bestzb&id=5000000007000010001$4K
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="数字",SiTV欢笑剧场
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000009455$4K
-#EXTINF:-1 tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://live.fanmingming.com/tv/SITV都市剧场.png" group-title="数字",SiTV都市剧场
+#EXTINF:-1 tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="数字",SiTV都市剧场
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031111
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="数字",SiTV动漫秀场
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031113
-#EXTINF:-1 tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://live.fanmingming.com/tv/SITV法治天地.png" group-title="数字",SiTV法治天地
+#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="数字",SiTV法治天地
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=9001547084732463424
-#EXTINF:-1 tvg-id="SITV金色学堂" tvg-name="SITV金色学堂" tvg-logo="https://live.fanmingming.com/tv/SITV金色学堂.png" group-title="数字",SiTV金色学堂
+#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="数字",SiTV金色学堂
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000026105
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="数字",SiTV乐游
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031112
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="数字",SiTV游戏风云
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031114
-#EXTINF:-1 tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/SITV七彩戏剧.png" group-title="数字",SiTV七彩戏剧
+#EXTINF:-1 tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png" group-title="数字",SiTV七彩戏剧
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031116
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="数字",SiTV生活时尚
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000019634
@@ -2645,7 +2645,6 @@ http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000290630
 http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000320630
 #EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://epg.112114.eu.org/logo/精彩影视.png" group-title="数字",精彩影视
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000063
-
 
 
 #EXTINF:-1,tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://epg.112114.eu.org/logo/鳳凰中文.png" group-title="國際",鳳凰中文
@@ -2951,7 +2950,7 @@ https://www.567858.xyz/ofiii.php?id=4gtv-4gtv041
 https://www.567858.xyz/ofiii.php?id=4gtv-4gtv040
 #EXTINF:-1,tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="台灣",台視新聞
 https://www.567858.xyz/ofiii.php?id=4gtv-4gtv051
-#EXTINF:-1,tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://epg.112114.eu.org/logo/華視新聞.png" group-title="台灣",華視新聞
+#EXTINF:-1,tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://live.fanmingming.com/tv/华视新闻.png" group-title="台灣",華視新聞
 https://www.567858.xyz/ofiii.php?id=4gtv-4gtv052
 #EXTINF:-1,tvg-id="台視" tvg-name="台視" tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="台灣",台視
 https://www.567858.xyz/ofiii.php?id=4gtv-4gtv066
@@ -3029,11 +3028,11 @@ rtmp://f13h.mine.nu/sat/tv701
 rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 tvg-id="纬来日本" tvg-name="纬来日本" tvg-logo="https://epg.112114.eu.org/logo/纬来日本.png" group-title="台灣",緯來日本
 rtmp://f13h.mine.nu/sat/tv771
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣",MoMo综合
+#EXTINF:-1 tvg-id="MOMOTV" tvg-name="MOMOTV" tvg-logo="https://epg.112114.eu.org/logo/MOMOTV.png" group-title="台灣",MOMOTV綜合台
 rtmp://f13h.mine.nu/sat/tv761
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣",ELEVEN体育1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣",ELEVEN體育1台
 rtmp://f13h.mine.nu/sat/tv731
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣",ELEVEN体育2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣",ELEVEN體育1台
 rtmp://f13h.mine.nu/sat/tv741
 
 
