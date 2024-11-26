@@ -1545,19 +1545,19 @@ CNA頻道,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/
 台視新聞,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv051
 華視新聞,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv052
 中視新聞,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv074
-龍華卡通,https://www.567858.xyz/ofiii.php?id=litv-longturn01
 龍華電影,https://www.567858.xyz/ofiii.php?id=litv-longturn03
 龍華日韓,https://www.567858.xyz/ofiii.php?id=litv-longturn11
 龍華偶像,https://www.567858.xyz/ofiii.php?id=litv-longturn12
+龍華戲劇,https://www.567858.xyz/ofiii.php?id=litv-longturn18
+龍華經典,https://www.567858.xyz/ofiii.php?id=litv-longturn21
+龍華卡通,https://www.567858.xyz/ofiii.php?id=litv-longturn01
 寰宇新聞台,https://www.567858.xyz/ofiii.php?id=litv-longturn14
 寰宇新聞台灣台,https://www.567858.xyz/ofiii.php?id=litv-longturn15
+寰宇財經台,https://www.567858.xyz/ofiii.php?id=litv-longturn23
+台灣戲劇台,https://www.567858.xyz/ofiii.php?id=litv-longturn22
 亞洲旅遊台,https://www.567858.xyz/ofiii.php?id=litv-longturn17
 SMART知識台,https://www.567858.xyz/ofiii.php?id=litv-longturn19
-龍華戲劇,https://www.567858.xyz/ofiii.php?id=litv-longturn18
 ELTV生活英語台,https://www.567858.xyz/ofiii.php?id=litv-longturn20
-龍華經典,https://www.567858.xyz/ofiii.php?id=litv-longturn21
-台灣戲劇台,https://www.567858.xyz/ofiii.php?id=litv-longturn22
-寰宇財經台,https://www.567858.xyz/ofiii.php?id=litv-longturn23
 
 中天娛樂台,http://61.221.215.25:8800/hls/47/index.m3u8
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
