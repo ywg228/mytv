@@ -1538,12 +1538,12 @@ CNA頻道,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/
 
 
 台灣,#genre#
-中天新聞,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv009
-華視,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv041
 中視,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv040
+華視,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv041
+台視,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv066
+中天新聞,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv009
 台視新聞,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv051
 華視新聞,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv052
-台視,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv066
 中視新聞,https://www.567858.xyz/ofiii.php?id=4gtv-4gtv074
 龍華卡通,https://www.567858.xyz/ofiii.php?id=litv-longturn01
 龍華電影,https://www.567858.xyz/ofiii.php?id=litv-longturn03

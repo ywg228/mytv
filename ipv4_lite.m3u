@@ -2937,18 +2937,18 @@ http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 
-#EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="台灣",中天新聞
-https://www.567858.xyz/ofiii.php?id=4gtv-4gtv009
-#EXTINF:-1,tvg-id="華視" tvg-name="華視" tvg-logo="https://epg.112114.eu.org/logo/華視.png" group-title="台灣",華視
-https://www.567858.xyz/ofiii.php?id=4gtv-4gtv041
 #EXTINF:-1,tvg-id="中視" tvg-name="中視" tvg-logo="https://epg.112114.eu.org/logo/中視.png" group-title="台灣",中視
 https://www.567858.xyz/ofiii.php?id=4gtv-4gtv040
+#EXTINF:-1,tvg-id="華視" tvg-name="華視" tvg-logo="https://epg.112114.eu.org/logo/華視.png" group-title="台灣",華視
+https://www.567858.xyz/ofiii.php?id=4gtv-4gtv041
+#EXTINF:-1,tvg-id="台視" tvg-name="台視" tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="台灣",台視
+https://www.567858.xyz/ofiii.php?id=4gtv-4gtv066
+#EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="台灣",中天新聞
+https://www.567858.xyz/ofiii.php?id=4gtv-4gtv009
 #EXTINF:-1,tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="台灣",台視新聞
 https://www.567858.xyz/ofiii.php?id=4gtv-4gtv051
 #EXTINF:-1,tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://live.fanmingming.com/tv/华视新闻.png" group-title="台灣",華視新聞
 https://www.567858.xyz/ofiii.php?id=4gtv-4gtv052
-#EXTINF:-1,tvg-id="台視" tvg-name="台視" tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="台灣",台視
-https://www.567858.xyz/ofiii.php?id=4gtv-4gtv066
 #EXTINF:-1,tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://epg.112114.eu.org/logo/中視新聞.png" group-title="台灣",中視新聞
 https://www.567858.xyz/ofiii.php?id=4gtv-4gtv074
 #EXTINF:-1,tvg-id="龍華卡通" tvg-name="龍華卡通" tvg-logo="https://epg.112114.eu.org/logo/龙华卡通台.png" group-title="台灣",龍華卡通
@@ -3004,7 +3004,6 @@ http://61.221.215.25:8800/hls/57/index.m3u8
 http://61.221.215.25:8800/hls/40/index.m3u8
 #EXTINF:-1,tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://epg.112114.eu.org/logo/NHKWORLD.png" group-title="台灣",NHK WORLD
 http://61.221.215.25:8800/hls/51/index.m3u8
-
 
 
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="体育",CCTV-5体育
