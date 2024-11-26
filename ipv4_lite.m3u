@@ -2834,7 +2834,7 @@ http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 #EXTINF:-1,tvg-id="CNA新聞" tvg-name="CNA新聞" tvg-logo="https://epg.112114.eu.org/logo/CNA新聞.png" group-title="國際",CNA新聞
 http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-#EXTINF:-1,tvg-id="東方衛視國際頻道" tvg-name="東方衛視國際頻道" tvg-logo="https://epg.112114.eu.org/logo/東方衛視國際頻道.png" group-title="國際",東方衛視國際頻道
+#EXTINF:-1,tvg-id="東方衛視國際" tvg-name="東方衛視國際" tvg-logo="https://epg.112114.eu.org/logo/東方衛視國際.png" group-title="國際",東方衛視國際
 http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 #EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.eu.org/logo/VIUTV.png" group-title="國際",ViuTV 99
 http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
@@ -2951,32 +2951,32 @@ https://www.567858.xyz/ofiii.php?id=4gtv-4gtv051
 https://www.567858.xyz/ofiii.php?id=4gtv-4gtv052
 #EXTINF:-1,tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://epg.112114.eu.org/logo/中視新聞.png" group-title="台灣",中視新聞
 https://www.567858.xyz/ofiii.php?id=4gtv-4gtv074
-#EXTINF:-1,tvg-id="龍華卡通" tvg-name="龍華卡通" tvg-logo="https://epg.112114.eu.org/logo/龙华卡通台.png" group-title="台灣",龍華卡通
-https://www.567858.xyz/ofiii.php?id=litv-longturn01
 #EXTINF:-1,tvg-id="龍華電影" tvg-name="龍華電影" tvg-logo="https://epg.112114.eu.org/logo/龍華電影.png" group-title="台灣",龍華電影
 https://www.567858.xyz/ofiii.php?id=litv-longturn03
 #EXTINF:-1,tvg-id="龍華日韓" tvg-name="龍華日韓" tvg-logo="https://epg.112114.eu.org/logo/龍華日韓.png" group-title="台灣",龍華日韓
 https://www.567858.xyz/ofiii.php?id=litv-longturn11
 #EXTINF:-1,tvg-id="龍華偶像" tvg-name="龍華偶像" tvg-logo="https://epg.112114.eu.org/logo/龍華偶像.png" group-title="台灣",龍華偶像
 https://www.567858.xyz/ofiii.php?id=litv-longturn12
+#EXTINF:-1,tvg-id="龍華戲劇" tvg-name="龍華戲劇" tvg-logo="https://epg.112114.eu.org/logo/龍華戲劇.png" group-title="台灣",龍華戲劇
+https://www.567858.xyz/ofiii.php?id=litv-longturn18
+#EXTINF:-1,tvg-id="龍華經典" tvg-name="龍華經典" tvg-logo="https://epg.112114.eu.org/logo/龍華經典.png" group-title="台灣",龍華經典
+https://www.567858.xyz/ofiii.php?id=litv-longturn21
+#EXTINF:-1,tvg-id="龍華卡通" tvg-name="龍華卡通" tvg-logo="https://epg.112114.eu.org/logo/龙华卡通台.png" group-title="台灣",龍華卡通
+https://www.567858.xyz/ofiii.php?id=litv-longturn01
 #EXTINF:-1,tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://epg.112114.eu.org/logo/寰宇新聞台.png" group-title="台灣",寰宇新聞台
 https://www.567858.xyz/ofiii.php?id=litv-longturn14
 #EXTINF:-1,tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://epg.112114.eu.org/logo/寰宇新聞台灣台.png" group-title="台灣",寰宇新聞台灣台
 https://www.567858.xyz/ofiii.php?id=litv-longturn15
+#EXTINF:-1,tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://epg.112114.eu.org/logo/寰宇財經台.png" group-title="台灣",寰宇財經台
+https://www.567858.xyz/ofiii.php?id=litv-longturn23
+#EXTINF:-1,tvg-id="台灣戲劇台" tvg-name="台灣戲劇台" tvg-logo="https://epg.112114.eu.org/logo/台灣戲劇台.png" group-title="台灣",台灣戲劇台
+https://www.567858.xyz/ofiii.php?id=litv-longturn22
 #EXTINF:-1,tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://epg.112114.eu.org/logo/亞洲旅遊台.png" group-title="台灣",亞洲旅遊台
 https://www.567858.xyz/ofiii.php?id=litv-longturn17
 #EXTINF:-1,tvg-id="SMART知識台" tvg-name="SMART知識台" tvg-logo="https://epg.112114.eu.org/logo/SMART知識台.png" group-title="台灣",SMART知識台
 https://www.567858.xyz/ofiii.php?id=litv-longturn19
-#EXTINF:-1,tvg-id="龍華戲劇" tvg-name="龍華戲劇" tvg-logo="https://epg.112114.eu.org/logo/龍華戲劇.png" group-title="台灣",龍華戲劇
-https://www.567858.xyz/ofiii.php?id=litv-longturn18
 #EXTINF:-1,tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://epg.112114.eu.org/logo/ELTV生活英語台.png" group-title="台灣",ELTV生活英語台
 https://www.567858.xyz/ofiii.php?id=litv-longturn20
-#EXTINF:-1,tvg-id="龍華經典" tvg-name="龍華經典" tvg-logo="https://epg.112114.eu.org/logo/龍華經典.png" group-title="台灣",龍華經典
-https://www.567858.xyz/ofiii.php?id=litv-longturn21
-#EXTINF:-1,tvg-id="台灣戲劇台" tvg-name="台灣戲劇台" tvg-logo="https://epg.112114.eu.org/logo/台灣戲劇台.png" group-title="台灣",台灣戲劇台
-https://www.567858.xyz/ofiii.php?id=litv-longturn22
-#EXTINF:-1,tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://epg.112114.eu.org/logo/寰宇財經台.png" group-title="台灣",寰宇財經台
-https://www.567858.xyz/ofiii.php?id=litv-longturn23
 
 #EXTINF:-1,tvg-id="中天娛樂台" tvg-name="中天娛樂台" tvg-logo="https://epg.112114.eu.org/logo/中天娛樂台.png" group-title="台灣",中天娛樂台
 http://61.221.215.25:8800/hls/47/index.m3u8
