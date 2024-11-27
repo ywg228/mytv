@@ -3064,7 +3064,7 @@ http://38.180.7.185:4994/proxy?url=http%3A//38.180.7.185%3A5050/litv/4gtv-4gtv10
 http://38.180.7.185:4994/proxy?url=http%3A//38.180.7.185%3A5050/litv/4gtv-4gtv066
 #EXTINF:-1,tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://epg.112114.eu.org/logo/台視新聞.png" group-title="台灣",台視新聞
 http://38.180.7.185:4994/proxy?url=http%3A//38.180.7.185%3A5050/litv/4gtv-4gtv051
-#EXTINF:-1,tvg-id="台視財經" tvg-name="台視財經" tvg-logo="https://epg.112114.eu.org/logo/台視財經.png" group-title="台灣",台視財經
+#EXTINF:-1,tvg-id="台視財經" tvg-name="台視財經" tvg-logo="https://epg.112114.eu.org/logo/台视财经台.png" group-title="台灣",台視財經
 http://38.180.7.185:4994/proxy?url=http%3A//38.180.7.185%3A5050/litv/4gtv-4gtv056
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.eu.org/logo/TVBS.png" group-title="台灣",TVBS新聞台
 http://38.180.7.185:4994/proxy?url=http%3A//38.180.7.185%3A5050/litv/4gtv-4gtv072
@@ -3148,7 +3148,7 @@ http://38.180.7.185:4994/proxy?url=http%3A//38.180.7.185%3A5050/litv/litv-longtu
 http://38.180.7.185:4994/proxy?url=http%3A//38.180.7.185%3A5050/litv/litv-longturn21
 #EXTINF:-1,tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://epg.112114.eu.org/logo/靖洋戲劇台.png" group-title="台灣",靖洋戲劇台
 http://38.180.7.185:4994/proxy?url=http%3A//38.180.7.185%3A5050/litv/4gtv-4gtv045
-#EXTINF:-1,tvg-id="靖洋卡通台" tvg-name="靖洋卡通台" tvg-logo="https://epg.112114.eu.org/logo/靖洋卡通台.png" group-title="台灣",靖洋卡通台
+#EXTINF:-1,tvg-id="靖洋卡通台" tvg-name="靖洋卡通台" tvg-logo="https://epg.112114.eu.org/logo/靖洋卡通.png" group-title="台灣",靖洋卡通台
 http://38.180.7.185:4994/proxy?url=http%3A//38.180.7.185%3A5050/litv/4gtv-4gtv057
 #EXTINF:-1,tvg-id="公視戲劇台" tvg-name="公視戲劇台" tvg-logo="https://epg.112114.eu.org/logo/公視戲劇台.png" group-title="台灣",公視戲劇台
 http://38.180.7.185:4994/proxy?url=http%3A//38.180.7.185%3A5050/litv/4gtv-4gtv042
@@ -3176,7 +3176,7 @@ http://38.180.7.185:4994/proxy?url=http%3A//38.180.7.185%3A5050/litv/4gtv-4gtv01
 http://38.180.7.185:4994/proxy?url=http%3A//38.180.7.185%3A5050/litv/4gtv-4gtv076
 #EXTINF:-1,tvg-id="ELTV" tvg-name="ELTV" tvg-logo="https://epg.112114.eu.org/logo/ELTV.png" group-title="台灣",ELTV生活英語台
 http://38.180.7.185:4994/proxy?url=http%3A//38.180.7.185%3A5050/litv/litv-longturn20
-#EXTINF:-1,tvg-id="ELTA娛樂台" tvg-name="ELTA娛樂台" tvg-logo="https://epg.112114.eu.org/logo/ELTA娛樂台.png" group-title="台灣",ELTA娛樂台
+#EXTINF:-1,tvg-id="ELTA娛樂台" tvg-name="ELTA娛樂台" tvg-logo="https://epg.112114.eu.org/logo/愛爾達娛樂台.png" group-title="台灣",ELTA娛樂台
 http://38.180.7.185:4994/proxy?url=http%3A//38.180.7.185%3A5050/litv/4gtv-4gtv070
 #EXTINF:-1,tvg-id="CLASSICA古典樂" tvg-name="CLASSICA古典樂" tvg-logo="https://epg.112114.eu.org/logo/CLASSICA古典樂.png" group-title="台灣",CLASSICA古典樂
 http://38.180.7.185:4994/proxy?url=http%3A//38.180.7.185%3A5050/litv/4gtv-4gtv059
@@ -3202,7 +3202,7 @@ http://38.180.7.185:4994/proxy?url=http%3A//38.180.7.185%3A5050/litv/4gtv-4gtv04
 http://38.180.7.185:4994/proxy?url=http%3A//38.180.7.185%3A5050/litv/litv-ftv16
 #EXTINF:-1,tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://epg.112114.eu.org/logo/好消息2台.png" group-title="台灣",好消息2台
 http://38.180.7.185:4994/proxy?url=http%3A//38.180.7.185%3A5050/litv/litv-ftv17
-#EXTINF:-1,tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://epg.112114.eu.org/logo/國會頻道1.png" group-title="台灣",國會頻道1
+#EXTINF:-1,tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://epg.112114.eu.org/logo/国会频道1.png" group-title="台灣",國會頻道1
 http://38.180.7.185:4994/proxy?url=http%3A//38.180.7.185%3A5050/litv/4gtv-4gtv084
 #EXTINF:-1,tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://epg.112114.eu.org/logo/國會頻道2.png" group-title="台灣",國會頻道2
 http://38.180.7.185:4994/proxy?url=http%3A//38.180.7.185%3A5050/litv/4gtv-4gtv085
@@ -3220,7 +3220,7 @@ http://38.180.7.185:4994/proxy?url=http%3A//38.180.7.185%3A5050/litv/litv-longtu
 http://38.180.7.185:4994/proxy?url=http%3A//38.180.7.185%3A5050/litv/litv-longturn05
 #EXTINF:-1,tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://epg.112114.eu.org/logo/博斯高球二台.png" group-title="台灣",博斯高球二台
 http://38.180.7.185:4994/proxy?url=http%3A//38.180.7.185%3A5050/litv/litv-longturn06
-#EXTINF:-1,tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://epg.112114.eu.org/logo/博斯魅力台.png" group-title="台灣",博斯魅力台
+#EXTINF:-1,tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://epg.112114.eu.org/logo/博斯魅力.png" group-title="台灣",博斯魅力台
 http://38.180.7.185:4994/proxy?url=http%3A//38.180.7.185%3A5050/litv/litv-longturn04
 #EXTINF:-1,tvg-id="GINX Esports TV" tvg-name="GINX Esports TV" tvg-logo="https://epg.112114.eu.org/logo/GINXESPORTSTV.png" group-title="台灣",GINX Esports TV
 http://38.180.7.185:4994/proxy?url=http%3A//38.180.7.185%3A5050/litv/4gtv-4gtv053
