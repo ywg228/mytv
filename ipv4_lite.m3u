@@ -3307,16 +3307,18 @@ http://vpn.rogerxlj.top:9998/rtp/239.45.1.75:5140
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236300/index.m3u8
 #EXTINF:-1 tvg-id="IHOT爱体育" tvg-name="IHOT爱体育" tvg-logo="https://live.fanmingming.com/tv/IHOT爱体育.png" group-title="体育",iHOT爱体育
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230103/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",纬来体育
-https://cloud.yumixiu768.com/tmp/123.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",江苏体育休闲
-https://litchinews-tv-hls.jstv.com/litchinews-tv/jiangsuty.m3u8?sign=0c3a678778f9d5feffb542d134fc85f3&t=6719b208
+#EXTINF:-1 tvg-id="江苏体育" tvg-name="江苏体育" tvg-logo="https://epg.112114.eu.org/logo/江苏体育.png" group-title="体育",江苏体育休闲
+http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSTY/G_JSTY.m3u8
 #EXTINF:-1 tvg-id="安徽综艺体育" tvg-name="安徽综艺体育" tvg-logo="https://live.fanmingming.com/tv/安徽综艺体育.png" group-title="体育",安徽综艺体育
 http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="体育",五星体育
-http://vpn.rogerxlj.top:9998/rtp/239.45.3.210:5140
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000007
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="体育",五星体育
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000017540
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="体育",SiTV劲爆体育
-http://cg2.hunancatv.cn:9090/live/JBTY_8000.m3u8?t=iFP7s0%2BxWvKsKYAVfiFLDQ%3D%3D&u=HNTV01YU00021202&p=8&cid=10000053&pid=&l=1&d=48555E45F7FC&ip=192.168.197.129&n=JBTY_8000&errorcode=0&sid=DYT9nGNBW7tUWb0f%2FzzSag%3D%3D&r=20231212111133&e=20231212151133&nc=l6qeW1aLalqX&a=1111&pd=60&errorReason=0&v=2&project=WNTV&hlsSessionID=4379470835422695487&srchost=172.16.22.158:8060&gid=rGFt0Fb%2BHxCKBwwKEltdrg%3D%3D
+http://[2409:8087:3c02:21:0:1:0:1017]:6610/shandong_cabletv.live.zte.com/PLTV/88888888/SNM/CHANNEL00002026/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="体育",SiTV劲爆体育
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000008
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",Dubai Sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",Dubai Sports 3
@@ -3325,9 +3327,9 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
 
 
-#EXTINF:-1,tvg-id="遂宁综合" tvg-name="遂宁综合" tvg-logo="https://live.fanmingming.com/tv/遂宁综合.png" group-title="地方",遂宁综合
+#EXTINF:-1,tvg-id="遂宁综合" tvg-name="遂宁综合" tvg-logo="https://epg.112114.eu.org/logo/遂宁综合.png" group-title="地方",遂宁综合
 https://szyplaytv.snxw.com/live/xwzh/playlist.m3u8
-#EXTINF:-1,tvg-id="遂宁文化生活" tvg-name="遂宁文化生活" tvg-logo="https://live.fanmingming.com/tv/遂宁文化生活.png" group-title="地方",遂宁文化生活
+#EXTINF:-1,tvg-id="遂宁文化生活" tvg-name="遂宁文化生活" tvg-logo="https://epg.112114.eu.org/logo/遂宁文化生活.png" group-title="地方",遂宁文化生活
 https://szyplaytv.snxw.com/live/gggy/playlist.m3u8
 #EXTINF:-1,tvg-id="重庆新闻" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="地方",重庆新闻
 https://cqonsitecdn.cbgcloud.com/qf6jl2/tctiz9.m3u8
@@ -3357,7 +3359,7 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxggny
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxse
 #EXTINF:-1,tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="地方",江西教育
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxjy
-#EXTINF:-1,tvg-id="江西陶瓷" tvg-name="江西陶瓷" tvg-logo="https://live.fanmingming.com/tv/江西陶瓷.png" group-title="地方",江西陶瓷
+#EXTINF:-1,tvg-id="江西陶瓷" tvg-name="江西陶瓷" tvg-logo="https://epg.112114.eu.org/logo/陶瓷频道.png" group-title="地方",江西陶瓷
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=taoci
 
 
