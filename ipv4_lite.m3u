@@ -3525,7 +3525,7 @@ http://[2409:8087:3c02:21:0:1:0:1017]:6610/shandong_cabletv.live.zte.com/PLTV/88
 http://[2409:8087:3c02:21:0:1:0:1017]:6610/shandong_cabletv.live.zte.com/PLTV/88888888/SNM/CHANNEL00000332/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="其它",金鹰纪实
 http://[2409:8087:3c02:21:0:1:0:1017]:6610/shandong_cabletv.live.zte.com/PLTV/88888888/SNM/CHANNEL00000334/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="其它",北京卡酷少儿
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="其它",卡酷少儿
 http://[2409:8087:3c02:21:0:1:0:1017]:6610/shandong_cabletv.live.zte.com/PLTV/88888888/SNM/CHANNEL00000661/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="其它",金鹰卡通
 http://[2409:8087:3c02:21:0:1:0:1017]:6610/shandong_cabletv.live.zte.com/PLTV/88888888/SNM/CHANNEL00002027/index.m3u8?IASHttpSessionId=
