@@ -415,7 +415,7 @@ http://nas.hssvm.com:8888/rtp/225.1.1.140:5002
 http://nas.hssvm.com:8888/rtp/225.1.2.192:5002
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV-12社会与法
 http://nas.hssvm.com:8888/rtp/225.1.1.142:5002
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视" ,CCTV-13新闻,
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视" ,CCTV-13新闻
 http://nas.hssvm.com:8888/rtp/225.1.2.193:5002
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV-14少儿
 http://nas.hssvm.com:8888/rtp/225.1.1.144:5002
