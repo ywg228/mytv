@@ -2415,7 +2415,7 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010067/1.m3u8
 #EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://epg.112114.eu.org/logo/哈哈炫动.png" group-title="上海",哈哈炫动
 http://[2409:8087:74d9:21::6]/270000001128/9900000069/index.m3u8
 #EXTINF:-1,tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://epg.112114.eu.org/logo/纪实人文.png" group-title="上海",纪实人文
-http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002199/index.m3u8
+http://[2409:8087:74d9:21::6]/270000001128/9900000528/index.m3u8
 
 #EXTINF:-1 tvg-id="嘉定电视台" tvg-name="嘉定电视台" tvg-logo="https://epg.112114.eu.org/logo/嘉定电视台.png" group-title="上海",嘉定电视台
 https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
