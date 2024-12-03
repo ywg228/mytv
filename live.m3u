@@ -2761,11 +2761,11 @@ rtmp://f13h.mine.nu/sat/tv701
 rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1,tvg-id="緯來日本" tvg-name="緯來日本" tvg-logo="https://epg.112114.eu.org/logo/緯來日本.png" group-title="台灣",緯來日本台
 rtmp://f13h.mine.nu/sat/tv771
-#EXTINF:-1,tvg-id="MoMo綜合" tvg-name="MoMo綜合" tvg-logo="https://epg.112114.eu.org/logo/MoMo綜合.png" group-title="台灣",MoMo綜合
+#EXTINF:-1,tvg-id="MOMOTV" tvg-name="MOMOTV" tvg-logo="https://epg.112114.eu.org/logo/MOMOTV.png" group-title="台灣",MOMOTV綜合台
 rtmp://f13h.mine.nu/sat/tv761
-#EXTINF:-1,tvg-id="ELEVEN體育1" tvg-name="ELEVEN體育1" tvg-logo="https://epg.112114.eu.org/logo/ELEVEN體育1.png" group-title="台灣",ELEVEN體育1
+#EXTINF:-1,tvg-id="ELEVEN體育1台" tvg-name="ELEVEN體育1台" tvg-logo="https://epg.112114.eu.org/logo/ELEVEN體育1台.png" group-title="台灣",ELEVEN體育1台
 rtmp://f13h.mine.nu/sat/tv731
-#EXTINF:-1,tvg-id="ELEVEN體育2" tvg-name="ELEVEN體育2" tvg-logo="https://epg.112114.eu.org/logo/ELEVEN體育2.png" group-title="台灣",ELEVEN體育2
+#EXTINF:-1,tvg-id="ELEVEN體育2台" tvg-name="ELEVEN體育2台" tvg-logo="https://epg.112114.eu.org/logo/ELEVEN體育2台.png" group-title="台灣",ELEVEN體育2台
 rtmp://f13h.mine.nu/sat/tv741
 
 #EXTINF:-1,tvg-id="中天娛樂台" tvg-name="中天娛樂台" tvg-logo="https://epg.112114.eu.org/logo/中天娛樂台.png" group-title="台灣",中天娛樂台
