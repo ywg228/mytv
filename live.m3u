@@ -2743,6 +2743,31 @@ https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv084
 #EXTINF:-1,tvg-id="國會頻道2台" tvg-name="國會頻道2台" tvg-logo="https://epg.112114.eu.org/logo/國會頻道2.png" group-title="台灣",國會頻道2台
 https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv085
 
+#EXTINF:-1,tvg-id="民視" tvg-name="民視" tvg-logo="https://epg.112114.eu.org/logo/民視.png" group-title="台灣",民視
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1,tvg-id="台視" tvg-name="台視" tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="台灣",台視
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1,tvg-id="中視" tvg-name="中視" tvg-logo="https://epg.112114.eu.org/logo/中視.png" group-title="台灣",中視
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1,tvg-id="華視" tvg-name="華視" tvg-logo="https://epg.112114.eu.org/logo/華視.png" group-title="台灣",華視
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1,tvg-id="東森超視" tvg-name="東森超視" tvg-logo="https://epg.112114.eu.org/logo/東森超視.png" group-title="台灣",東森超視
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1,tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://epg.112114.eu.org/logo/非凡新聞台.png" group-title="台灣",非凡新聞台
+rtmp://f13h.mine.nu/sat/tv581
+#EXTINF:-1,tvg-id="緯來育樂" tvg-name="緯來育樂台" tvg-logo="https://epg.112114.eu.org/logo/緯來育樂.png" group-title="台灣",緯來育樂台
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1,tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://epg.112114.eu.org/logo/緯來體育.png" group-title="台灣",緯來體育台
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1,tvg-id="緯來日本" tvg-name="緯來日本" tvg-logo="https://epg.112114.eu.org/logo/緯來日本.png" group-title="台灣",緯來日本台
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1,tvg-id="MoMo綜合" tvg-name="MoMo綜合" tvg-logo="https://epg.112114.eu.org/logo/MoMo綜合.png" group-title="台灣",MoMo綜合
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1,tvg-id="ELEVEN體育1" tvg-name="ELEVEN體育1" tvg-logo="https://epg.112114.eu.org/logo/ELEVEN體育1.png" group-title="台灣",ELEVEN體育1
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1,tvg-id="ELEVEN體育2" tvg-name="ELEVEN體育2" tvg-logo="https://epg.112114.eu.org/logo/ELEVEN體育2.png" group-title="台灣",ELEVEN體育2
+rtmp://f13h.mine.nu/sat/tv741
+
 #EXTINF:-1,tvg-id="中天娛樂台" tvg-name="中天娛樂台" tvg-logo="https://epg.112114.eu.org/logo/中天娛樂台.png" group-title="台灣",中天娛樂台
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.eu.org/logo/TVBS.png" group-title="台灣",TVBS NEWS
