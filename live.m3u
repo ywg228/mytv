@@ -2437,7 +2437,7 @@ http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/TVBS.png" group-title="台灣",TVBS
 http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/TVBS.png" group-title="台灣",TVBS
-#EXTINF:-1,tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/東森新聞.png" group-title="台灣",東森新聞
+#EXTINF:-1,tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/東森新聞.png" group-title="台灣",東森新聞台
 http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 #EXTINF:-1,tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/寰宇新聞台.png" group-title="台灣",寰宇新聞台
 http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
@@ -2451,6 +2451,20 @@ http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 #EXTINF:-1,tvg-id="龍華日韓" tvg-name="龍華日韓" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/龍華日韓.png" group-title="台灣",龍華日韓台
 http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+#EXTINF:-1,tvg-id="龍華日韓" tvg-name="龍華日韓" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/龍華日韓.png" group-title="台灣",龍華日韓台
+http://cdn3.1678520.xyz/live/?id=lhrh
+#EXTINF:-1,tvg-id="龍華日韓" tvg-name="龍華日韓" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/龍華日韓.png" group-title="台灣",龍華日韓台
+http://cdn5.1689.us.kg/litv.php?id=litv-longturn11
+#EXTINF:-1,tvg-id="龍華電影" tvg-name="龍華電影" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/龍華電影.png" group-title="台灣",龍華電影台
+http://cdn5.1689.us.kg/litv.php?id=litv-longturn03
+#EXTINF:-1,tvg-id="龍華卡通" tvg-name="龍華卡通" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/龍華卡通.png" group-title="台灣",龍華卡通台
+http://cdn5.1689.us.kg/litv.php?id=litv-longturn01
+#EXTINF:-1,tvg-id="龍華偶像" tvg-name="龍華偶像" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/龍華偶像.png" group-title="台灣",龍華偶像台
+http://cdn5.1689.us.kg/litv.php?id=litv-longturn12
+#EXTINF:-1,tvg-id="龍華戲劇" tvg-name="龍華戲劇" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/龍華戲劇.png" group-title="台灣",龍華戲劇台
+http://cdn5.1689.us.kg/litv.php?id=litv-longturn18
+#EXTINF:-1,tvg-id="龍華經典" tvg-name="龍華經典" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/龍華經典.png" group-title="台灣",龍華經典台
+http://cdn5.1689.us.kg/litv.php?id=litv-longturn21
 
 #EXTINF:-1,tvg-id="民視" tvg-name="民視" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/民視.png" group-title="台灣",民視
 rtmp://f13h.mine.nu/sat/tv051
