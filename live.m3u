@@ -2653,14 +2653,8 @@ http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
 https://szyplaytv.snxw.com/live/xwzh/playlist.m3u8
 #EXTINF:-1,tvg-id="遂宁文化生活" tvg-name="遂宁文化生活" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/遂宁文化生活.png" group-title="地方",遂宁文化生活
 https://szyplaytv.snxw.com/live/gggy/playlist.m3u8
-#EXTINF:-1,tvg-id="重庆新闻" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.cn/tv/重庆新闻.png" group-title="地方",重庆新闻
-https://cqonsitecdn.cbgcloud.com/qf6jl2/tctiz9.m3u8
 #EXTINF:-1,tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://live.fanmingming.cn/tv/福建综合.png" group-title="地方",福建综合
 https://p2.vzan.com/slowlive/485365200293316089/live.m3u8
-#EXTINF:-1,tvg-id="晋江电视台" tvg-name="晋江电视台" tvg-logo="https://live.fanmingming.cn/tv/晋江电视台.png" group-title="地方",晋江电视台
-https://live.ijjnews.com/jjtv/sd/live.m3u8
-#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.cn/tv/广东珠江.png" group-title="地方",广东珠江
-http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011655
 #EXTINF:-1,tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://live.fanmingming.cn/tv/广州综合.png" group-title="地方",广州综合
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=gzzh
 #EXTINF:-1,tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://live.fanmingming.cn/tv/广州影视.png" group-title="地方",广州影视
@@ -2679,10 +2673,10 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxysly
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxggny
 #EXTINF:-1,tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.cn/tv/江西少儿.png" group-title="地方",江西少儿
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxse
-#EXTINF:-1,tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://live.fanmingming.cn/tv/江西教育.png" group-title="地方",江西教育
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxjy
 #EXTINF:-1,tvg-id="江西陶瓷" tvg-name="江西陶瓷" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/陶瓷频道.png" group-title="地方",江西陶瓷
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=taoci
+#EXTINF:-1,tvg-id="晋江电视台" tvg-name="晋江电视台" tvg-logo="https://live.fanmingming.cn/tv/晋江电视台.png" group-title="地方",晋江电视台
+https://live.ijjnews.com/jjtv/sd/live.m3u8
 
 
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="其它",北京纪实科教
