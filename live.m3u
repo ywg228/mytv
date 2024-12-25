@@ -2432,6 +2432,8 @@ rtmp://f13h.mine.nu/sat/tv091
 rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1,tvg-id="東森超視" tvg-name="東森超視" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/東森超視.png" group-title="台灣",東森超視
 rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1,tvg-id="東森超視" tvg-name="東森超視" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/東森超視.png" group-title="台灣",東森超視
+https://svip.high22-playback.com/20240921/11521_ad1cea45/2000k/hls/mixed.m3u8
 #EXTINF:-1,tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/非凡新聞台.png" group-title="台灣",非凡新聞台
 rtmp://f13h.mine.nu/sat/tv581
 #EXTINF:-1,tvg-id="緯來育樂" tvg-name="緯來育樂台" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/緯來育樂.png" group-title="台灣",緯來育樂台
