@@ -2687,20 +2687,27 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=taoci
 
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="其它",北京纪实科教
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.cn/tv/哒啵赛事.png" group-title="其它",哒啵赛事
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236207/index.m3u8
-#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.cn/tv/哈哈炫动.png" group-title="其它",哈哈炫动
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236296/index.m3u8
-#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.cn/tv/嘉佳卡通.png" group-title="其它",嘉佳卡通
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228593/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.cn/tv/优漫卡通.png" group-title="其它",优漫卡通
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228378/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="其它",北京纪实科教
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031204
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png" group-title="其它",卡酷少儿
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228375/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/金鹰卡通.png" group-title="其它",金鹰卡通
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228362/index.m3u8?fmt=ts2hls
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=7851974109718180595
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.cn/tv/金鹰纪实.png" group-title="其它",金鹰纪实
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.cn/tv/快乐垂钓.png" group-title="其它",快乐垂钓
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031206
 #EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://live.fanmingming.cn/tv/茶.png" group-title="其它",茶频道
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229404/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://live.fanmingming.cn/tv/茶.png" group-title="其它",茶频道
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031209
+#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://live.fanmingming.cn/tv/茶.png" group-title="其它",茶频道
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000070
+#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.cn/tv/中国天气.png" group-title="其它",中国天气
+http://php.jdshipin.com:8880/itv6s.php?cid=bestzb&id=5000000005000031974
+#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.cn/tv/中国天气.png" group-title="其它",中国天气
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000057
+
+#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.cn/tv/哒啵赛事.png" group-title="其它",哒啵赛事
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236207/index.m3u8
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="其它",睛彩竞技
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232629/357220554.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="其它",睛彩篮球
@@ -2717,15 +2724,4 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="其它",睛彩广场舞
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-
-#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.cn/tv/快乐垂钓.png" group-title="其它",快乐垂钓
-http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031206
-#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://live.fanmingming.cn/tv/茶.png" group-title="其它",茶频道
-http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031209
-#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://live.fanmingming.cn/tv/茶.png" group-title="其它",茶频道
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000070
-#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.cn/tv/中国天气.png" group-title="其它",中国天气
-http://php.jdshipin.com:8880/itv6s.php?cid=bestzb&id=5000000005000031974
-#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.cn/tv/中国天气.png" group-title="其它",中国天气
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000057
 
