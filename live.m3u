@@ -2412,9 +2412,9 @@ http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1,tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/東森新聞.png" group-title="台灣",東森新聞台
 http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-#EXTINF:-1,tvg-id="東森超視" tvg-name="東森超視" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/東森超視.png" group-title="台灣",東森超視
+#EXTINF:-1,tvg-id="東森超視" tvg-name="東森超視" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/東森超視.png" group-title="台灣",東森超視台
 rtmp://f13h.mine.nu/sat/tv331
-#EXTINF:-1,tvg-id="東森超視" tvg-name="東森超視" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/東森超視.png" group-title="台灣",東森超視
+#EXTINF:-1,tvg-id="東森超視" tvg-name="東森超視" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/東森超視.png" group-title="台灣",東森超視台
 https://svip.high22-playback.com/20240921/11521_ad1cea45/2000k/hls/mixed.m3u8
 #EXTINF:-1,tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/寰宇新聞台.png" group-title="台灣",寰宇新聞台
 http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
@@ -2458,7 +2458,7 @@ http://61.221.215.25:8800/hls/56/index.m3u8
 http://61.221.215.25:8800/hls/55/index.m3u8
 #EXTINF:-1,tvg-id="三立戲劇台" tvg-name="三立戲劇台" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/三立戲劇台.png" group-title="台灣",三立戲劇台
 http://61.221.215.25:8800/hls/41/index.m3u8
-#EXTINF:-1,tvg-id="MOMOTV" tvg-name="MOMOTV" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/MOMOTV.png" group-title="台灣",MOMOTV綜合台
+#EXTINF:-1,tvg-id="MOMOTV" tvg-name="MOMOTV" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/MOMOTV.png" group-title="台灣",MOMO綜合台
 rtmp://f13h.mine.nu/sat/tv761
 #EXTINF:-1,tvg-id="ELEVEN體育1台" tvg-name="ELEVEN體育1台" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/ELEVEN體育1台.png" group-title="台灣",ELEVEN體育1台
 rtmp://f13h.mine.nu/sat/tv731
