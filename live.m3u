@@ -2227,6 +2227,10 @@ http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic
 http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
 #EXTINF:-1,tvg-id="Astro劇集台" tvg-name="Astro劇集台" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/ASTRO劇集台.png" group-title="國際",Astro劇集台
 http://cdn9.1689.us.kg/smt1.1.php?id=Aodhd
+#EXTINF:-1,tvg-id="天映頻道" tvg-name="天映頻道" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/天映頻道.png" group-title="國際",天映頻道
+https://tv.iill.top/IPTV.php?id=typd
+#EXTINF:-1,tvg-id="天映經典" tvg-name="天映經典" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/天映經典.png" group-title="國際",天映經典
+https://tv.iill.top/IPTV.php?id=tyjd
 
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/翡翠台.png" group-title="國際",翡翠台
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
