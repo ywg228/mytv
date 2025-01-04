@@ -1739,77 +1739,6 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236278/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236300/index.m3u8
 #EXTINF:-1 tvg-id="NEWTV炫舞未来" tvg-name="NEWTV炫舞未来" tvg-logo="https://live.fanmingming.cn/tv/NEWTV炫舞未来.png" group-title="数字",NewTV炫舞未来
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236230/index.m3u8
-#EXTINF:-1 tvg-id="IHOT爱浪漫" tvg-name="IHOT爱浪漫" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱浪漫.png" group-title="数字",iHOT爱浪漫
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="IHOT爱院线" tvg-name="IHOT爱院线" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱院线.png" group-title="数字",iHOT爱院线
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="IHOT爱喜剧" tvg-name="IHOT爱喜剧" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱喜剧.png" group-title="数字",iHOT爱喜剧
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="IHOT爱科幻" tvg-name="IHOT爱科幻" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱科幻.png" group-title="数字",iHOT爱科幻
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="IHOT爱幼教" tvg-name="IHOT爱幼教" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱幼教.png" group-title="数字",iHOT爱幼教
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235622/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="IHOT爱玩具" tvg-name="IHOT爱玩具" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱玩具.png" group-title="数字",iHOT爱玩具
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235626/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="IHOT爱动漫" tvg-name="IHOT爱动漫" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱动漫.png" group-title="数字",iHOT爱动漫
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235628/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="IHOT爱科学" tvg-name="IHOT爱科学" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱科学.png" group-title="数字",iHOT爱科学
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235603/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="IHOT爱奇谈" tvg-name="IHOT爱奇谈" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱奇谈.png" group-title="数字",iHOT爱奇谈
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235605/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="IHOT爱赛车" tvg-name="IHOT爱赛车" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱赛车.png" group-title="数字",iHOT爱赛车
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
-#EXTINF:-1 tvg-id="IHOT爱旅行" tvg-name="IHOT爱旅行" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱旅行.png" group-title="数字",iHOT爱旅行
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
-#EXTINF:-1 tvg-id="IHOT爱历史" tvg-name="IHOT爱历史" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱历史.png" group-title="数字",iHOT爱历史
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/index.m3u8
-#EXTINF:-1 tvg-id="IHOT爱悬疑" tvg-name="IHOT爱悬疑" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱悬疑.png" group-title="数字",iHOT爱悬疑
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
-#EXTINF:-1 tvg-id="IHOT爱谍战" tvg-name="IHOT爱谍战" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱谍战.png" group-title="数字",iHOT爱谍战
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
-#EXTINF:-1 tvg-id="IHOT爱体育" tvg-name="IHOT爱体育" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱体育.png" group-title="数字",iHOT爱体育
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230103/index.m3u8
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.cn/tv/重温经典.png" group-title="数字",重温经典
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.cn/tv/重温经典.png" group-title="数字",重温经典
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236434/1/index.m3u8?fmt=ts2hls$720P
-#EXTINF:-1 tvg-id="少儿动漫" tvg-name="少儿动漫" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/少儿动漫.png" group-title="数字",少儿动漫
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228387/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="欧美影院" tvg-name="欧美影院" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/欧美影院.png" group-title="数字",欧美影院
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="亚洲影院" tvg-name="亚洲影院" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/亚洲影院.png" group-title="数字",亚洲影院
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="探索纪实" tvg-name="探索纪实" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/探索纪实.png" group-title="数字",探索纪实
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231385/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="探索纪实" tvg-name="探索纪实" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/探索纪实.png" group-title="数字",探索纪实
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228366/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="精品剧场" tvg-name="精品剧场" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/精品剧场.png" group-title="数字",精品剧场
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231330/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="风尚音乐" tvg-name="风尚音乐" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/风尚音乐.png" group-title="数字",风尚音乐
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228344/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="漫游世界" tvg-name="漫游世界" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/漫游世界.png" group-title="数字",漫游世界
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228581/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="高清娱乐" tvg-name="高清娱乐" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/高清娱乐.png" group-title="数字",高清娱乐
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228575/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="电子竞技" tvg-name="电子竞技" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/电子竞技.png" group-title="数字",电子竞技
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228572/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="热播精选" tvg-name="热播精选" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/热播精选.png" group-title="数字",热播精选
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236204/index.m3u8
-#EXTINF:-1 tvg-id="Drama" tvg-name="Drama" tvg-logo="" group-title="数字",Drama
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236208/index.m3u8
-#EXTINF:-1 tvg-id="Movie" tvg-name="Movie" tvg-logo="" group-title="数字",Movie
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236157/index.m3u8
-#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.cn/tv/黑莓电影.png" group-title="数字",黑莓电影
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236248/index.m3u8
-#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.cn/tv/黑莓动画.png" group-title="数字",黑莓动画
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236261/index.m3u8
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="数字",SiTV欢笑剧场
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230782/index.m3u8?fmt=ts2hls$4K
-#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.cn/tv/都市剧场.png" group-title="数字",SiTV都市剧场
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229280/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.cn/tv/游戏风云.png" group-title="数字",SiTV游戏风云
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229320/index.m3u8?fmt=ts2hls
-
 #EXTINF:-1 tvg-id="NEWTV东北热剧" tvg-name="NEWTV东北热剧" tvg-logo="https://live.fanmingming.cn/tv/NEWTV东北热剧.png" group-title="数字",NewTV东北热剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 #EXTINF:-1 tvg-id="NEWTV中国功夫" tvg-name="NEWTV中国功夫" tvg-logo="https://live.fanmingming.cn/tv/NEWTV中国功夫.png" group-title="数字",NewTV中国功夫
@@ -1858,17 +1787,36 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 #EXTINF:-1 tvg-id="NEWTV精品萌宠" tvg-name="NEWTV精品萌宠" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/精品萌宠.png" group-title="数字",NewTV精品萌宠
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.cn/tv/黑莓动画.png" group-title="数字",黑莓动画
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.cn/tv/黑莓电影.png" group-title="数字",黑莓电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.cn/tv/重温经典.png" group-title="数字",重温经典
-http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="数字",SiTV欢笑剧场
-http://111.29.9.34:6610/000000001000/1/1.m3u8?stbId=1&livemode=1&IASHttpSessionId=OTT760920241110011719006907&channel-id=bestzb&Contentid=5000000007000010001$4K
-
+#EXTINF:-1 tvg-id="IHOT爱浪漫" tvg-name="IHOT爱浪漫" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱浪漫.png" group-title="数字",iHOT爱浪漫
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="IHOT爱院线" tvg-name="IHOT爱院线" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱院线.png" group-title="数字",iHOT爱院线
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="IHOT爱喜剧" tvg-name="IHOT爱喜剧" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱喜剧.png" group-title="数字",iHOT爱喜剧
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="IHOT爱科幻" tvg-name="IHOT爱科幻" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱科幻.png" group-title="数字",iHOT爱科幻
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="IHOT爱幼教" tvg-name="IHOT爱幼教" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱幼教.png" group-title="数字",iHOT爱幼教
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235622/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="IHOT爱玩具" tvg-name="IHOT爱玩具" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱玩具.png" group-title="数字",iHOT爱玩具
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235626/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="IHOT爱动漫" tvg-name="IHOT爱动漫" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱动漫.png" group-title="数字",iHOT爱动漫
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235628/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="IHOT爱科学" tvg-name="IHOT爱科学" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱科学.png" group-title="数字",iHOT爱科学
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235603/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="IHOT爱奇谈" tvg-name="IHOT爱奇谈" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱奇谈.png" group-title="数字",iHOT爱奇谈
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235605/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="IHOT爱赛车" tvg-name="IHOT爱赛车" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱赛车.png" group-title="数字",iHOT爱赛车
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
+#EXTINF:-1 tvg-id="IHOT爱旅行" tvg-name="IHOT爱旅行" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱旅行.png" group-title="数字",iHOT爱旅行
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
+#EXTINF:-1 tvg-id="IHOT爱历史" tvg-name="IHOT爱历史" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱历史.png" group-title="数字",iHOT爱历史
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/index.m3u8
+#EXTINF:-1 tvg-id="IHOT爱悬疑" tvg-name="IHOT爱悬疑" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱悬疑.png" group-title="数字",iHOT爱悬疑
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
+#EXTINF:-1 tvg-id="IHOT爱谍战" tvg-name="IHOT爱谍战" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱谍战.png" group-title="数字",iHOT爱谍战
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
+#EXTINF:-1 tvg-id="IHOT爱体育" tvg-name="IHOT爱体育" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱体育.png" group-title="数字",iHOT爱体育
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230103/index.m3u8
 #EXTINF:-1,tvg-id="爱喜剧" tvg-name="爱喜剧" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/爱喜剧.png" group-title="数字",iHOT爱喜剧
 http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000010630
 #EXTINF:-1,tvg-id="爱科幻" tvg-name="爱科幻" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/爱科幻.png" group-title="数字",iHOT爱科幻
@@ -1909,6 +1857,54 @@ http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000270630
 http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000280630
 #EXTINF:-1,tvg-id="爱体育" tvg-name="爱体育" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/爱体育.png" group-title="数字",iHOT爱体育
 http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000290630
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="数字",SiTV欢笑剧场
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230782/index.m3u8?fmt=ts2hls$4K
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.cn/tv/都市剧场.png" group-title="数字",SiTV都市剧场
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229280/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.cn/tv/游戏风云.png" group-title="数字",SiTV游戏风云
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229320/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="数字",SiTV欢笑剧场
+http://111.29.9.34:6610/000000001000/1/1.m3u8?stbId=1&livemode=1&IASHttpSessionId=OTT760920241110011719006907&channel-id=bestzb&Contentid=5000000007000010001$4K
+
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.cn/tv/重温经典.png" group-title="数字",重温经典
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.cn/tv/重温经典.png" group-title="数字",重温经典
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+#EXTINF:-1 tvg-id="少儿动漫" tvg-name="少儿动漫" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/少儿动漫.png" group-title="数字",少儿动漫
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228387/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="欧美影院" tvg-name="欧美影院" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/欧美影院.png" group-title="数字",欧美影院
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="亚洲影院" tvg-name="亚洲影院" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/亚洲影院.png" group-title="数字",亚洲影院
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="探索纪实" tvg-name="探索纪实" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/探索纪实.png" group-title="数字",探索纪实
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231385/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="探索纪实" tvg-name="探索纪实" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/探索纪实.png" group-title="数字",探索纪实
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228366/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="精品剧场" tvg-name="精品剧场" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/精品剧场.png" group-title="数字",精品剧场
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231330/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="风尚音乐" tvg-name="风尚音乐" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/风尚音乐.png" group-title="数字",风尚音乐
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228344/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="漫游世界" tvg-name="漫游世界" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/漫游世界.png" group-title="数字",漫游世界
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228581/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="高清娱乐" tvg-name="高清娱乐" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/高清娱乐.png" group-title="数字",高清娱乐
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228575/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="电子竞技" tvg-name="电子竞技" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/电子竞技.png" group-title="数字",电子竞技
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228572/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="热播精选" tvg-name="热播精选" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/热播精选.png" group-title="数字",热播精选
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236204/index.m3u8
+#EXTINF:-1 tvg-id="Drama" tvg-name="Drama" tvg-logo="" group-title="数字",Drama
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236208/index.m3u8
+#EXTINF:-1 tvg-id="Movie" tvg-name="Movie" tvg-logo="" group-title="数字",Movie
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236157/index.m3u8
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.cn/tv/黑莓电影.png" group-title="数字",黑莓电影
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236248/index.m3u8
+#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.cn/tv/黑莓动画.png" group-title="数字",黑莓动画
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236261/index.m3u8
+#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.cn/tv/黑莓动画.png" group-title="数字",黑莓动画
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.cn/tv/黑莓电影.png" group-title="数字",黑莓电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+
 #EXTINF:-1,tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://live.fanmingming.cn/tv/华数4K.png" group-title="数字",华数4K影视
 http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000003000004748
 #EXTINF:-1,tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://raw.gitmirror.com/sparkssssssssss/epg/main/logo/精彩影视.png" group-title="数字",精彩影视
