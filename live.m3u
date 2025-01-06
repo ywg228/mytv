@@ -64,10 +64,18 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236181/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236200/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="央视",CCTV-4K超高清
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视",CCTV-1综合
+http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8$4K
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视",CCTV-3综艺
+http://223.105.252.59/PLTV/4/224/3221228499/index.m3u8$4K
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视",CCTV-5体育
+http://223.105.252.61/PLTV/4/224/3221228502/index.m3u8$4K
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视",CCTV-16奥林匹克
+http://223.105.252.59/PLTV/4/224/3221228314/index.m3u8$4K
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="央视",CCTV-4K超高清
-http://223.105.252.60/PLTV/4/224/3221228472/index.m3u8?servicetype=1
+http://223.105.252.60/PLTV/4/224/3221228472/index.m3u8
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.cn/tv/CCTV8K.png" group-title="央视",CCTV-8K超高清
-http://223.105.252.57/PLTV/3/224/3221228165/index.m3u8?servicetype=1
+http://223.105.252.57/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/高尔夫网球.png" group-title="央视",高尔夫网球
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232630/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视",CGTN
@@ -267,16 +275,6 @@ https://hc73k3dhwo5gfkt.wcetv.com/hls/cgtn.m3u8
 https://hc73k3dhwo5gfkt.wcetv.com/hls/cgtnd.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视",CCTV-4美洲
 https://hc73k3dhwo5gfkt.wcetv.com/hls/wcetv318.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视",CCTV-1综合
-http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8?servicetype=1$4K
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视",CCTV-3综艺
-http://223.105.252.59/PLTV/4/224/3221228499/index.m3u8?servicetype=1$4K
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视",CCTV-5体育
-http://223.105.252.61/PLTV/4/224/3221228502/index.m3u8?servicetype=1$4K
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视",CCTV-8电视剧
-http://223.105.252.57/PLTV/3/224/3221228165/index.m3u8?servicetype=1$4K
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视",CCTV-16奥林匹克
-http://223.105.252.59/PLTV/4/224/3221228314/index.m3u8?servicetype=1$4K
 
 
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视",浙江卫视
